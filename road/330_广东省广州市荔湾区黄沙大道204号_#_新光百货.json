@@ -1,0 +1,80 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 1,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "originInfo": {
+      "area_id": 257,
+      "wd": "广东省广州市荔湾区黄沙大道204号",
+      "uid": ""
+    },
+    "destinationInfo": {
+      "area_id": 257,
+      "wd": "新光百货",
+      "uid": ""
+    },
+    "origin": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "黄沙大道204号",
+          "address": "荔湾区",
+          "location": {
+            "lng": 113.23698132816,
+            "lat": 23.127586157612
+          }
+        }
+      ]
+    },
+    "destination": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "新光百货",
+          "address": "广州市荔湾区康王中路666号",
+          "uid": "fd13a3f21b8ae3e3b1077d54",
+          "location": {
+            "lng": 113.25464497889,
+            "lat": 23.130209444354
+          }
+        },
+        {
+          "name": "新光百货(海珠店)",
+          "address": "东晓南路1290号新都荟广场1-3楼(东晓南侧)",
+          "uid": "f4d611fe387b9e226b49f387",
+          "telephone": "15876500260",
+          "location": {
+            "lng": 113.29889937101,
+            "lat": 23.079085271505
+          }
+        },
+        {
+          "name": "新光百货床品/家居生活馆",
+          "address": "广东省广州市荔湾区康王中路280附近",
+          "uid": "dc870b22c58852424107c162",
+          "location": {
+            "lng": 113.25373517507,
+            "lat": 23.130354345514
+          }
+        },
+        {
+          "name": "星光汇摩登百货",
+          "address": "",
+          "uid": "3cccb694f12ba83d97031940",
+          "location": {
+            "lng": 113.21044700036,
+            "lat": 23.392485022632
+          }
+        }
+      ]
+    }
+  }
+}

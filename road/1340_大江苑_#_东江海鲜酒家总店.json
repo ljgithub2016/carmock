@@ -1,0 +1,109 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 2,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "routes": [
+      {
+        "distance": 591,
+        "duration": 136,
+        "steps": [
+          {
+            "area": 0,
+            "direction": 3,
+            "distance": 441,
+            "duration": 116,
+            "instructions": "从起点\u003c/b\u003e向正东方向出发,沿南贤大街\u003c/b\u003e行驶440米,右转\u003c/b\u003e进入广州大道南\u003c/b\u003e",
+            "path": "113.31772453077,23.105898289243;113.31869820411,23.105691201895;113.31961160115,23.10552524924;113.31974212494,23.105503061263;113.31994280639,23.105499654121;113.32019370312,23.10552524924;113.32036420151,23.105622228108;113.320434449,23.10563103681;113.32089599837,23.105673002791;113.32132754433,23.105655634694;113.32159847328,23.105651064141;113.32196974294,23.105624804238",
+            "pois": [],
+            "turn": 3,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.31772453077,
+              "lat": 23.105898289243
+            },
+            "stepDestinationLocation": {
+              "lng": 113.32196983277,
+              "lat": 23.105624388733
+            },
+            "stepOriginInstruction": "从起点向正东方向出发 - 150米",
+            "stepDestinationInstruction": "右转进入广州大道南 - 150米",
+            "traffic_condition": 0
+          },
+          {
+            "area": 0,
+            "direction": 6,
+            "distance": 150,
+            "duration": 20,
+            "instructions": "沿广州大道南\u003c/b\u003e行驶150米,到达终点\u003c/b\u003e",
+            "path": "113.32191009546,23.105095533116;113.32183077508,23.104267176777",
+            "pois": [],
+            "turn": 0,
+            "type": 3,
+            "stepOriginLocation": {
+              "lng": 113.32196983277,
+              "lat": 23.105624388733
+            },
+            "stepDestinationLocation": {
+              "lng": 113.32183068525,
+              "lat": 23.104267010574
+            },
+            "stepDestinationInstruction": "到达终点",
+            "traffic_condition": 1
+          }
+        ],
+        "toll": 0,
+        "originLocation": {
+          "lng": 113.31772453077,
+          "lat": 23.105898289243
+        },
+        "destinationLocation": {
+          "lng": 113.32183068525,
+          "lat": 23.104267010574
+        }
+      }
+    ],
+    "origin": {
+      "area_id": 257,
+      "bid": "18011736939723489279",
+      "cname": "广州市",
+      "uid": "0523a14161d85f1db23c8174",
+      "wd": "大江苑",
+      "originPt": {
+        "lng": 113.31772767483,
+        "lat": 23.105905435911
+      }
+    },
+    "destination": {
+      "area_id": 257,
+      "bid": "1265744063475220479",
+      "cname": "广州市",
+      "uid": "0dc3d82ddab3437574e5b694",
+      "wd": "东江海鲜酒家总店",
+      "destinationPt": {
+        "lng": 113.32182394796,
+        "lat": 23.104268340203
+      }
+    },
+    "taxi": {
+      "detail": [
+        {
+          "desc": "全天",
+          "km_price": "2.6",
+          "start_price": "10.0",
+          "total_price": "10"
+        }
+      ],
+      "distance": 591,
+      "duration": 137,
+      "remark": "全程0.6公里;2.5公里起步；燃油附加费0.0元；里程超过35.0公里，超过部分每公里收3.9元。"
+    },
+    "traffic_condition": 1
+  }
+}

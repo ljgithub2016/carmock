@@ -1,0 +1,210 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 2,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "routes": [
+      {
+        "distance": 860,
+        "duration": 142,
+        "steps": [
+          {
+            "area": 0,
+            "direction": 8,
+            "distance": 16,
+            "duration": 16,
+            "instructions": "从起点\u003c/b\u003e向西南方向出发,沿原道路\u003c/b\u003e行驶20米,由环岛走第1出口\u003c/b\u003e进入环市东路\u003c/b\u003e",
+            "path": "113.29982812908,23.141465732305;113.29982812908,23.141465732305;113.2998081867,23.141456012118;113.29977818329,23.141436405584;113.2997382087,23.141426934631;113.29970820529,23.141397358666",
+            "pois": [],
+            "turn": 14,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.29982812908,
+              "lat": 23.141465732305
+            },
+            "stepDestinationLocation": {
+              "lng": 113.29970784597,
+              "lat": 23.14139710943
+            },
+            "stepOriginInstruction": "从起点向西南方向出发 - 650米",
+            "stepDestinationInstruction": "由环岛走第1出口进入环市东路 - 650米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 9,
+            "distance": 652,
+            "duration": 62,
+            "instructions": "沿环市东路\u003c/b\u003e行驶480米,过左侧的广州易尚国泰大酒店-商务中心\u003c/font\u003e\u003c/b\u003e约170米后,右转\u003c/b\u003e",
+            "path": "113.29952737639,23.141399186394;113.29928690001,23.141441888768;113.29882597945,23.141506939244;113.2985855929,23.141549475425;113.298415364,23.141571241982;113.29824504528,23.141503117633;113.2979945977,23.141535684399;113.29791455868,23.141546484601;113.29712315153,23.14170416744;113.29622161212,23.141862348561;113.29598131539,23.141904386159;113.29584117974,23.141935540497;113.29552075416,23.141998181463;113.29466951986,23.142214849194;113.29423896203,23.142317949013;113.2939386585,23.142440073594;113.29382861607,23.142490834186;113.29373860586,23.142511437498;113.29349839897,23.142593019935",
+            "pois": [
+              {
+                "detail": {
+                  "instructions": "",
+                  "position": 0
+                },
+                "location": {
+                  "lng": 113.29498868781,
+                  "lat": 23.141772374764
+                },
+                "name": "广州易尚国泰大酒店-商务中心",
+                "type": 106
+              }
+            ],
+            "turn": 3,
+            "type": 3,
+            "stepOriginLocation": {
+              "lng": 113.29970784597,
+              "lat": 23.14139710943
+            },
+            "stepDestinationLocation": {
+              "lng": 113.29349678202,
+              "lat": 23.142593019935
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "右转 - 50米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 0,
+            "distance": 50,
+            "duration": 25,
+            "instructions": "行驶50米,左转\u003c/b\u003e进入环市东路辅路\u003c/b\u003e",
+            "path": "113.29349678202,23.142693045583;113.29314644287,23.142835274614",
+            "pois": [],
+            "turn": 7,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.29349678202,
+              "lat": 23.142593019935
+            },
+            "stepDestinationLocation": {
+              "lng": 113.29314635304,
+              "lat": 23.142835191537
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "左转进入环市东路辅路 - 10米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 10,
+            "distance": 11,
+            "duration": 7,
+            "instructions": "沿环市东路辅路\u003c/b\u003e行驶10米,右转\u003c/b\u003e进入环市东路\u003c/b\u003e",
+            "path": "113.2930462818,23.142875816507",
+            "pois": [],
+            "turn": 3,
+            "type": 11,
+            "stepOriginLocation": {
+              "lng": 113.29314635304,
+              "lat": 23.142835191537
+            },
+            "stepDestinationLocation": {
+              "lng": 113.2930462818,
+              "lat": 23.142875816507
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "右转进入环市东路 - 60米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 0,
+            "distance": 61,
+            "duration": 17,
+            "instructions": "沿环市东路\u003c/b\u003e行驶60米,左转\u003c/b\u003e",
+            "path": "113.29306631402,23.142985728172;113.29304655129,23.143425872387",
+            "pois": [],
+            "turn": 7,
+            "type": 21,
+            "stepOriginLocation": {
+              "lng": 113.2930462818,
+              "lat": 23.142875816507
+            },
+            "stepDestinationLocation": {
+              "lng": 113.29304646146,
+              "lat": 23.143425872387
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "左转 - 70米",
+            "traffic_condition": 0
+          },
+          {
+            "area": 0,
+            "direction": 10,
+            "distance": 70,
+            "duration": 12,
+            "instructions": "继续沿环市东路\u003c/b\u003e行驶70米,到达终点\u003c/b\u003e",
+            "path": "113.29291638683,23.143506623489;113.29241594083,23.143649516264",
+            "pois": [],
+            "turn": 0,
+            "type": 21,
+            "stepOriginLocation": {
+              "lng": 113.29304646146,
+              "lat": 23.143425872387
+            },
+            "stepDestinationLocation": {
+              "lng": 113.292415851,
+              "lat": 23.143649516264
+            },
+            "stepDestinationInstruction": "到达终点",
+            "traffic_condition": 0
+          }
+        ],
+        "toll": 0,
+        "originLocation": {
+          "lng": 113.29982812908,
+          "lat": 23.141465732305
+        },
+        "destinationLocation": {
+          "lng": 113.292415851,
+          "lat": 23.143649516264
+        }
+      }
+    ],
+    "origin": {
+      "area_id": 257,
+      "bid": "10220617",
+      "cname": "广州市",
+      "uid": "e9f07ce913cc58556c4760e7",
+      "wd": "原道路",
+      "originPt": {
+        "lng": 113.29982444603,
+        "lat": 23.141459501416
+      }
+    },
+    "destination": {
+      "area_id": 257,
+      "bid": "1265610996798455807",
+      "cname": "广州市",
+      "uid": "a74481d667944d5ff503b81f",
+      "wd": "白云宾馆(广州)",
+      "destinationPt": {
+        "lng": 113.29242240863,
+        "lat": 23.143661063987
+      }
+    },
+    "taxi": {
+      "detail": [
+        {
+          "desc": "全天",
+          "km_price": "2.6",
+          "start_price": "10.0",
+          "total_price": "10"
+        }
+      ],
+      "distance": 860,
+      "duration": 143,
+      "remark": "全程0.9公里;2.5公里起步；燃油附加费0.0元；里程超过35.0公里，超过部分每公里收3.9元。"
+    },
+    "traffic_condition": 1
+  }
+}

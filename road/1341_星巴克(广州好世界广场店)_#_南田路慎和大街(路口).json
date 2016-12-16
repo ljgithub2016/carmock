@@ -1,0 +1,54 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 1,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "originInfo": {
+      "area_id": 257,
+      "wd": "星巴克(广州好世界广场店)",
+      "uid": ""
+    },
+    "destinationInfo": {
+      "area_id": 257,
+      "wd": "南田路慎和大街(路口)",
+      "uid": ""
+    },
+    "origin": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "星巴克(广州好世界广场店)",
+          "address": "环市东路362-363号好世界广场首层101-102B二楼203A号铺",
+          "uid": "3f9337d61085eaaaf7231035",
+          "telephone": "(020)83752196",
+          "location": {
+            "lng": 113.29130428776,
+            "lat": 23.142574992048
+          }
+        }
+      ]
+    },
+    "destination": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "南田路/慎和大街(路口)",
+          "address": "广东省广州市海珠区",
+          "uid": "c1653405185b3e78ab175ad7",
+          "location": {
+            "lng": 113.27479918165,
+            "lat": 23.106081360173
+          }
+        }
+      ]
+    }
+  }
+}

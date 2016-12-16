@@ -1,0 +1,67 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 1,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "originInfo": {
+      "area_id": 257,
+      "wd": "西朗地铁站-A口",
+      "uid": ""
+    },
+    "destinationInfo": {
+      "area_id": 257,
+      "wd": "佛罗伦萨小镇",
+      "uid": ""
+    },
+    "origin": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "西朗地铁站-A口",
+          "uid": "5329b02008d54535077ce8fc",
+          "location": {
+            "lng": 113.23917031903,
+            "lat": 23.070588555717
+          }
+        }
+      ]
+    },
+    "destination": {
+      "cityName": "广州市",
+      "listType": 1,
+      "content": [
+        {
+          "name": "天津市",
+          "number": 296
+        },
+        {
+          "name": "上海市",
+          "number": 220
+        },
+        {
+          "name": "佛山市",
+          "number": 60
+        },
+        {
+          "name": "鄂州市",
+          "number": 1
+        },
+        {
+          "name": "呼伦贝尔市",
+          "number": 1
+        },
+        {
+          "name": "邯郸市",
+          "number": 1
+        }
+      ]
+    }
+  }
+}

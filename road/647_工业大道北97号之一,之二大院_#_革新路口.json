@@ -1,0 +1,35 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 2,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "origin": {
+      "area_id": 257,
+      "cname": "广州市",
+      "uid": "",
+      "wd": "",
+      "originPt": {
+        "lng": 2.8908711447769e-9,
+        "lat": -3.067393572659e-8
+      }
+    },
+    "destination": {
+      "area_id": 257,
+      "bid": "32267337683987551",
+      "bus_stop": 1,
+      "cname": "广州市",
+      "uid": "b689712d4d40935a5fd4fec3",
+      "wd": "革新路口",
+      "destinationPt": {
+        "lng": 113.26045171554,
+        "lat": 23.103487180822
+      }
+    }
+  }
+}

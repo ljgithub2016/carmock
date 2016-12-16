@@ -1,0 +1,83 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 1,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "originInfo": {
+      "area_id": 257,
+      "wd": "宝贝城",
+      "uid": ""
+    },
+    "destinationInfo": {
+      "area_id": 257,
+      "wd": "广州半岛游艇俱乐部酒店",
+      "uid": ""
+    },
+    "origin": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "宝贝城",
+          "address": "越秀中路60号东越雅轩1-2楼(奥龙堡斜对面)",
+          "uid": "f14e6d5f64d0d36b46e274fc",
+          "telephone": "(020)83028388",
+          "location": {
+            "lng": 113.28496216103,
+            "lat": 23.130325099421
+          }
+        },
+        {
+          "name": "广州宝贝城股份有限公司",
+          "address": "沿江中路298号江湾新城2楼",
+          "uid": "b235eea735b5c9aa5fbe8694",
+          "location": {
+            "lng": 113.28400142329,
+            "lat": 23.121249276592
+          }
+        }
+      ]
+    },
+    "destination": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "广州半岛游艇俱乐部酒店",
+          "address": "广州市滨江东路81号",
+          "uid": "680fb703683703858bb9885c",
+          "telephone": "(020)34280123",
+          "location": {
+            "lng": 113.30398458867,
+            "lat": 23.109475813459
+          }
+        },
+        {
+          "name": "半岛游艇会酒店-自助餐厅",
+          "address": "广州海珠区滨江东路81号4楼(近中大北门)",
+          "uid": "f9fd606266bd78060e0e6bbb",
+          "telephone": "(020)34280190",
+          "location": {
+            "lng": 113.30398449884,
+            "lat": 23.109476228952
+          }
+        },
+        {
+          "name": "半岛游艇会酒店停车场-出入口",
+          "address": "广州市海珠区",
+          "uid": "214d80d94d37b5b8a3acc4cc",
+          "location": {
+            "lng": 113.30421707014,
+            "lat": 23.109616416144
+          }
+        }
+      ]
+    }
+  }
+}

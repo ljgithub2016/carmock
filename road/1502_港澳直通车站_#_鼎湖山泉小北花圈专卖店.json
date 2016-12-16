@@ -1,0 +1,143 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 1,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "originInfo": {
+      "area_id": 257,
+      "wd": "港澳直通车站",
+      "uid": ""
+    },
+    "destinationInfo": {
+      "area_id": 257,
+      "wd": "鼎湖山泉小北花圈专卖店",
+      "uid": ""
+    },
+    "origin": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "港澳直通车站",
+          "address": "沿江东路466号大沙头游船码头售票大厅金航游轮公司业务室",
+          "uid": "55539b57acb89a0296f08c4c",
+          "telephone": "(020)83050765",
+          "location": {
+            "lng": 113.29215273731,
+            "lat": 23.118951203764
+          }
+        }
+      ]
+    },
+    "destination": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "鼎湖山泉",
+          "address": "广州市越秀区",
+          "uid": "4a09ea962d3dfbceb6f42f74",
+          "location": {
+            "lng": 113.28151697974,
+            "lat": 23.127825033145
+          }
+        },
+        {
+          "name": "鼎湖山泉小北花圈专卖店",
+          "address": "越秀北路434号102房",
+          "uid": "9abd0926d542fdce52e5c512",
+          "telephone": "(020)83545025",
+          "location": {
+            "lng": 113.27942644316,
+            "lat": 23.141984473562
+          }
+        },
+        {
+          "name": "鼎湖山泉(东关汛)",
+          "address": "东昌南街36号103房(近中山三路)",
+          "uid": "efecbe1c2f4001df306212c5",
+          "telephone": "(020)83836626,(020)87659710",
+          "location": {
+            "lng": 113.28786314884,
+            "lat": 23.130380102011
+          }
+        },
+        {
+          "name": "鼎湖山泉(越秀北路)",
+          "address": "广东省广州市越秀区越华路28号",
+          "uid": "87cef0deafac4180715e80a0",
+          "location": {
+            "lng": 113.27718301498,
+            "lat": 23.135700871592
+          }
+        },
+        {
+          "name": "鼎湖山泉(飞鹅西路)",
+          "address": "广州市白云区飞鹅西路22号",
+          "uid": "7bcc6a86dab908515e0d02be",
+          "telephone": "4001000400",
+          "location": {
+            "lng": 113.27213902954,
+            "lat": 23.160069777426
+          }
+        },
+        {
+          "name": "鼎湖山泉专卖店(麓苑路店)",
+          "address": "越秀区麊苑路34号首03铺",
+          "uid": "0da647842fb30d343a13fdd8",
+          "telephone": "(020)83587789",
+          "location": {
+            "lng": 113.29094595369,
+            "lat": 23.147016922682
+          }
+        },
+        {
+          "name": "鼎湖山泉桶装水(百灵路水店)",
+          "address": "越秀区迎宾路商业街1号铺",
+          "uid": "82db5cade5ac4afb8c1a89b5",
+          "telephone": "(020)83323291",
+          "location": {
+            "lng": 113.26713259327,
+            "lat": 23.135981439655
+          }
+        },
+        {
+          "name": "鼎湖山泉桶装水(麓景西水店)",
+          "address": "下塘新村街62号1楼之四(近麓景西路)",
+          "uid": "de7ee570614bb70572455bbd",
+          "telephone": "(020)83505291",
+          "location": {
+            "lng": 113.28212935461,
+            "lat": 23.151131482402
+          }
+        },
+        {
+          "name": "鼎湖山泉桶装水(横枝岗水店)",
+          "address": "横枝岗路9号附近",
+          "uid": "efa2a7db68bcbd46a5da39b1",
+          "telephone": "(020)83490105",
+          "location": {
+            "lng": 113.29090310452,
+            "lat": 23.151186974793
+          }
+        },
+        {
+          "name": "鼎湖山泉桶装水(盘福路水店)",
+          "address": "朱紫后街29号之四铺（近盘福路）",
+          "uid": "85780cbc63240d4f58f6bea2",
+          "telephone": "(020)81361825",
+          "location": {
+            "lng": 113.26415273424,
+            "lat": 23.142251901998
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 2,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "routes": [
+      {
+        "distance": 489,
+        "duration": 64,
+        "steps": [
+          {
+            "area": 0,
+            "direction": 3,
+            "distance": 124,
+            "duration": 16,
+            "instructions": "从起点\u003c/b\u003e向正东方向出发,行驶120米,右转\u003c/b\u003e进入杨青路\u003c/b\u003e",
+            "path": "113.39278074085,23.103317319599;113.39390820409,23.103260145127;113.39397809226,23.103260893049",
+            "pois": [],
+            "turn": 3,
+            "type": 21,
+            "stepOriginLocation": {
+              "lng": 113.39278074085,
+              "lat": 23.103317319599
+            },
+            "stepDestinationLocation": {
+              "lng": 113.39397800243,
+              "lat": 23.103260809947
+            },
+            "stepOriginInstruction": "从起点向正东方向出发 - 360米",
+            "stepDestinationInstruction": "右转进入杨青路 - 360米",
+            "traffic_condition": 0
+          },
+          {
+            "area": 0,
+            "direction": 7,
+            "distance": 364,
+            "duration": 37,
+            "instructions": "沿杨青路\u003c/b\u003e行驶360米,左转\u003c/b\u003e进入石基路\u003c/b\u003e",
+            "path": "113.39372908197,23.102768177722;113.39351007509,23.10233587648;113.39335080552,23.102024239764;113.39328127668,23.101843573237;113.39322171902,23.101673045085;113.3931222766,23.101422072454;113.39293327312,23.100930098239;113.39280400696,23.100558706361;113.3926747408,23.100207341597",
+            "pois": [],
+            "turn": 7,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.39397800243,
+              "lat": 23.103260809947
+            },
+            "stepDestinationLocation": {
+              "lng": 113.39267411198,
+              "lat": 23.100206676762
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "左转进入石基路 - 10米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 0,
+            "distance": 1,
+            "duration": 10,
+            "instructions": "沿石基路\u003c/b\u003e行驶10米,到达终点\u003c/b\u003e",
+            "path": "113.39267411198,23.100196621135",
+            "pois": [],
+            "turn": 0,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.39267411198,
+              "lat": 23.100206676762
+            },
+            "stepDestinationLocation": {
+              "lng": 113.39267411198,
+              "lat": 23.100196621135
+            },
+            "stepDestinationInstruction": "到达终点",
+            "traffic_condition": 1
+          }
+        ],
+        "toll": 0,
+        "originLocation": {
+          "lng": 113.39278074085,
+          "lat": 23.103317319599
+        },
+        "destinationLocation": {
+          "lng": 113.39267411198,
+          "lat": 23.100196621135
+        }
+      }
+    ],
+    "origin": {
+      "area_id": 257,
+      "bid": "4488404149474842278",
+      "cname": "广州市",
+      "uid": "028cdda07cec202e132935a1",
+      "wd": "万胜围",
+      "originPt": {
+        "lng": 113.39267330351,
+        "lat": 23.103395768254
+      }
+    },
+    "destination": {
+      "area_id": 257,
+      "bid": "12872220173405702826",
+      "cname": "广州市",
+      "uid": "1dde899d55a071152fe67bfa",
+      "wd": "雅郡花园",
+      "destinationPt": {
+        "lng": 113.39267330351,
+        "lat": 23.100196288717
+      }
+    },
+    "taxi": {
+      "detail": [
+        {
+          "desc": "全天",
+          "km_price": "2.6",
+          "start_price": "10.0",
+          "total_price": "10"
+        }
+      ],
+      "distance": 489,
+      "duration": 65,
+      "remark": "全程0.5公里;2.5公里起步；燃油附加费0.0元；里程超过35.0公里，超过部分每公里收3.9元。"
+    },
+    "traffic_condition": 1
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 1,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "originInfo": {
+      "area_id": 257,
+      "wd": "尚馆概念餐厅",
+      "uid": ""
+    },
+    "destinationInfo": {
+      "area_id": 257,
+      "wd": "健民医药(龟岗大马路)",
+      "uid": ""
+    },
+    "origin": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "尚馆概念餐厅",
+          "address": "东晓路38号东银大厦3楼",
+          "uid": "f1f5cac50a66438137b06ceb",
+          "telephone": "(020)89030268",
+          "location": {
+            "lng": 113.28979288874,
+            "lat": 23.106234597743
+          }
+        }
+      ]
+    },
+    "destination": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "健民医药",
+          "address": "广东省广州市大德路115号",
+          "uid": "becce1c74db96501fa42b264",
+          "telephone": "(020)83341420",
+          "location": {
+            "lng": 113.26350936783,
+            "lat": 23.123660394711
+          }
+        },
+        {
+          "name": "健民医药(龟岗大马路)",
+          "address": "广州市越秀区龟岗大马路32",
+          "uid": "d991e11620aafb4c1f3894fe",
+          "telephone": "(020)37624556",
+          "location": {
+            "lng": 113.30154353328,
+            "lat": 23.127864333322
+          }
+        },
+        {
+          "name": "健民医药",
+          "address": "广州市越秀区",
+          "uid": "081924eb1a33dcacfbdc8547",
+          "location": {
+            "lng": 113.2762159891,
+            "lat": 23.131522023741
+          }
+        },
+        {
+          "name": "健民医药二楼医疗器械大卖场",
+          "address": "广州市越秀区",
+          "uid": "df8748679bd437989cf779f4",
+          "location": {
+            "lng": 113.29705209556,
+            "lat": 23.131527673504
+          }
+        }
+      ]
+    }
+  }
+}

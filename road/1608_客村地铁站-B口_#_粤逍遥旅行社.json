@@ -1,0 +1,103 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 1,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "originInfo": {
+      "area_id": 257,
+      "wd": "客村地铁站-B口",
+      "uid": ""
+    },
+    "destinationInfo": {
+      "area_id": 257,
+      "wd": "粤逍遥旅行社",
+      "uid": ""
+    },
+    "origin": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "客村地铁站-B口",
+          "uid": "694a8be0401eaed579dbd254",
+          "location": {
+            "lng": 113.32637386537,
+            "lat": 23.102475738801
+          }
+        },
+        {
+          "name": "左耳咖啡馆(客村店)",
+          "address": "新港中路367号(客村地铁站B口右转80米即到)",
+          "uid": "d9693c63f36259ce83a00c17",
+          "telephone": "(020)84159101",
+          "location": {
+            "lng": 113.32559198025,
+            "lat": 23.102263992343
+          }
+        },
+        {
+          "name": "德仁祥",
+          "address": "客村地铁口B出口附近(左耳咖啡厅再过去50米左右)",
+          "uid": "1121274b703ea99e40afe69f",
+          "telephone": "13006877700,18620997692",
+          "location": {
+            "lng": 113.32400126085,
+            "lat": 23.102113160182
+          }
+        },
+        {
+          "name": "香港红馆造型(客村金牌烫染店)",
+          "address": "新港中路丽影广场C区B座25楼10室(客村地铁C出口必胜客正门旁停车场通道直走左拐20米电梯口直上)",
+          "uid": "295d4e32dc25f321dc1e5297",
+          "telephone": "13025191396,13527696086",
+          "location": {
+            "lng": 113.32669896213,
+            "lat": 23.10157789161
+          }
+        },
+        {
+          "name": "欧莱雅美容美发(丽影广场店)",
+          "address": "海珠区新港中路丽影广场C区B座8楼810室(客村地铁C出口必胜客正门旁停车场通道直走左拐20米电梯口直上8楼即到)",
+          "uid": "77888ccc6ae4ac0657bfff34",
+          "telephone": "13560934232",
+          "location": {
+            "lng": 113.32603502453,
+            "lat": 23.101809002245
+          }
+        }
+      ]
+    },
+    "destination": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "粤逍遥旅行社",
+          "address": "广东省广州市天河区中山大道西78-80号",
+          "uid": "ac8759ce37ad1786892fb5aa",
+          "telephone": "020-87561289",
+          "location": {
+            "lng": 113.35376382917,
+            "lat": 23.141607131869
+          }
+        },
+        {
+          "name": "粤逍遥旅行社",
+          "address": "越秀区应元路17号(三元宫东侧100米处)",
+          "uid": "8a4af93fde163d0d0b5cb344",
+          "telephone": "(020)83541205",
+          "location": {
+            "lng": 113.26999064208,
+            "lat": 23.140554523976
+          }
+        }
+      ]
+    }
+  }
+}

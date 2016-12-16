@@ -1,0 +1,125 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 1,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "originInfo": {
+      "area_id": 257,
+      "wd": "豪丰园",
+      "uid": ""
+    },
+    "destinationInfo": {
+      "area_id": 257,
+      "wd": "广州南方茶文化广场",
+      "uid": ""
+    },
+    "origin": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "豪丰园",
+          "address": "广州市海珠区南华中路388号",
+          "uid": "50fb64ff068cf25de9f85377",
+          "location": {
+            "lng": 113.26913904846,
+            "lat": 23.114438865133
+          }
+        },
+        {
+          "name": "豪丰园-北1门",
+          "address": "广东省广州市海珠区",
+          "uid": "27c6da77491b29d83310afc7",
+          "location": {
+            "lng": 113.26961443174,
+            "lat": 23.114745320801
+          }
+        },
+        {
+          "name": "豪丰园-北2门",
+          "address": "南华中路376-380",
+          "uid": "0b37eb243cc5907646572683",
+          "location": {
+            "lng": 113.26887782122,
+            "lat": 23.114399145502
+          }
+        },
+        {
+          "name": "豪丰园-停车场",
+          "address": "广州市海珠区南华中路388号",
+          "uid": "38e48037a2597434373a7137",
+          "location": {
+            "lng": 113.26971800636,
+            "lat": 23.114875780293
+          }
+        },
+        {
+          "name": "大塘烧鹅(豪丰园南)",
+          "address": "南华东路451-453号云玉大厦1层",
+          "uid": "7c92d605247dcc442a02e1bd",
+          "location": {
+            "lng": 113.27041446262,
+            "lat": 23.115556078764
+          }
+        },
+        {
+          "name": "曼豪饮食",
+          "address": "南村镇观景路广州雅居乐花园商业街内（近广州雅居乐酒店、广州雅居乐花园公交总站）",
+          "uid": "4642844aba0b8bc0c8fa5ff6",
+          "telephone": "(020)34821809",
+          "location": {
+            "lng": 113.36823939364,
+            "lat": 23.01547332603
+          }
+        },
+        {
+          "name": "泓诚药店",
+          "address": "南华中路376-380豪丰园附近",
+          "uid": "b5876b08facdff93f32d8328",
+          "location": {
+            "lng": 113.26931799092,
+            "lat": 23.113947437729
+          }
+        },
+        {
+          "name": "嘉福烧腊",
+          "address": "南华中路388号豪丰园附近",
+          "uid": "4337532e212d6402a5da3946",
+          "location": {
+            "lng": 113.26981753861,
+            "lat": 23.114017321243
+          }
+        },
+        {
+          "name": "民佳超市",
+          "address": "南华中路388号豪丰园附近",
+          "uid": "89fc6ddf53afc096c72ba182",
+          "location": {
+            "lng": 113.26951651644,
+            "lat": 23.113880213243
+          }
+        }
+      ]
+    },
+    "destination": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "广州南方茶文化广场",
+          "address": "荔湾区",
+          "location": {
+            "lng": 113.22961270773,
+            "lat": 23.104379945896
+          }
+        }
+      ]
+    }
+  }
+}

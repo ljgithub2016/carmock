@@ -1,0 +1,63 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 1,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "originInfo": {
+      "area_id": 257,
+      "wd": "广东省广州市海珠区瑞宝北约二街23号",
+      "uid": ""
+    },
+    "destinationInfo": {
+      "area_id": 257,
+      "wd": "万花林(水荫直街店)",
+      "uid": ""
+    },
+    "origin": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "瑞宝北约二街23号",
+          "address": "海珠区",
+          "location": {
+            "lng": 113.29815844863,
+            "lat": 23.085963571211
+          }
+        }
+      ]
+    },
+    "destination": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "万花林(鹤南街店)",
+          "address": "天河路1号水荫直街西四巷5号之三",
+          "uid": "e5ec8c4c1fcacfee2102626a",
+          "telephone": "13710710060",
+          "location": {
+            "lng": 113.31493529216,
+            "lat": 23.140263497604
+          }
+        },
+        {
+          "name": "万花林(水荫直街店)",
+          "address": "天河路1号水荫直街西四巷5号之三",
+          "uid": "55bdfcc9ae9e0b16d5b74ee6",
+          "telephone": "13710710060",
+          "location": {
+            "lng": 113.32245276182,
+            "lat": 23.146452426589
+          }
+        }
+      ]
+    }
+  }
+}

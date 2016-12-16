@@ -1,0 +1,90 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 1,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "originInfo": {
+      "area_id": 257,
+      "wd": "新一城广场(江南花园三期)H栋",
+      "uid": ""
+    },
+    "destinationInfo": {
+      "area_id": 257,
+      "wd": "浙商银行(广州分行)",
+      "uid": ""
+    },
+    "origin": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "新一城广场(江南花园三期)H栋",
+          "address": "宝岗大道534号",
+          "uid": "ba29cfefff380e72f60e7718",
+          "location": {
+            "lng": 113.2735535014,
+            "lat": 23.098697742341
+          }
+        }
+      ]
+    },
+    "destination": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "浙商银行(广州分行)",
+          "address": "广州大道南921号(海珠区政府旁边)",
+          "uid": "3d7aa6a8517a47ceeb12e44d",
+          "telephone": "(020)89299999",
+          "location": {
+            "lng": 113.32305309939,
+            "lat": 23.09082311522
+          }
+        },
+        {
+          "name": "浙商银行广州分行(西门)",
+          "address": "广州大道南921号",
+          "uid": "ebee500d576cb46109b93aed",
+          "location": {
+            "lng": 113.32279528571,
+            "lat": 23.090744409809
+          }
+        },
+        {
+          "name": "浙商银行广州分行(西北门)",
+          "address": "广东省广州市海珠区广州大道南943号",
+          "uid": "54a831e50a999573130daa67",
+          "location": {
+            "lng": 113.32282933148,
+            "lat": 23.090850874034
+          }
+        },
+        {
+          "name": "浙商银行广州分行(东北门)",
+          "address": "广东省广州市海珠区广州大道南933号",
+          "uid": "26939685ca3d07c89ff779c0",
+          "location": {
+            "lng": 113.323097835,
+            "lat": 23.091339145636
+          }
+        },
+        {
+          "name": "浙商银行24小时自助银行(广州分行)",
+          "address": "广东省广州市海珠区广州大道南921号",
+          "uid": "1dbc5d7432827031250bd02c",
+          "location": {
+            "lng": 113.32274596873,
+            "lat": 23.090854032222
+          }
+        }
+      ]
+    }
+  }
+}

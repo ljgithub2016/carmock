@@ -1,0 +1,201 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 2,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "routes": [
+      {
+        "distance": 1312,
+        "duration": 339,
+        "steps": [
+          {
+            "area": 0,
+            "direction": 9,
+            "distance": 344,
+            "duration": 117,
+            "instructions": "从起点\u003c/b\u003e向正西方向出发,沿芦荻街\u003c/b\u003e行驶340米,左转\u003c/b\u003e进入紫贵坊\u003c/b\u003e",
+            "path": "113.25874232998,23.133716356933;113.257875555,23.1337809127;113.25765645828,23.133836993939;113.2571384055,23.133907780892;113.25688939521,23.13392331746;113.25669024088,23.13398978404;113.25648111535,23.134006068347;113.25645129161,23.134015539831;113.25637170174,23.134024097399;113.25595336087,23.133916753883;113.25563464207,23.133841148104;113.25545543012,23.133798027866",
+            "pois": [],
+            "turn": 7,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.25874232998,
+              "lat": 23.133716356933
+            },
+            "stepDestinationLocation": {
+              "lng": 113.25545426233,
+              "lat": 23.133797695532
+            },
+            "stepOriginInstruction": "从起点向正西方向出发 - 110米",
+            "stepDestinationInstruction": "左转进入紫贵坊 - 110米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 6,
+            "distance": 111,
+            "duration": 34,
+            "instructions": "沿紫贵坊\u003c/b\u003e行驶110米,进入蟠龙上街\u003c/b\u003e",
+            "path": "113.25541446739,23.133407037164;113.25537476229,23.133046453982;113.25534502838,23.132796039186",
+            "pois": [],
+            "turn": 1,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.25545426233,
+              "lat": 23.133797695532
+            },
+            "stepDestinationLocation": {
+              "lng": 113.25534484871,
+              "lat": 23.132795789934
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "进入蟠龙上街 - 120米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 6,
+            "distance": 115,
+            "duration": 42,
+            "instructions": "沿蟠龙上街\u003c/b\u003e行驶80米,过左侧的云南大厦\u003c/font\u003e\u003c/b\u003e右转\u003c/b\u003e进入中山七路\u003c/b\u003e",
+            "path": "113.25530505378,23.132445092107;113.25526534868,23.132094476437;113.25523561476,23.131764049398",
+            "pois": [
+              {
+                "detail": {
+                  "instructions": "",
+                  "position": 0
+                },
+                "location": {
+                  "lng": 113.25554427254,
+                  "lat": 23.132029421342
+                },
+                "name": "云南大厦",
+                "type": 106
+              }
+            ],
+            "turn": 3,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.25534484871,
+              "lat": 23.132795789934
+            },
+            "stepDestinationLocation": {
+              "lng": 113.2552354351,
+              "lat": 23.131763883229
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "右转进入中山七路 - 710米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 9,
+            "distance": 714,
+            "duration": 121,
+            "instructions": "沿中山七路\u003c/b\u003e行驶510米,过右侧的西门子(中山七路)\u003c/font\u003e\u003c/b\u003e约200米后,朝华贵路/龙津路方向\u003c/b\u003e,左转\u003c/b\u003e进入荔湾路\u003c/b\u003e",
+            "path": "113.25403979047,23.131772607112;113.25393028703,23.131770779251;113.25308345442,23.131735966801;113.25210699634,23.131689023984;113.25207717259,23.131688608561;113.25165874189,23.131671410038;113.25120042642,23.13165362992;113.25104106702,23.131650971211;113.25099130089,23.131650223449;113.25092159238,23.131639090103;113.24899832029,23.131556836247;113.24876916255,23.131553180518;113.24858986077,23.131540302385;113.2484005878,23.131537311334;113.24837076406,23.131426891667",
+            "pois": [
+              {
+                "detail": {
+                  "instructions": "",
+                  "position": 1
+                },
+                "location": {
+                  "lng": 113.25026313445,
+                  "lat": 23.131727076747
+                },
+                "name": "西门子(中山七路)",
+                "type": 105
+              }
+            ],
+            "turn": 7,
+            "type": 3,
+            "stepOriginLocation": {
+              "lng": 113.2552354351,
+              "lat": 23.131763883229
+            },
+            "stepDestinationLocation": {
+              "lng": 113.24836959626,
+              "lat": 23.131425645395
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "左转进入荔湾路 - 30米",
+            "traffic_condition": 2
+          },
+          {
+            "area": 0,
+            "direction": 6,
+            "distance": 28,
+            "duration": 23,
+            "instructions": "沿荔湾路\u003c/b\u003e行驶30米,到达终点\u003c/b\u003e",
+            "path": "113.24830985895,23.131174729028;113.24830985895,23.131174729028",
+            "pois": [],
+            "turn": 0,
+            "type": 3,
+            "stepOriginLocation": {
+              "lng": 113.24836959626,
+              "lat": 23.131425645395
+            },
+            "stepDestinationLocation": {
+              "lng": 113.24830985895,
+              "lat": 23.131174729028
+            },
+            "stepDestinationInstruction": "到达终点",
+            "traffic_condition": 1
+          }
+        ],
+        "toll": 0,
+        "originLocation": {
+          "lng": 113.25874232998,
+          "lat": 23.133716356933
+        },
+        "destinationLocation": {
+          "lng": 113.24830985895,
+          "lat": 23.131174729028
+        }
+      }
+    ],
+    "origin": {
+      "area_id": 257,
+      "bid": "17113638313798617433",
+      "cname": "广州市",
+      "uid": "3777bbb0d7ca4d8f21f0179d",
+      "wd": "桃园小区",
+      "originPt": {
+        "lng": 113.25878086729,
+        "lat": 23.134165006402
+      }
+    },
+    "destination": {
+      "area_id": 257,
+      "bid": "7586284516751469382",
+      "cname": "广州市",
+      "uid": "6cbccafcbe09b9562ffaa7a7",
+      "wd": "隆城大厦-东门",
+      "destinationPt": {
+        "lng": 113.24830662505,
+        "lat": 23.131173981264
+      }
+    },
+    "taxi": {
+      "detail": [
+        {
+          "desc": "全天",
+          "km_price": "2.6",
+          "start_price": "10.0",
+          "total_price": "10"
+        }
+      ],
+      "distance": 1312,
+      "duration": 340,
+      "remark": "全程1.3公里;2.5公里起步；燃油附加费0.0元；里程超过35.0公里，超过部分每公里收3.9元。"
+    },
+    "traffic_condition": 1
+  }
+}

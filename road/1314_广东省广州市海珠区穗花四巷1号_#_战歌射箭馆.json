@@ -1,0 +1,124 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 1,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "originInfo": {
+      "area_id": 257,
+      "wd": "广东省广州市海珠区穗花四巷1号",
+      "uid": ""
+    },
+    "destinationInfo": {
+      "area_id": 257,
+      "wd": "战歌射箭馆",
+      "uid": ""
+    },
+    "origin": {
+      "cityName": "海珠区",
+      "listType": 0,
+      "content": [
+        {
+          "name": "Lost demon",
+          "address": "江南大道中穗花新村1巷4号104(近奥龙堡健身中心)",
+          "uid": "a6840b99402b59f8d618b7c8",
+          "telephone": "18520640661",
+          "location": {
+            "lng": 113.28240324795,
+            "lat": 23.102426043234
+          }
+        },
+        {
+          "name": "燕塘牛奶",
+          "address": "穗花一巷4号-105(天汇大厦南)",
+          "uid": "b45e25a1100165f83813fd44",
+          "telephone": "(020)84487615",
+          "location": {
+            "lng": 113.28234602589,
+            "lat": 23.102819036599
+          }
+        },
+        {
+          "name": "红棉楼",
+          "address": "穗花一巷4号",
+          "uid": "6e45612b4a48ccbb932ca316",
+          "location": {
+            "lng": 113.28254113785,
+            "lat": 23.102405599901
+          }
+        },
+        {
+          "name": "漾漾美容美体中心",
+          "address": "广州市海珠区江南大道中穗花北街一巷4号103",
+          "uid": "223572cde18489ae5fbe86be",
+          "telephone": "(020)84446174",
+          "location": {
+            "lng": 113.28249999546,
+            "lat": 23.102600393151
+          }
+        },
+        {
+          "name": "寻色画室",
+          "address": "江南大道中穗花新村一巷四号104房",
+          "uid": "18f68f50459023b71e5800eb",
+          "telephone": "13929502839",
+          "location": {
+            "lng": 113.28259395821,
+            "lat": 23.10239803753
+          }
+        }
+      ]
+    },
+    "destination": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "战歌射箭馆",
+          "address": "同福东路538号3楼(解放桥脚)",
+          "uid": "3919ca04c1cb703e76e5b610",
+          "telephone": "13672459405",
+          "location": {
+            "lng": 113.27250697548,
+            "lat": 23.112918957543
+          }
+        },
+        {
+          "name": "战歌射箭馆",
+          "address": "广州市海珠区仲恺路628号海珠区体育中心1号电梯4楼（堂会后面）",
+          "uid": "d2f88e21b6596513ea56fa5d",
+          "telephone": "18819407223",
+          "location": {
+            "lng": 113.29281550712,
+            "lat": 23.109307455674
+          }
+        },
+        {
+          "name": "广州战歌射箭馆(天河馆)",
+          "address": "广东省广州市天河区临江大道507号,507创意园,雄狮楼2楼",
+          "uid": "8026f7d62f38a46d42d63e2c",
+          "telephone": "15217202491",
+          "location": {
+            "lng": 113.36566997039,
+            "lat": 23.116729039086
+          }
+        },
+        {
+          "name": "战歌射箭馆(芳村店)",
+          "address": "荔湾区上市路新隆沙西1号大院(近地铁芳村站C出口)力驰体育俱乐部内",
+          "uid": "20e544c5bf8cb5728605bf9e",
+          "telephone": "020-81560002|020-81560823",
+          "location": {
+            "lng": 113.24123058272,
+            "lat": 23.107930420584
+          }
+        }
+      ]
+    }
+  }
+}

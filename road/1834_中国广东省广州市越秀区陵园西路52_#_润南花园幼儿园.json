@@ -1,0 +1,85 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 1,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "originInfo": {
+      "area_id": 257,
+      "wd": "中国广东省广州市越秀区陵园西路52",
+      "uid": ""
+    },
+    "destinationInfo": {
+      "area_id": 257,
+      "wd": "润南花园幼儿园",
+      "uid": ""
+    },
+    "origin": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "中国体育彩票",
+          "address": "广州市越秀区大南路52号",
+          "uid": "b63d5139a4ac5676b020a84c",
+          "location": {
+            "lng": 113.27246197037,
+            "lat": 23.125839985176
+          }
+        },
+        {
+          "name": "中国农业银行(西湖路支行)",
+          "address": "广州市越秀区西湖路52-54号",
+          "uid": "e96b442081ffbd5982288a2b",
+          "telephone": "020-83278021",
+          "location": {
+            "lng": 113.27363596584,
+            "lat": 23.129394040034
+          }
+        },
+        {
+          "name": "《中国企业报》广东记者站",
+          "address": "东华北路50-52号广东商业大厦5层507",
+          "uid": "f96cae9f46485903a80dd87b",
+          "location": {
+            "lng": 113.29805514349,
+            "lat": 23.128521134764
+          }
+        },
+        {
+          "name": "中国农业银行24小时自助银行(广州西湖路支行)",
+          "address": "广州市越秀区西湖路52-54",
+          "uid": "b7752b254958da83c27da273",
+          "telephone": "95599",
+          "location": {
+            "lng": 113.27351747934,
+            "lat": 23.129462336777
+          }
+        }
+      ]
+    },
+    "destination": {
+      "cityName": "广州市",
+      "listType": 1,
+      "content": [
+        {
+          "name": "焦作市",
+          "number": 2
+        },
+        {
+          "name": "桂林市",
+          "number": 1
+        },
+        {
+          "name": "济南市",
+          "number": 1
+        }
+      ]
+    }
+  }
+}

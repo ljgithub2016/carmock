@@ -1,0 +1,55 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 1,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "originInfo": {
+      "area_id": 257,
+      "wd": "广东省广州市荔湾区东裕围桥北横街1号",
+      "uid": ""
+    },
+    "destinationInfo": {
+      "area_id": 257,
+      "wd": "凯逸酒家",
+      "uid": ""
+    },
+    "origin": {
+      "cityName": "荔湾区",
+      "listType": 0,
+      "content": [
+        {
+          "name": "养和怡老院",
+          "address": "东裕围桥北横街1号",
+          "uid": "b703e96bb3aaa6fa8f1a891a",
+          "telephone": "(020)81679558",
+          "location": {
+            "lng": 113.26439114452,
+            "lat": 23.071411386581
+          }
+        }
+      ]
+    },
+    "destination": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "凯逸酒家",
+          "address": "海珠区南华中路299号亿海湾3楼(近同福路)",
+          "uid": "20c3c6246ec764e8a4c7562f",
+          "telephone": "(020)26298022,(020)26298033",
+          "location": {
+            "lng": 113.26677372022,
+            "lat": 23.113387204944
+          }
+        }
+      ]
+    }
+  }
+}

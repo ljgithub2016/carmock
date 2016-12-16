@@ -1,0 +1,346 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 2,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "routes": [
+      {
+        "distance": 2536,
+        "duration": 605,
+        "steps": [
+          {
+            "area": 0,
+            "direction": 0,
+            "distance": 41,
+            "duration": 20,
+            "instructions": "从起点\u003c/b\u003e向正北方向出发,沿康王北路\u003c/b\u003e行驶40米,右转\u003c/b\u003e进入芦荻街\u003c/b\u003e",
+            "path": "113.25394978026,23.13348098152;113.25394978026,23.133520944689;113.25395966162,23.133851118099",
+            "pois": [],
+            "turn": 3,
+            "type": 3,
+            "stepOriginLocation": {
+              "lng": 113.25394978026,
+              "lat": 23.13348098152
+            },
+            "stepDestinationLocation": {
+              "lng": 113.25395966162,
+              "lat": 23.133851118099
+            },
+            "stepOriginInstruction": "从起点向正北方向出发 - 150米",
+            "stepDestinationInstruction": "右转进入芦荻街 - 150米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 3,
+            "distance": 154,
+            "duration": 49,
+            "instructions": "沿芦荻街\u003c/b\u003e行驶40米,过右侧的康王阁\u003c/font\u003e\u003c/b\u003e约120米后,右转\u003c/b\u003e进入紫贵坊\u003c/b\u003e",
+            "path": "113.25475681793,23.133815309196;113.25545426233,23.133797778616",
+            "pois": [
+              {
+                "detail": {
+                  "instructions": "",
+                  "position": 1
+                },
+                "location": {
+                  "lng": 113.25427856007,
+                  "lat": 23.133496850472
+                },
+                "name": "康王阁",
+                "type": 106
+              }
+            ],
+            "turn": 3,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.25395966162,
+              "lat": 23.133851118099
+            },
+            "stepDestinationLocation": {
+              "lng": 113.25545426233,
+              "lat": 23.133797695532
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "右转进入紫贵坊 - 110米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 6,
+            "distance": 111,
+            "duration": 38,
+            "instructions": "沿紫贵坊\u003c/b\u003e行驶110米,进入蟠龙上街\u003c/b\u003e",
+            "path": "113.25541446739,23.133407037164;113.25537476229,23.133046453982;113.25534502838,23.132796039186",
+            "pois": [],
+            "turn": 1,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.25545426233,
+              "lat": 23.133797695532
+            },
+            "stepDestinationLocation": {
+              "lng": 113.25534484871,
+              "lat": 23.132795789934
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "进入蟠龙上街 - 120米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 6,
+            "distance": 115,
+            "duration": 47,
+            "instructions": "沿蟠龙上街\u003c/b\u003e行驶80米,过左侧的云南大厦\u003c/font\u003e\u003c/b\u003e右转\u003c/b\u003e进入中山七路\u003c/b\u003e",
+            "path": "113.25530505378,23.132445092107;113.25526534868,23.132094476437;113.25523561476,23.131764049398",
+            "pois": [
+              {
+                "detail": {
+                  "instructions": "",
+                  "position": 0
+                },
+                "location": {
+                  "lng": 113.25554427254,
+                  "lat": 23.132029421342
+                },
+                "name": "云南大厦",
+                "type": 106
+              }
+            ],
+            "turn": 3,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.25534484871,
+              "lat": 23.132795789934
+            },
+            "stepDestinationLocation": {
+              "lng": 113.2552354351,
+              "lat": 23.131763883229
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "右转进入中山七路 - 150米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 9,
+            "distance": 146,
+            "duration": 51,
+            "instructions": "沿中山七路\u003c/b\u003e行驶150米,朝康王中路/上下九步行街方向\u003c/b\u003e,左转\u003c/b\u003e进入康王中路\u003c/b\u003e",
+            "path": "113.25403979047,23.131772607112;113.25393028703,23.131770779251;113.25392040567,23.131660692117",
+            "pois": [],
+            "turn": 7,
+            "type": 3,
+            "stepOriginLocation": {
+              "lng": 113.2552354351,
+              "lat": 23.131763883229
+            },
+            "stepDestinationLocation": {
+              "lng": 113.25392022601,
+              "lat": 23.131660525948
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "左转进入康王中路 - 880米",
+            "traffic_condition": 2
+          },
+          {
+            "area": 0,
+            "direction": 6,
+            "distance": 884,
+            "duration": 156,
+            "instructions": "沿康王中路\u003c/b\u003e行驶880米,朝上下九步行街/人民桥方向\u003c/b\u003e,直行\u003c/b\u003e进入康王南路\u003c/b\u003e",
+            "path": "113.25389040226,23.131419995628;113.25376131576,23.130207865728;113.25367202419,23.12940641986;113.25363240892,23.129055796155;113.2536126462,23.128925516779;113.25359288348,23.128695284228;113.25357312076,23.128585028368;113.25354338685,23.128384623359;113.25353359532,23.128204574323;113.25348418851,23.127503818155;113.25347439698,23.127243754751;113.25347448681,23.127023822139;113.25347448681,23.126943891874;113.25346478511,23.126663803215;113.25347484614,23.126414124158;113.2534750258,23.126124229981;113.25348508682,23.125994529343;113.25348517665,23.125894657273;113.25348526648,23.125804755728;113.25350538852,23.125485197616;113.25357581567,23.124336659858;113.25360608857,23.123717311127",
+            "pois": [],
+            "turn": 1,
+            "type": 3,
+            "stepOriginLocation": {
+              "lng": 113.25392022601,
+              "lat": 23.131660525948
+            },
+            "stepDestinationLocation": {
+              "lng": 113.25360474111,
+              "lat": 23.123715566245
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "直行进入康王南路 - 70米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 6,
+            "distance": 70,
+            "duration": 17,
+            "instructions": "沿康王南路\u003c/b\u003e行驶70米,朝内环路/六二三路/人民桥方向\u003c/b\u003e,靠左\u003c/b\u003e",
+            "path": "113.25363474452,23.123576141754;113.25370472252,23.123267463053;113.25377461068,23.123108761208",
+            "pois": [],
+            "turn": 9,
+            "type": 3,
+            "stepOriginLocation": {
+              "lng": 113.25360474111,
+              "lat": 23.123715566245
+            },
+            "stepDestinationLocation": {
+              "lng": 113.25377452085,
+              "lat": 23.123108678118
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "靠左 - 590米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 5,
+            "distance": 585,
+            "duration": 95,
+            "instructions": "继续沿康王南路\u003c/b\u003e行驶540米,过左侧的西关大厦B座\u003c/font\u003e\u003c/b\u003e右转\u003c/b\u003e进入十八甫路\u003c/b\u003e",
+            "path": "113.25387441243,23.1227705013;113.25401418876,23.122333113593;113.25424379565,23.121667390781;113.25431368382,23.121468720233;113.25444348897,23.12111117897;113.25447340254,23.121031826781;113.25462315007,23.120624595587;113.25466312466,23.120505442212;113.25477298743,23.120187533172;113.25481296202,23.120058325281;113.25487296883,23.119759526358;113.25511308589,23.118534078131;113.25513311811,23.118424561662;113.25513320794,23.118324683892;113.25519321474,23.11803585225",
+            "pois": [
+              {
+                "detail": {
+                  "instructions": "",
+                  "position": 0
+                },
+                "location": {
+                  "lng": 113.25542192333,
+                  "lat": 23.118498514371
+                },
+                "name": "西关大厦B座",
+                "type": 106
+              }
+            ],
+            "turn": 3,
+            "type": 3,
+            "stepOriginLocation": {
+              "lng": 113.25377452085,
+              "lat": 23.123108678118
+            },
+            "stepDestinationLocation": {
+              "lng": 113.25519312491,
+              "lat": 23.118034522758
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "右转进入十八甫路 - 250米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 9,
+            "distance": 250,
+            "duration": 66,
+            "instructions": "沿十八甫路\u003c/b\u003e行驶250米,右转\u003c/b\u003e进入十八甫北路\u003c/b\u003e",
+            "path": "113.25448570933,23.118021975685;113.25434629231,23.118019565982;113.2541271956,23.118015743694;113.25378853442,23.118009844076;113.25371891574,23.118008680771;113.25352964277,23.118015328228;113.25346002409,23.118014164923;113.25320104262,23.11800967789;113.25276266953,23.118002033314",
+            "pois": [],
+            "turn": 3,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.25519312491,
+              "lat": 23.118034522758
+            },
+            "stepDestinationLocation": {
+              "lng": 113.25276195088,
+              "lat": 23.118001534754
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "右转进入十八甫北路 - 110米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 0,
+            "distance": 111,
+            "duration": 40,
+            "instructions": "沿十八甫北路\u003c/b\u003e行驶110米,左转\u003c/b\u003e进入河傍路\u003c/b\u003e",
+            "path": "113.25260178301,23.118898606122;113.25258184063,23.118998234182",
+            "pois": [],
+            "turn": 7,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.25276195088,
+              "lat": 23.118001534754
+            },
+            "stepDestinationLocation": {
+              "lng": 113.2525817508,
+              "lat": 23.118998234182
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "左转进入河傍路 - 70米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 9,
+            "distance": 69,
+            "duration": 22,
+            "instructions": "沿河傍路\u003c/b\u003e行驶70米,到达终点\u003c/b\u003e",
+            "path": "113.25201384205,23.118838363931;113.25193425219,23.1188170922",
+            "pois": [],
+            "turn": 0,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.2525817508,
+              "lat": 23.118998234182
+            },
+            "stepDestinationLocation": {
+              "lng": 113.25193416236,
+              "lat": 23.118817009107
+            },
+            "stepDestinationInstruction": "到达终点",
+            "traffic_condition": 0
+          }
+        ],
+        "toll": 0,
+        "originLocation": {
+          "lng": 113.25394978026,
+          "lat": 23.13348098152
+        },
+        "destinationLocation": {
+          "lng": 113.25193416236,
+          "lat": 23.118817009107
+        }
+      }
+    ],
+    "origin": {
+      "area_id": 257,
+      "bid": "18011694350827782143",
+      "cname": "广州市",
+      "uid": "bff8fa7d087be4a0c8213d0d",
+      "wd": "交通银行(康王城支行)",
+      "originPt": {
+        "lng": 113.25394798365,
+        "lat": 23.133483723277
+      }
+    },
+    "destination": {
+      "area_id": 257,
+      "bid": "10078350",
+      "cname": "广州市",
+      "uid": "a232bde0792cf934902ca3b8",
+      "wd": "清平路",
+      "destinationPt": {
+        "lng": 113.25192679625,
+        "lat": 23.11881036169
+      }
+    },
+    "taxi": {
+      "detail": [
+        {
+          "desc": "全天",
+          "km_price": "2.6",
+          "start_price": "10.0",
+          "total_price": "10"
+        }
+      ],
+      "distance": 2536,
+      "duration": 606,
+      "remark": "全程2.5公里;2.5公里起步；燃油附加费0.0元；里程超过35.0公里，超过部分每公里收3.9元。"
+    },
+    "traffic_condition": 1
+  }
+}

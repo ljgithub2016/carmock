@@ -1,0 +1,73 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 1,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "originInfo": {
+      "area_id": 257,
+      "wd": "江南西地铁站-C口",
+      "uid": ""
+    },
+    "destinationInfo": {
+      "area_id": 257,
+      "wd": "7天优品广州天河岗顶地铁站店",
+      "uid": ""
+    },
+    "origin": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "江南西地铁站-C口",
+          "uid": "08c102265f3622f8fa42b23a",
+          "location": {
+            "lng": 113.28077408108,
+            "lat": 23.103269369499
+          }
+        },
+        {
+          "name": "国中票务",
+          "address": "广州市海珠区江南大道中189号附近(江南西地铁站c口)",
+          "uid": "ac078758fdf7f45535b06cdf",
+          "telephone": "(020)84254190",
+          "location": {
+            "lng": 113.28069673698,
+            "lat": 23.103506211249
+          }
+        }
+      ]
+    },
+    "destination": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "7天优品广州天河岗顶地铁站店",
+          "address": "天河区石牌东路31号(中山医院附属第三医院右侧步行街街头)",
+          "uid": "3f9b7c9ec0036bc82fb17e12",
+          "telephone": "(020)38284777",
+          "location": {
+            "lng": 113.34955948989,
+            "lat": 23.140160313107
+          }
+        },
+        {
+          "name": "7天优品广州天河石牌桥地铁站店",
+          "address": "广州市天河区天河南二路31号",
+          "uid": "8fde79cce0a943a695ca0719",
+          "telephone": "(020)38248988",
+          "location": {
+            "lng": 113.33912504258,
+            "lat": 23.136681984859
+          }
+        }
+      ]
+    }
+  }
+}

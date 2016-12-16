@@ -1,0 +1,110 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 1,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "originInfo": {
+      "area_id": 257,
+      "wd": "万信惠选酒店(荔湾路店)",
+      "uid": ""
+    },
+    "destinationInfo": {
+      "area_id": 257,
+      "wd": "基建新村",
+      "uid": ""
+    },
+    "origin": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "荔湾路",
+          "address": "荔湾区",
+          "location": {
+            "lng": 113.25045204809,
+            "lat": 23.134350115408
+          }
+        }
+      ]
+    },
+    "destination": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "基建新村",
+          "address": "广州市海珠区工业大道中",
+          "uid": "a253c6c6c5b27c7bc056ac9a",
+          "location": {
+            "lng": 113.27168188187,
+            "lat": 23.089002157603
+          }
+        },
+        {
+          "name": "基建新村",
+          "address": "",
+          "uid": "3eb58e6722157bfa7bf7963d",
+          "location": {
+            "lng": 113.27155198689,
+            "lat": 23.088811001317
+          }
+        },
+        {
+          "name": "基建新村-正门",
+          "address": "广东省广州市海珠区",
+          "uid": "2fab178c1458f4ddc1f1cfd4",
+          "location": {
+            "lng": 113.27185247008,
+            "lat": 23.08893325826
+          }
+        },
+        {
+          "name": "潮味（基建新村店）",
+          "address": "工业大道中路201号之1自编4号",
+          "uid": "4b845d033208fe5900ec01b3",
+          "telephone": "18924208182",
+          "location": {
+            "lng": 113.27199296506,
+            "lat": 23.088722986221
+          }
+        },
+        {
+          "name": "燕塘牛奶工业大道中专卖店",
+          "address": "广州市海珠区工业大道中基建新村一街内侧自编号201之三号",
+          "uid": "a2b98d496b79040c81a12efc",
+          "telephone": "18922312766",
+          "location": {
+            "lng": 113.27192541249,
+            "lat": 23.088759056626
+          }
+        },
+        {
+          "name": "重庆美食",
+          "address": "工业大道中基建新村一街内自编号201之三",
+          "uid": "707c6784f799c5b771455b14",
+          "telephone": "13712861225",
+          "location": {
+            "lng": 113.27196403963,
+            "lat": 23.088757976177
+          }
+        },
+        {
+          "name": "鞋局洗鞋修鞋",
+          "address": "工业大道基建新村B栋1楼",
+          "uid": "5425d33054e526707c29bdaa",
+          "telephone": "4006997989",
+          "location": {
+            "lng": 113.27194400741,
+            "lat": 23.088793049234
+          }
+        }
+      ]
+    }
+  }
+}

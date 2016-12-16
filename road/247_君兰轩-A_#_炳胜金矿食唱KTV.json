@@ -1,0 +1,62 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 1,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "originInfo": {
+      "area_id": 257,
+      "wd": "君兰轩-A",
+      "uid": ""
+    },
+    "destinationInfo": {
+      "area_id": 257,
+      "wd": "炳胜金矿食唱KTV",
+      "uid": ""
+    },
+    "origin": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "君兰轩休闲馆",
+          "address": "广州市白云区汇侨新城汇侨中路29号",
+          "uid": "4fc3161a01cda6d43b13fdbd",
+          "location": {
+            "lng": 113.26319379311,
+            "lat": 23.204460401098
+          }
+        },
+        {
+          "name": "君兰轩-A",
+          "address": "南景园6号",
+          "uid": "c50f66e8999fa2e1be4842f2",
+          "location": {
+            "lng": 113.28162369843,
+            "lat": 23.086656401619
+          }
+        }
+      ]
+    },
+    "destination": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "炳胜金矿食唱KTV",
+          "address": "东晓路308号4楼",
+          "uid": "78bd50f7c1fca84231870a02",
+          "location": {
+            "lng": 113.28930079698,
+            "lat": 23.105405916107
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 1,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "originInfo": {
+      "area_id": 257,
+      "wd": "黄华塘社区",
+      "uid": ""
+    },
+    "destinationInfo": {
+      "area_id": 257,
+      "wd": "万国广场",
+      "uid": ""
+    },
+    "origin": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "黄华塘社区",
+          "address": "黄华路85号附近",
+          "uid": "74ab9399361da6c5ad080f90",
+          "location": {
+            "lng": 113.2836092231,
+            "lat": 23.140428243699
+          }
+        },
+        {
+          "name": "黄华塘社区-西门",
+          "address": "广东省广州市越秀区",
+          "uid": "2d6517ff9cd6ca1288f15dfa",
+          "location": {
+            "lng": 113.28343908404,
+            "lat": 23.13947582068
+          }
+        },
+        {
+          "name": "黄华塘社区-北门",
+          "address": "广东省广州市越秀区",
+          "uid": "e62d0a476479015e02294f01",
+          "location": {
+            "lng": 113.28430002004,
+            "lat": 23.1409439151
+          }
+        },
+        {
+          "name": "黄华塘社区-东2门",
+          "address": "广东省广州市越秀区",
+          "uid": "d939f8dd7fefebf91c5800c4",
+          "location": {
+            "lng": 113.28448075911,
+            "lat": 23.140303126411
+          }
+        }
+      ]
+    },
+    "destination": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "万国广场",
+          "address": "海珠区前进路40号万国广场6-7楼(近江南大道中)",
+          "uid": "a12baa4042157855e856fa00",
+          "telephone": "(020)84444200",
+          "location": {
+            "lng": 113.27910404131,
+            "lat": 23.108004794639
+          }
+        },
+        {
+          "name": "万国广场江南中社区文化街",
+          "address": "广州市海珠区江南大道中133号",
+          "uid": "fc7675243f2ee7e34e776e5a",
+          "telephone": "(020)84444200",
+          "location": {
+            "lng": 113.27953127541,
+            "lat": 23.108178389336
+          }
+        }
+      ]
+    }
+  }
+}

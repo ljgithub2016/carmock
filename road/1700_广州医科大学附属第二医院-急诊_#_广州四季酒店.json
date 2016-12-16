@@ -1,0 +1,64 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 1,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "originInfo": {
+      "area_id": 257,
+      "wd": "广州医科大学附属第二医院-急诊",
+      "uid": ""
+    },
+    "destinationInfo": {
+      "area_id": 257,
+      "wd": "广州四季酒店",
+      "uid": ""
+    },
+    "origin": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "广州医科大学附属第二医院-急诊",
+          "address": "昌岗东路250号",
+          "uid": "bb1d38e405cda3300c0a70e1",
+          "telephone": "(020)34152299",
+          "location": {
+            "lng": 113.28422240644,
+            "lat": 23.095899640407
+          }
+        }
+      ]
+    },
+    "destination": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "广州四季酒店",
+          "address": "广州市天河区珠江新城珠江西路5号广州国际金融中心",
+          "uid": "49d9593898b6235ac71e51ae",
+          "location": {
+            "lng": 113.32938768035,
+            "lat": 23.123315821379
+          }
+        },
+        {
+          "name": "广州四季青年旅舍",
+          "address": "广州番禺区南大路敏捷华美国际7栋1222室(长隆北门)",
+          "uid": "791033cacec0a33442e192a8",
+          "telephone": "18982004431",
+          "location": {
+            "lng": 113.33620698697,
+            "lat": 23.012177013428
+          }
+        }
+      ]
+    }
+  }
+}

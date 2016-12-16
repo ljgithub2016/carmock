@@ -1,0 +1,249 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 2,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "routes": [
+      {
+        "distance": 1668,
+        "duration": 247,
+        "steps": [
+          {
+            "area": 0,
+            "direction": 6,
+            "distance": 29,
+            "duration": 16,
+            "instructions": "从起点\u003c/b\u003e向正南方向出发,行驶30米,右转\u003c/b\u003e进入新河浦路\u003c/b\u003e",
+            "path": "113.29896836088,23.125815806476;113.29893853713,23.125566208911",
+            "pois": [],
+            "turn": 3,
+            "type": 21,
+            "stepOriginLocation": {
+              "lng": 113.29896836088,
+              "lat": 23.125815806476
+            },
+            "stepDestinationLocation": {
+              "lng": 113.29893835747,
+              "lat": 23.125566125822
+            },
+            "stepOriginInstruction": "从起点向正南方向出发 - 280米",
+            "stepDestinationInstruction": "右转进入新河浦路 - 280米",
+            "traffic_condition": 0
+          },
+          {
+            "area": 0,
+            "direction": 9,
+            "distance": 283,
+            "duration": 62,
+            "instructions": "沿新河浦路\u003c/b\u003e行驶150米,过右侧的东湖豪苑商务中心\u003c/font\u003e\u003c/b\u003e约130米后,左转\u003c/b\u003e进入东湖路\u003c/b\u003e",
+            "path": "113.29681386494,23.125957388907;113.29661354281,23.125999182283;113.29657356822,23.126019538893;113.29650350039,23.126040144765;113.29648355801,23.126050281523;113.29639363762,23.125831177815",
+            "pois": [
+              {
+                "detail": {
+                  "instructions": "",
+                  "position": 1
+                },
+                "location": {
+                  "lng": 113.29753520427,
+                  "lat": 23.126110520439
+                },
+                "name": "东湖豪苑商务中心",
+                "type": 106
+              }
+            ],
+            "turn": 7,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.29893835747,
+              "lat": 23.125566125822
+            },
+            "stepDestinationLocation": {
+              "lng": 113.29639318847,
+              "lat": 23.125831177815
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "左转进入东湖路 - 390米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 7,
+            "distance": 390,
+            "duration": 37,
+            "instructions": "沿东湖路\u003c/b\u003e行驶380米,过右侧的龙湖大厦\u003c/font\u003e\u003c/b\u003e朝仲恺路/滨江路方向\u003c/b\u003e,靠右\u003c/b\u003e",
+            "path": "113.29627308502,23.125502313853;113.29624317145,23.125442656281;113.29620328669,23.125333062426;113.29597332048,23.124785174882;113.29585339669,23.124446337625;113.29571344069,23.124117636408;113.29545347108,23.123519889996;113.29545356091,23.123439957619;113.29529366253,23.122991354956;113.29514382517,23.122522725994",
+            "pois": [
+              {
+                "detail": {
+                  "instructions": "",
+                  "position": 1
+                },
+                "location": {
+                  "lng": 113.29493254371,
+                  "lat": 23.122713667569
+                },
+                "name": "龙湖大厦",
+                "type": 106
+              }
+            ],
+            "turn": 10,
+            "type": 3,
+            "stepOriginLocation": {
+              "lng": 113.29639318847,
+              "lat": 23.125831177815
+            },
+            "stepDestinationLocation": {
+              "lng": 113.29514301669,
+              "lat": 23.122522061271
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "靠右 - 390米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 7,
+            "distance": 387,
+            "duration": 68,
+            "instructions": "继续沿东湖路\u003c/b\u003e行驶240米,过右侧的越秀区斯科电器商行\u003c/font\u003e\u003c/b\u003e约140米后,调头\u003c/b\u003e",
+            "path": "113.29504303529,23.12232289346;113.29496317593,23.122103617414;113.29491331997,23.121884091733;113.29485349283,23.121614711124;113.29442464178,23.119408295507;113.29440478923,23.119338497924;113.29444485365,23.119318306474;113.29455507574,23.119287562284;113.2946252334,23.119267121548",
+            "pois": [
+              {
+                "detail": {
+                  "instructions": "",
+                  "position": 1
+                },
+                "location": {
+                  "lng": 113.29441341296,
+                  "lat": 23.120427834587
+                },
+                "name": "越秀区斯科电器商行",
+                "type": 105
+              }
+            ],
+            "turn": 5,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.29514301669,
+              "lat": 23.122522061271
+            },
+            "stepDestinationLocation": {
+              "lng": 113.29462469441,
+              "lat": 23.119266539901
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "调头 - 470米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 0,
+            "distance": 466,
+            "duration": 46,
+            "instructions": "继续沿东湖路\u003c/b\u003e行驶380米,过左侧的龙湖大厦\u003c/font\u003e\u003c/b\u003e约90米后,朝内环路(A线)/黄埔大道/广汕公路/S41方向\u003c/b\u003e,靠右\u003c/b\u003e",
+            "path": "113.2946446368,23.119366333869;113.29475423007,23.120095384277;113.29504357427,23.121572916366;113.29515343704,23.12205201811;113.29522341504,23.122261406466;113.29525332861,23.122491151643;113.2952632998,23.122521064186;113.29539319478,23.122929951362;113.29555318299,23.12336858345",
+            "pois": [
+              {
+                "detail": {
+                  "instructions": "",
+                  "position": 0
+                },
+                "location": {
+                  "lng": 113.29493254371,
+                  "lat": 23.122713667569
+                },
+                "name": "龙湖大厦",
+                "type": 106
+              }
+            ],
+            "turn": 10,
+            "type": 3,
+            "stepOriginLocation": {
+              "lng": 113.29462469441,
+              "lat": 23.119266539901
+            },
+            "stepDestinationLocation": {
+              "lng": 113.29555318299,
+              "lat": 23.123368666539
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "靠右 - 110米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 1,
+            "distance": 113,
+            "duration": 15,
+            "instructions": "继续沿东湖路\u003c/b\u003e行驶110米,到达终点\u003c/b\u003e",
+            "path": "113.29558318639,23.123408383486;113.29592319503,23.124315389007",
+            "pois": [],
+            "turn": 0,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.29555318299,
+              "lat": 23.123368666539
+            },
+            "stepDestinationLocation": {
+              "lng": 113.29592319503,
+              "lat": 23.124315472097
+            },
+            "stepDestinationInstruction": "到达终点",
+            "traffic_condition": 1
+          }
+        ],
+        "toll": 0,
+        "originLocation": {
+          "lng": 113.29896836088,
+          "lat": 23.125815806476
+        },
+        "destinationLocation": {
+          "lng": 113.29592319503,
+          "lat": 23.124315472097
+        }
+      }
+    ],
+    "origin": {
+      "area_id": 257,
+      "bid": "18011938691517251583",
+      "cname": "广州市",
+      "uid": "79cceb3604b6a7891e58002f",
+      "wd": "新河宾馆",
+      "originPt": {
+        "lng": 113.29897105579,
+        "lat": 23.125823201336
+      }
+    },
+    "destination": {
+      "area_id": 257,
+      "bid": "18011957868546228223",
+      "cname": "广州市",
+      "uid": "34e48508154527e2d8d8913d",
+      "wd": "东山湖公园",
+      "destinationPt": {
+        "lng": 113.29592580011,
+        "lat": 23.124319294203
+      }
+    },
+    "taxi": {
+      "detail": [
+        {
+          "desc": "全天",
+          "km_price": "2.6",
+          "start_price": "10.0",
+          "total_price": "10"
+        }
+      ],
+      "distance": 1668,
+      "duration": 248,
+      "remark": "全程1.7公里;2.5公里起步；燃油附加费0.0元；里程超过35.0公里，超过部分每公里收3.9元。"
+    },
+    "traffic_condition": 1
+  }
+}

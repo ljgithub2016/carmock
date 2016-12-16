@@ -1,0 +1,139 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 1,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "originInfo": {
+      "area_id": 257,
+      "wd": "海韵轩",
+      "uid": ""
+    },
+    "destinationInfo": {
+      "area_id": 257,
+      "wd": "昌岗中路小学",
+      "uid": ""
+    },
+    "origin": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "海韵轩",
+          "address": "新民五街62号",
+          "uid": "6deee30810252f6a29fc4877",
+          "location": {
+            "lng": 113.25793080079,
+            "lat": 23.100086674014
+          }
+        },
+        {
+          "name": "海韵轩",
+          "address": "广东省广州市天河区临江大道409号",
+          "uid": "4a43846ed7f617853be4a6f8",
+          "location": {
+            "lng": 113.34899598285,
+            "lat": 23.117928329607
+          }
+        },
+        {
+          "name": "海韵轩-东门",
+          "address": "新民五街62",
+          "uid": "f9add7bf65f3678b04fef569",
+          "location": {
+            "lng": 113.25955143376,
+            "lat": 23.100269088122
+          }
+        },
+        {
+          "name": "星海明珠－－星韵轩 海韵轩",
+          "address": "广州大桥南西侧100米",
+          "uid": "82f96575980ec9d0f503b8cf",
+          "location": {
+            "lng": 113.31940319427,
+            "lat": 23.107163409751
+          }
+        }
+      ]
+    },
+    "destination": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "昌岗中路小学",
+          "address": "昌岗中路147号",
+          "uid": "4ce10ce6c2af12a1441a3262",
+          "telephone": "020-84319397",
+          "location": {
+            "lng": 113.27727015061,
+            "lat": 23.093034743143
+          }
+        },
+        {
+          "name": "广州市昌岗中路小学岭南少年报小记者站",
+          "address": "昌岗中路147",
+          "uid": "221e8e59e208d0639d09f7d6",
+          "location": {
+            "lng": 113.27743166594,
+            "lat": 23.093280080231
+          }
+        },
+        {
+          "name": "好想你枣(昌岗中路店)",
+          "address": "广州海珠区昌岗中路135号(近昌岗中路小学)",
+          "uid": "beabdbf493c9cf817169d391",
+          "telephone": "(020)84127350",
+          "location": {
+            "lng": 113.27695179114,
+            "lat": 23.092832206729
+          }
+        },
+        {
+          "name": "家乐汉堡(昌岗店)",
+          "address": "昌岗宝岗大道（昌岗中路小学旁边）",
+          "uid": "2bfb596d591a381f39221cb9",
+          "telephone": "13526033526",
+          "location": {
+            "lng": 113.28613400057,
+            "lat": 23.098336981728
+          }
+        },
+        {
+          "name": "d―salon",
+          "address": "海珠区昌岗中路135号1-2档昌岗中路小学正对面，宝岗大道地铁A出口50米(8字连锁便利店旁，近宝岗加油站，红绿灯旁)",
+          "uid": "8ed9ca9ab7d23633d3ff23b1",
+          "telephone": "13570457116",
+          "location": {
+            "lng": 113.27692205723,
+            "lat": 23.092651029044
+          }
+        },
+        {
+          "name": "味然香(宝岗大道南店)",
+          "address": "广东省广州市海珠区宝岗大道昌岗中路小学对面",
+          "uid": "feb310b7fca0d402223bf293",
+          "telephone": "(020)84351578",
+          "location": {
+            "lng": 113.27693184876,
+            "lat": 23.09286104554
+          }
+        },
+        {
+          "name": "哆哆零食(昌岗东店)",
+          "address": "海珠区昌岗中路264号(近昌岗东路小学)",
+          "uid": "93df0dc3779d2232882fb508",
+          "location": {
+            "lng": 113.28623856333,
+            "lat": 23.098411361156
+          }
+        }
+      ]
+    }
+  }
+}

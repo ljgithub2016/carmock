@@ -1,0 +1,63 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 1,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "originInfo": {
+      "area_id": 257,
+      "wd": "潮牛火锅店广州江泰店",
+      "uid": ""
+    },
+    "destinationInfo": {
+      "area_id": 257,
+      "wd": "保利百合花园二期停车场",
+      "uid": ""
+    },
+    "origin": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "潮牛火锅店广州江泰店",
+          "address": "海珠区江南大道南450-452号(地铁江泰站B2出口)",
+          "uid": "3ae0c519d56842eeecdfcab0",
+          "telephone": "(020)81888968,13556193281",
+          "location": {
+            "lng": 113.28742702152,
+            "lat": 23.088245010874
+          }
+        }
+      ]
+    },
+    "destination": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "保利百合花园二期-停车场",
+          "address": "广州市海珠区依翠街1号",
+          "uid": "5211d2193cfb93257dc876f5",
+          "location": {
+            "lng": 113.28544994092,
+            "lat": 23.080649202513
+          }
+        },
+        {
+          "name": "保利百合花园二期停车场-入口",
+          "address": "广东省广州市海珠区依翠街1号",
+          "uid": "6227f5197220f2649122e0c2",
+          "location": {
+            "lng": 113.28544994092,
+            "lat": 23.080673306323
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 2,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "routes": [
+      {
+        "distance": 1372,
+        "duration": 245,
+        "steps": [
+          {
+            "area": 0,
+            "direction": 5,
+            "distance": 141,
+            "duration": 53,
+            "instructions": "从起点\u003c/b\u003e向东南方向出发,沿锦丽街\u003c/b\u003e行驶120米,过左侧的肯德基(海珠新都荟店)\u003c/font\u003e\u003c/b\u003e右转\u003c/b\u003e进入东晓南路\u003c/b\u003e",
+            "path": "113.29866392514,23.078416838321;113.29877414722,23.07827578702;113.29900465242,23.077993434614;113.29968610698,23.078385835308",
+            "pois": [
+              {
+                "detail": {
+                  "instructions": "",
+                  "position": 0
+                },
+                "location": {
+                  "lng": 113.29942559838,
+                  "lat": 23.078438532115
+                },
+                "name": "肯德基(海珠新都荟店)",
+                "type": 109
+              }
+            ],
+            "turn": 3,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.29866392514,
+              "lat": 23.078416838321
+            },
+            "stepDestinationLocation": {
+              "lng": 113.29968619681,
+              "lat": 23.078385669072
+            },
+            "stepOriginInstruction": "从起点向东南方向出发 - 150米",
+            "stepDestinationInstruction": "右转进入东晓南路 - 150米",
+            "traffic_condition": 0
+          },
+          {
+            "area": 0,
+            "direction": 4,
+            "distance": 145,
+            "duration": 34,
+            "instructions": "沿东晓南路\u003c/b\u003e行驶150米,朝南洲北路/广州大道南方向\u003c/b\u003e,左转\u003c/b\u003e进入南洲北路\u003c/b\u003e",
+            "path": "113.29977638668,23.078294571704;113.29986657655,23.078193666335;113.30000689188,23.078042141901;113.30041786665,23.077587401327;113.30049808533,23.077576512802;113.30061836844,23.077615079787;113.30069858712,23.077604191264",
+            "pois": [],
+            "turn": 7,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.29968619681,
+              "lat": 23.078385669072
+            },
+            "stepDestinationLocation": {
+              "lng": 113.30069867695,
+              "lat": 23.077603775672
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "左转进入南洲北路 - 760米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 3,
+            "distance": 764,
+            "duration": 92,
+            "instructions": "沿南洲北路\u003c/b\u003e行驶760米,右转\u003c/b\u003e",
+            "path": "113.30112977376,23.077588564986;113.30118996023,23.077587900038;113.3012801501,23.077586902616;113.30181149781,23.077580253135;113.3022025302,23.077515254443;113.30262365583,23.077469788587;113.30266372025,23.077469372994;113.30319515779,23.077422327869;113.30394730899,23.077412021161;113.30461924151,23.077322502381;113.3053213571,23.077222344343;113.30552194872,23.077199486688;113.3060435049,23.077141719145;113.30611375239,23.077140721719;113.3061337846,23.077140472363;113.30646481018,23.077105479349;113.30698645619,23.077057519788;113.30735763603,23.077021778683;113.30814014996,23.076949382136",
+            "pois": [],
+            "turn": 3,
+            "type": 3,
+            "stepOriginLocation": {
+              "lng": 113.30069867695,
+              "lat": 23.077603775672
+            },
+            "stepDestinationLocation": {
+              "lng": 113.30814023979,
+              "lat": 23.076947885995
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "右转 - 220米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 6,
+            "distance": 215,
+            "duration": 42,
+            "instructions": "行驶220米,右转\u003c/b\u003e进入盈丰路\u003c/b\u003e",
+            "path": "113.30814032962,23.07563792557;113.30814032962,23.075008042795",
+            "pois": [],
+            "turn": 3,
+            "type": 3,
+            "stepOriginLocation": {
+              "lng": 113.30814023979,
+              "lat": 23.076947885995
+            },
+            "stepDestinationLocation": {
+              "lng": 113.30814023979,
+              "lat": 23.075007876555
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "右转进入盈丰路 - 110米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 9,
+            "distance": 107,
+            "duration": 23,
+            "instructions": "沿盈丰路\u003c/b\u003e行驶110米,到达终点\u003c/b\u003e",
+            "path": "113.30710691896,23.075074289514;113.30709694777,23.075074455754",
+            "pois": [],
+            "turn": 0,
+            "type": 3,
+            "stepOriginLocation": {
+              "lng": 113.30814023979,
+              "lat": 23.075007876555
+            },
+            "stepDestinationLocation": {
+              "lng": 113.30709685794,
+              "lat": 23.075074455754
+            },
+            "stepDestinationInstruction": "到达终点",
+            "traffic_condition": 1
+          }
+        ],
+        "toll": 0,
+        "originLocation": {
+          "lng": 113.29866392514,
+          "lat": 23.078416838321
+        },
+        "destinationLocation": {
+          "lng": 113.30709685794,
+          "lat": 23.075074455754
+        }
+      }
+    ],
+    "origin": {
+      "area_id": 257,
+      "bid": "13755846098242087853",
+      "cname": "广州市",
+      "uid": "3129a0fb0f8eb33943afe6fd",
+      "wd": "海珠新都荟广场",
+      "originPt": {
+        "lng": 113.29866563192,
+        "lat": 23.078412848658
+      }
+    },
+    "destination": {
+      "area_id": 257,
+      "bid": "16823119581588277230",
+      "cname": "广州市",
+      "uid": "a40b69c722f7f1304f6d468c",
+      "wd": "万华花园",
+      "destinationPt": {
+        "lng": 113.30710072065,
+        "lat": 23.075071463432
+      }
+    },
+    "taxi": {
+      "detail": [
+        {
+          "desc": "全天",
+          "km_price": "2.6",
+          "start_price": "10.0",
+          "total_price": "10"
+        }
+      ],
+      "distance": 1372,
+      "duration": 246,
+      "remark": "全程1.4公里;2.5公里起步；燃油附加费0.0元；里程超过35.0公里，超过部分每公里收3.9元。"
+    },
+    "traffic_condition": 3
+  }
+}

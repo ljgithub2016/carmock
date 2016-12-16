@@ -1,0 +1,85 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 1,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "originInfo": {
+      "area_id": 257,
+      "wd": "广州市满族小学光塔校区",
+      "uid": ""
+    },
+    "destinationInfo": {
+      "area_id": 257,
+      "wd": "森马（大马站商业中心店）",
+      "uid": ""
+    },
+    "origin": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "广州市满族小学光塔校区",
+          "address": "光塔路89号",
+          "uid": "e85e25279e17092e94f08c97",
+          "telephone": "(020)81886690",
+          "location": {
+            "lng": 113.26378469847,
+            "lat": 23.129123511469
+          }
+        }
+      ]
+    },
+    "destination": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "森马（大马站商业中心店）",
+          "address": "中山五路33号大马站商业中心2层",
+          "uid": "d22ddc5d4a9ade222902e13f",
+          "telephone": "4008877588",
+          "location": {
+            "lng": 113.27514035808,
+            "lat": 23.131574367123
+          }
+        },
+        {
+          "name": "芝士皇后",
+          "address": "北京路313号步行街北口森马大厦首层9号铺",
+          "uid": "c3ae9125dfabd4026f3e1b8e",
+          "telephone": "(020)83346993",
+          "location": {
+            "lng": 113.27472614941,
+            "lat": 23.131767123528
+          }
+        },
+        {
+          "name": "四洲食家(北京路店)",
+          "address": "越秀区北京路森马大厦1楼",
+          "uid": "0523a141fa9cc404b33c8190",
+          "telephone": "(020)83014487",
+          "location": {
+            "lng": 113.27472219686,
+            "lat": 23.131770114574
+          }
+        },
+        {
+          "name": "泰爽(北京路店)",
+          "address": "北京路北口森马大楼9号铺",
+          "uid": "5b60cee9aac91a5ed3ff2386",
+          "telephone": "13078897626",
+          "location": {
+            "lng": 113.27471402228,
+            "lat": 23.131491947058
+          }
+        }
+      ]
+    }
+  }
+}

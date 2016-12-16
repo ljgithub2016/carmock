@@ -1,0 +1,277 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 2,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "routes": [
+      {
+        "distance": 1743,
+        "duration": 498,
+        "steps": [
+          {
+            "area": 0,
+            "direction": 9,
+            "distance": 360,
+            "duration": 136,
+            "instructions": "从起点\u003c/b\u003e向正西方向出发,沿晓园北路\u003c/b\u003e行驶360米,右转\u003c/b\u003e进入江南大道南\u003c/b\u003e",
+            "path": "113.28779218271,23.094631337598;113.28779218271,23.094631337598;113.2875922199,23.094641559863;113.28662213978,23.094662170606;113.28637223119,23.094672143545;113.28579237498,23.094691923206;113.28550249179,23.094711702863;113.28485274742,23.094711038;113.28439299466,23.094710373138;113.28429310309,23.09471029003",
+            "pois": [],
+            "turn": 3,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.28779218271,
+              "lat": 23.094631337598
+            },
+            "stepDestinationLocation": {
+              "lng": 113.28429238444,
+              "lat": 23.094709957599
+            },
+            "stepOriginInstruction": "从起点向正西方向出发 - 270米",
+            "stepDestinationInstruction": "右转进入江南大道南 - 270米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 11,
+            "distance": 274,
+            "duration": 50,
+            "instructions": "沿江南大道南\u003c/b\u003e行驶270米,直行\u003c/b\u003e进入江南大道中\u003c/b\u003e",
+            "path": "113.2839117724,23.09560901472;113.28376166555,23.095958563295;113.28365162312,23.09620821654;113.28358155529,23.096378003749;113.28349154508,23.096577709131;113.28337144163,23.096877308194;113.28331143483,23.097017093157",
+            "pois": [],
+            "turn": 1,
+            "type": 3,
+            "stepOriginLocation": {
+              "lng": 113.28429238444,
+              "lat": 23.094709957599
+            },
+            "stepDestinationLocation": {
+              "lng": 113.28331080601,
+              "lat": 23.097017176263
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "直行进入江南大道中 - 700米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 11,
+            "distance": 701,
+            "duration": 140,
+            "instructions": "沿江南大道中\u003c/b\u003e行驶700米,左转\u003c/b\u003e进入江南西路\u003c/b\u003e",
+            "path": "113.28323067716,23.097216880684;113.28315063814,23.097436613374;113.28293037363,23.097975804608;113.28288042784,23.098095643053;113.28267013452,23.098614803222;113.28212953427,23.099722592988;113.28205955627,23.099882320052;113.28160905605,23.100840179782;113.28158911367,23.100880069678;113.28154913908,23.100969905004;113.28141906444,23.101239244411;113.28098868627,23.102156955543;113.28083857942,23.102476154315;113.2807585404,23.102665711984;113.28070859461,23.102755463;113.28062873525,23.102765019817",
+            "pois": [],
+            "turn": 7,
+            "type": 3,
+            "stepOriginLocation": {
+              "lng": 113.28331080601,
+              "lat": 23.097017176263
+            },
+            "stepDestinationLocation": {
+              "lng": 113.28062756745,
+              "lat": 23.102764936714
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "左转进入江南西路 - 170米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 8,
+            "distance": 165,
+            "duration": 44,
+            "instructions": "沿江南西路\u003c/b\u003e行驶40米,过右侧的英联大厦\u003c/font\u003e\u003c/b\u003e约130米后,右转\u003c/b\u003e进入紫丹大街\u003c/b\u003e",
+            "path": "113.28053764707,23.10271449333;113.28004851972,23.102461860609;113.27997872138,23.102421555673;113.27922019221,23.102026982171",
+            "pois": [
+              {
+                "detail": {
+                  "instructions": "",
+                  "position": 1
+                },
+                "location": {
+                  "lng": 113.27973878398,
+                  "lat": 23.102539894254
+                },
+                "name": "英联大厦",
+                "type": 106
+              }
+            ],
+            "turn": 3,
+            "type": 3,
+            "stepOriginLocation": {
+              "lng": 113.28062756745,
+              "lat": 23.102764936714
+            },
+            "stepDestinationLocation": {
+              "lng": 113.27922001255,
+              "lat": 23.102026732861
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "右转进入紫丹大街 - 30米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 0,
+            "distance": 34,
+            "duration": 56,
+            "instructions": "沿紫丹大街\u003c/b\u003e行驶30米,过左侧的南油写字楼\u003c/font\u003e\u003c/b\u003e调头\u003c/b\u003e",
+            "path": "113.27913979387,23.102326153426",
+            "pois": [
+              {
+                "detail": {
+                  "instructions": "",
+                  "position": 0
+                },
+                "location": {
+                  "lng": 113.27882035643,
+                  "lat": 23.102224019759
+                },
+                "name": "南油写字楼",
+                "type": 106
+              }
+            ],
+            "turn": 5,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.27922001255,
+              "lat": 23.102026732861
+            },
+            "stepDestinationLocation": {
+              "lng": 113.27913979387,
+              "lat": 23.102326153426
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "调头 - 40米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 5,
+            "distance": 42,
+            "duration": 44,
+            "instructions": "继续沿紫丹大街\u003c/b\u003e行驶10米,过右侧的南油写字楼\u003c/font\u003e\u003c/b\u003e左转\u003c/b\u003e进入江南西路\u003c/b\u003e",
+            "path": "113.27922001255,23.102026732861;113.27924004476,23.101956926138",
+            "pois": [
+              {
+                "detail": {
+                  "instructions": "",
+                  "position": 1
+                },
+                "location": {
+                  "lng": 113.27882035643,
+                  "lat": 23.102224019759
+                },
+                "name": "南油写字楼",
+                "type": 106
+              }
+            ],
+            "turn": 7,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.27913979387,
+              "lat": 23.102326153426
+            },
+            "stepDestinationLocation": {
+              "lng": 113.27924004476,
+              "lat": 23.101956843034
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "左转进入江南西路 - 170米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 2,
+            "distance": 167,
+            "duration": 25,
+            "instructions": "沿江南西路\u003c/b\u003e行驶70米,过右侧的PORORO主题乐园\u003c/font\u003e\u003c/b\u003e约90米后,到达终点\u003c/b\u003e",
+            "path": "113.28056774031,23.102654659308;113.28064759967,23.10268507494",
+            "pois": [
+              {
+                "location": {
+                  "lng": 2.8908711447769e-9,
+                  "lat": -3.067393572659e-8
+                }
+              },
+              {
+                "detail": {
+                  "instructions": "",
+                  "position": 1
+                },
+                "location": {
+                  "lng": 113.27990892305,
+                  "lat": 23.102191027826
+                },
+                "name": "PORORO主题乐园",
+                "type": 113
+              }
+            ],
+            "turn": 0,
+            "type": 3,
+            "stepOriginLocation": {
+              "lng": 113.27924004476,
+              "lat": 23.101956843034
+            },
+            "stepDestinationLocation": {
+              "lng": 113.28064759967,
+              "lat": 23.10268507494
+            },
+            "stepDestinationInstruction": "到达终点",
+            "traffic_condition": 1
+          }
+        ],
+        "toll": 0,
+        "originLocation": {
+          "lng": 113.28779218271,
+          "lat": 23.094631337598
+        },
+        "destinationLocation": {
+          "lng": 113.28064759967,
+          "lat": 23.10268507494
+        }
+      }
+    ],
+    "origin": {
+      "area_id": 257,
+      "bid": "17958753750713630719",
+      "cname": "广州市",
+      "uid": "d0b8923f20a8f0e3b5f42f3b",
+      "wd": "细岗东区",
+      "originPt": {
+        "lng": 113.2877871522,
+        "lat": 23.0946281795
+      }
+    },
+    "destination": {
+      "area_id": 257,
+      "bid": "6561200351398607684",
+      "cname": "广州市",
+      "uid": "04ed0008571fe37e0ab93a4f",
+      "wd": "富力海珠城广场",
+      "destinationPt": {
+        "lng": 113.28065460645,
+        "lat": 23.102689396286
+      }
+    },
+    "taxi": {
+      "detail": [
+        {
+          "desc": "全天",
+          "km_price": "2.6",
+          "start_price": "10.0",
+          "total_price": "10"
+        }
+      ],
+      "distance": 1743,
+      "duration": 499,
+      "remark": "全程1.7公里;2.5公里起步；燃油附加费0.0元；里程超过35.0公里，超过部分每公里收3.9元。"
+    },
+    "traffic_condition": 1
+  }
+}

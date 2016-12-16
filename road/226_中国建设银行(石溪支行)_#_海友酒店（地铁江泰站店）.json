@@ -1,0 +1,65 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 1,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "originInfo": {
+      "area_id": 257,
+      "wd": "中国建设银行(石溪支行)",
+      "uid": ""
+    },
+    "destinationInfo": {
+      "area_id": 257,
+      "wd": "海友酒店（地铁江泰站店）",
+      "uid": ""
+    },
+    "origin": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "中国建设银行(石溪支行)",
+          "address": "海珠区工业大道中373号",
+          "uid": "f3c2373c35233652d22dd66c",
+          "telephone": "(020)84342760",
+          "location": {
+            "lng": 113.28116655076,
+            "lat": 23.079600516326
+          }
+        },
+        {
+          "name": "中国建设银行24小时自助银行(广州石溪支行)",
+          "address": "工业大道中373-1号",
+          "uid": "78306b3f4a65163bb05c6a14",
+          "telephone": "(020)84342760",
+          "location": {
+            "lng": 113.28114876431,
+            "lat": 23.07966576335
+          }
+        }
+      ]
+    },
+    "destination": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "海友酒店（地铁江泰站店）",
+          "address": "广州市海珠区江南大道南492号(江泰路地铁站D出口即到)",
+          "uid": "f3b20b2b4be6e2ca0f0a70d1",
+          "telephone": "(020)84139548",
+          "location": {
+            "lng": 113.28723999431,
+            "lat": 23.086981039961
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 2,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "routes": [
+      {
+        "distance": 2193,
+        "duration": 503,
+        "steps": [
+          {
+            "area": 0,
+            "direction": 6,
+            "distance": 10,
+            "duration": 14,
+            "instructions": "从起点\u003c/b\u003e向正南方向出发,沿西华北二巷\u003c/b\u003e行驶10米,右转\u003c/b\u003e进入宝业路\u003c/b\u003e",
+            "path": "113.26932535702,23.097593683796;113.26932544685,23.097513818912",
+            "pois": [],
+            "turn": 3,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.26932535702,
+              "lat": 23.097593683796
+            },
+            "stepDestinationLocation": {
+              "lng": 113.26932544685,
+              "lat": 23.097513652699
+            },
+            "stepOriginInstruction": "从起点向正南方向出发 - 140米",
+            "stepDestinationInstruction": "右转进入宝业路 - 140米",
+            "traffic_condition": 0
+          },
+          {
+            "area": 0,
+            "direction": 9,
+            "distance": 135,
+            "duration": 48,
+            "instructions": "沿宝业路\u003c/b\u003e行驶140米,调头\u003c/b\u003e",
+            "path": "113.26809908017,23.097416169274;113.26808928864,23.097346110808",
+            "pois": [],
+            "turn": 5,
+            "type": 3,
+            "stepOriginLocation": {
+              "lng": 113.26932544685,
+              "lat": 23.097513652699
+            },
+            "stepDestinationLocation": {
+              "lng": 113.26808919881,
+              "lat": 23.097346027702
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "调头 - 620米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 3,
+            "distance": 615,
+            "duration": 111,
+            "instructions": "继续沿宝业路\u003c/b\u003e行驶580米,过右侧的新一城广场\u003c/font\u003e\u003c/b\u003e直行\u003c/b\u003e进入江南西路\u003c/b\u003e",
+            "path": "113.26925564852,23.097442680119;113.26952487068,23.097456392623;113.26982400641,23.097480493384;113.26991374713,23.097491712702;113.2701729981,23.097545232993;113.27039236431,23.097628172779;113.27073129498,23.097792639397;113.27157866656,23.098203431076;113.27191768706,23.098367647665;113.27216696684,23.098490643763;113.2722168228,23.098511253909;113.27303446047,23.098930852512;113.27356302343,23.099206761348;113.27363282177,23.099237510189",
+            "pois": [
+              {
+                "detail": {
+                  "instructions": "",
+                  "position": 1
+                },
+                "location": {
+                  "lng": 113.2734435488,
+                  "lat": 23.098915478057
+                },
+                "name": "新一城广场",
+                "type": 104
+              }
+            ],
+            "turn": 1,
+            "type": 3,
+            "stepOriginLocation": {
+              "lng": 113.26808919881,
+              "lat": 23.097346027702
+            },
+            "stepDestinationLocation": {
+              "lng": 113.27363282177,
+              "lat": 23.099237510189
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "直行进入江南西路 - 820米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 2,
+            "distance": 823,
+            "duration": 188,
+            "instructions": "沿江南西路\u003c/b\u003e行驶720米,过右侧的PORORO主题乐园\u003c/font\u003e\u003c/b\u003e约100米后,左转\u003c/b\u003e进入江南大道中\u003c/b\u003e",
+            "path": "113.27398190329,23.099411282559;113.27422130171,23.099523806487;113.27447067132,23.099636413425;113.27487966982,23.099830629005;113.27528866832,23.100024678091;113.27598701102,23.100361333885;113.27686501483,23.100799126418;113.2772242472,23.100972148809;113.277553566,23.101134783003;113.27847172406,23.10159168679;113.27904062094,23.10185562322;113.27924022442,23.101956926138;113.28056791997,23.102654742411;113.28065775052,23.102695213482;113.28070760647,23.102755463",
+            "pois": [
+              {
+                "detail": {
+                  "instructions": "",
+                  "position": 1
+                },
+                "location": {
+                  "lng": 113.27990892305,
+                  "lat": 23.102191027826
+                },
+                "name": "PORORO主题乐园",
+                "type": 113
+              }
+            ],
+            "turn": 7,
+            "type": 3,
+            "stepOriginLocation": {
+              "lng": 113.27363282177,
+              "lat": 23.099237510189
+            },
+            "stepDestinationLocation": {
+              "lng": 113.28070742681,
+              "lat": 23.102755379897
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "左转进入江南大道中 - 280米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 11,
+            "distance": 281,
+            "duration": 64,
+            "instructions": "沿江南大道中\u003c/b\u003e行驶40米,过右侧的麦当劳(海珠购物中心分店)\u003c/font\u003e\u003c/b\u003e约240米后,右转\u003c/b\u003e进入万松路\u003c/b\u003e",
+            "path": "113.28056729115,23.103084549538;113.28039715209,23.103473552043;113.28016700622,23.103982137235;113.28001689937,23.104321192948;113.27992688916,23.10452063708;113.27992688916,23.104550636776;113.27996668409,23.104670884796;113.27989670609,23.104810412251;113.27975666026,23.105099521978",
+            "pois": [
+              {
+                "detail": {
+                  "instructions": "",
+                  "position": 1
+                },
+                "location": {
+                  "lng": 113.28077695566,
+                  "lat": 23.103145713007
+                },
+                "name": "麦当劳(海珠购物中心分店)",
+                "type": 109
+              }
+            ],
+            "turn": 3,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.28070742681,
+              "lat": 23.102755379897
+            },
+            "stepDestinationLocation": {
+              "lng": 113.27975612128,
+              "lat": 23.105099521978
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "右转进入万松路 - 240米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 1,
+            "distance": 242,
+            "duration": 51,
+            "instructions": "沿万松路\u003c/b\u003e行驶240米,左转\u003c/b\u003e进入万松里\u003c/b\u003e",
+            "path": "113.27983589081,23.105239963096;113.28019485369,23.105821919588;113.28028450458,23.106022358675;113.28036409445,23.106312712272;113.28056315895,23.106993636332;113.2806229861,23.107113965239",
+            "pois": [],
+            "turn": 7,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.27975612128,
+              "lat": 23.105099521978
+            },
+            "stepDestinationLocation": {
+              "lng": 113.28062307593,
+              "lat": 23.107114048339
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "左转进入万松里 - 90米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 10,
+            "distance": 87,
+            "duration": 24,
+            "instructions": "沿万松里\u003c/b\u003e行驶90米,到达终点\u003c/b\u003e",
+            "path": "113.279883501,23.107479771094",
+            "pois": [],
+            "turn": 0,
+            "type": 21,
+            "stepOriginLocation": {
+              "lng": 113.28062307593,
+              "lat": 23.107114048339
+            },
+            "stepDestinationLocation": {
+              "lng": 113.279883501,
+              "lat": 23.107479771094
+            },
+            "stepDestinationInstruction": "到达终点",
+            "traffic_condition": 0
+          }
+        ],
+        "toll": 0,
+        "originLocation": {
+          "lng": 113.26932535702,
+          "lat": 23.097593683796
+        },
+        "destinationLocation": {
+          "lng": 113.279883501,
+          "lat": 23.107479771094
+        }
+      }
+    ],
+    "origin": {
+      "area_id": 257,
+      "bid": "12240828507622844577",
+      "cname": "广州市",
+      "uid": "4e77acb9ca9c49161894c6b7",
+      "wd": "江南骏园",
+      "originPt": {
+        "lng": 113.26932697397,
+        "lat": 23.097595096598
+      }
+    },
+    "destination": {
+      "area_id": 257,
+      "bid": "10555393",
+      "cname": "广州市",
+      "uid": "aea23fecaf8ffcb9445726c3",
+      "wd": "万松园",
+      "destinationPt": {
+        "lng": 113.27988206371,
+        "lat": 23.107484341584
+      }
+    },
+    "taxi": {
+      "detail": [
+        {
+          "desc": "全天",
+          "km_price": "2.6",
+          "start_price": "10.0",
+          "total_price": "10"
+        }
+      ],
+      "distance": 2193,
+      "duration": 504,
+      "remark": "全程2.2公里;2.5公里起步；燃油附加费0.0元；里程超过35.0公里，超过部分每公里收3.9元。"
+    },
+    "traffic_condition": 1
+  }
+}

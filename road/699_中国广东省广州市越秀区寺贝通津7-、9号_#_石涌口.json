@@ -1,0 +1,97 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 1,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "originInfo": {
+      "area_id": 257,
+      "wd": "中国广东省广州市越秀区寺贝通津7-、9号",
+      "uid": ""
+    },
+    "destinationInfo": {
+      "area_id": 257,
+      "wd": "石涌口",
+      "uid": ""
+    },
+    "origin": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "寺贝通津7-",
+          "address": "越秀区",
+          "location": {
+            "lng": 113.30363883088,
+            "lat": 23.128597408269
+          }
+        },
+        {
+          "name": "寺贝通津7号",
+          "address": "越秀区",
+          "location": {
+            "lng": 113.30363883088,
+            "lat": 23.128597408269
+          }
+        }
+      ]
+    },
+    "destination": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "石涌口",
+          "address": "",
+          "uid": "dbf49fb221eb29c1c5f025f6",
+          "location": {
+            "lng": 113.28926899697,
+            "lat": 23.115880480275
+          }
+        },
+        {
+          "name": "雅丝美发美容(石涌口小区东南)",
+          "address": "滨江中路与远安路交叉口南(石涌口小区东南)",
+          "uid": "0928073433ecbe10a2d23038",
+          "location": {
+            "lng": 113.29022730928,
+            "lat": 23.114063605548
+          }
+        },
+        {
+          "name": "海印桥",
+          "address": "海珠区石涌口(近海印公园)",
+          "uid": "40045738512d6c20bd484239",
+          "location": {
+            "lng": 113.28968042089,
+            "lat": 23.115721021742
+          }
+        },
+        {
+          "name": "聪记副食店",
+          "address": "福北路与福北路石涌横街交叉口东北50米",
+          "uid": "3795d887d667369e2102626c",
+          "telephone": "(020)34831961",
+          "location": {
+            "lng": 113.33386492484,
+            "lat": 22.916361384513
+          }
+        },
+        {
+          "name": "广州科雄精密机械有限公司(东南门)",
+          "address": "石涌上街与福龙路交叉口东北150米",
+          "uid": "634ebfd55116b2da3310afe3",
+          "location": {
+            "lng": 113.33274608533,
+            "lat": 22.923362497013
+          }
+        }
+      ]
+    }
+  }
+}

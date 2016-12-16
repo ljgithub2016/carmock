@@ -1,0 +1,55 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 1,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "originInfo": {
+      "area_id": 257,
+      "wd": "世纪云顶雅苑",
+      "uid": ""
+    },
+    "destinationInfo": {
+      "area_id": 257,
+      "wd": "广之旅国际旅行社(乐嘉路)",
+      "uid": ""
+    },
+    "origin": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "世纪云顶雅苑",
+          "address": "广州市海珠区广州大道南252～282号(双号)",
+          "uid": "f768c7f069ed327fa11de995",
+          "telephone": "34323188",
+          "location": {
+            "lng": 113.32116647816,
+            "lat": 23.106127896547
+          }
+        }
+      ]
+    },
+    "destination": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "广之旅国际旅行社",
+          "address": "乐嘉路1号四层客服中心",
+          "uid": "211c3f55ae4c7c7795f08cc2",
+          "telephone": "4008638888,(020)86338888",
+          "location": {
+            "lng": 113.26606495718,
+            "lat": 23.174264975477
+          }
+        }
+      ]
+    }
+  }
+}

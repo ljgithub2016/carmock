@@ -1,0 +1,103 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 1,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "originInfo": {
+      "area_id": 257,
+      "wd": "飞马二手车行",
+      "uid": ""
+    },
+    "destinationInfo": {
+      "area_id": 257,
+      "wd": "广州市红十字会医院停车场(出入口)",
+      "uid": ""
+    },
+    "origin": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "飞马二手车行",
+          "address": "广东省广州市天河区新科路155号",
+          "uid": "88477c17145a6c98f8f0cbd2",
+          "telephone": "18100263445",
+          "location": {
+            "lng": 113.38794192839,
+            "lat": 23.130598782778
+          }
+        },
+        {
+          "name": "飞马二手车行",
+          "address": "广东省广州市白云区新市新街32号",
+          "uid": "335bac30aac0e1cdbfa822e6",
+          "telephone": "18100263445",
+          "location": {
+            "lng": 113.26649470653,
+            "lat": 23.197303990867
+          }
+        },
+        {
+          "name": "飞马二手车行",
+          "address": "广东省广州市白云区庆新一路23号",
+          "uid": "c9b04dc0789df0e37702697c",
+          "telephone": "18100263445",
+          "location": {
+            "lng": 113.23641207196,
+            "lat": 23.213776714299
+          }
+        },
+        {
+          "name": "飞马二手车行",
+          "address": "广东省广州市海珠区青竹大街28号",
+          "uid": "504eedf397a7e314da2f2823",
+          "telephone": "18100263445",
+          "location": {
+            "lng": 113.27856308173,
+            "lat": 23.099832623515
+          }
+        },
+        {
+          "name": "飞马二手汽车有限公司",
+          "address": "新华街建设北路186号",
+          "uid": "428d91c75d0e0fdf8c55ec7b",
+          "telephone": "(020)36880119",
+          "location": {
+            "lng": 113.21502674151,
+            "lat": 23.413783129706
+          }
+        }
+      ]
+    },
+    "destination": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "广州市红十字会医院停车场(出入口)",
+          "address": "广东省广州市海珠区同福中路396号广州市红十字会医院内",
+          "uid": "ca76b1029222f2ac882fb5e8",
+          "location": {
+            "lng": 113.26916141627,
+            "lat": 23.111918639284
+          }
+        },
+        {
+          "name": "广州市红十字会医院地下停车场-出入口",
+          "address": "广州市海珠区",
+          "uid": "6fb85075e8900b784c55475a",
+          "location": {
+            "lng": 113.26785249531,
+            "lat": 23.11165380879
+          }
+        }
+      ]
+    }
+  }
+}

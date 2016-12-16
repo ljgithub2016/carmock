@@ -1,0 +1,69 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 1,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "originInfo": {
+      "area_id": 257,
+      "wd": "中国广东省广州市海珠区榕景路63号",
+      "uid": ""
+    },
+    "destinationInfo": {
+      "area_id": 257,
+      "wd": "明德广地实验学校",
+      "uid": ""
+    },
+    "origin": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "榕景路63号",
+          "address": "海珠区",
+          "location": {
+            "lng": 113.26327437111,
+            "lat": 23.092255346094
+          }
+        },
+        {
+          "name": "榕景路61号",
+          "address": "海珠区",
+          "location": {
+            "lng": 113.26310953205,
+            "lat": 23.0921480519
+          }
+        },
+        {
+          "name": "榕景路83号",
+          "address": "海珠区",
+          "location": {
+            "lng": 113.26492249223,
+            "lat": 23.093327784612
+          }
+        }
+      ]
+    },
+    "destination": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "明德广地实验学校",
+          "address": "广州市番禺区迎宾大道广地花园内",
+          "uid": "90d8c9057391d5713310af13",
+          "telephone": "020-34792190",
+          "location": {
+            "lng": 113.34785297892,
+            "lat": 23.027537489445
+          }
+        }
+      ]
+    }
+  }
+}

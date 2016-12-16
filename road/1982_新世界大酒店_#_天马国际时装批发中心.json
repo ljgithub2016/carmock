@@ -1,0 +1,101 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 1,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "originInfo": {
+      "area_id": 257,
+      "wd": "新世界大酒店",
+      "uid": ""
+    },
+    "destinationInfo": {
+      "area_id": 257,
+      "wd": "天马国际时装批发中心",
+      "uid": ""
+    },
+    "origin": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "新世界大酒店",
+          "address": "越秀区人民北路520号（与净慧路交汇处）",
+          "uid": "cac5fc7680bdfdea2cb96d62",
+          "telephone": "(020)81099888",
+          "location": {
+            "lng": 113.26146203974,
+            "lat": 23.134594046808
+          }
+        },
+        {
+          "name": "Seine Home塞纳河公寓 · 新世界一期",
+          "address": "永泰集贤庄第十二社7号1楼",
+          "uid": "9d147ffe75cbc60d0f0a7040",
+          "location": {
+            "lng": 113.30702696977,
+            "lat": 23.237350039359
+          }
+        },
+        {
+          "name": "Seine Home塞纳河新世界二期",
+          "address": "广东省广州市白云区集贤路139",
+          "uid": "6195242cb09b52bf72455b5c",
+          "telephone": "13610286060",
+          "location": {
+            "lng": 113.30947997263,
+            "lat": 23.238948048942
+          }
+        }
+      ]
+    },
+    "destination": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "天马国际时装批发中心",
+          "address": "环市西路168号天马大厦",
+          "uid": "c7b8cb1a352687373be4a6da",
+          "location": {
+            "lng": 113.26012590013,
+            "lat": 23.153563157109
+          }
+        },
+        {
+          "name": "天马国际时装批发中心-北门",
+          "address": "环市西路168",
+          "uid": "1c59107929bb94c4d0ff23cc",
+          "location": {
+            "lng": 113.26118024131,
+            "lat": 23.153722487065
+          }
+        },
+        {
+          "name": "广州天马国际时装批发中心西门",
+          "address": "广东省广州市越秀区环市西路168",
+          "uid": "ae62eb409c5a87d0364aae84",
+          "location": {
+            "lng": 113.26021456288,
+            "lat": 23.153523698409
+          }
+        },
+        {
+          "name": "广州轩高贸易有限公司",
+          "address": "天马国际服装批发中心1楼1051档",
+          "uid": "0ae15c08f6d10fdf4afc8db6",
+          "telephone": "13542142021",
+          "location": {
+            "lng": 113.26038595957,
+            "lat": 23.153540644884
+          }
+        }
+      ]
+    }
+  }
+}

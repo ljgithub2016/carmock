@@ -1,0 +1,347 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 2,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "routes": [
+      {
+        "distance": 2094,
+        "duration": 611,
+        "steps": [
+          {
+            "area": 0,
+            "direction": 0,
+            "distance": 28,
+            "duration": 30,
+            "instructions": "从起点\u003c/b\u003e向正北方向出发,沿周门西街\u003c/b\u003e行驶30米,右转\u003c/b\u003e进入石桂里\u003c/b\u003e",
+            "path": "113.24422202989,23.135912066203;113.24421214853,23.136171946444",
+            "pois": [],
+            "turn": 3,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.24422202989,
+              "lat": 23.135912066203
+            },
+            "stepDestinationLocation": {
+              "lng": 113.2442120587,
+              "lat": 23.136171863362
+            },
+            "stepOriginInstruction": "从起点向正北方向出发 - 70米",
+            "stepDestinationInstruction": "右转进入石桂里 - 70米",
+            "traffic_condition": 0
+          },
+          {
+            "area": 0,
+            "direction": 3,
+            "distance": 67,
+            "duration": 25,
+            "instructions": "沿石桂里\u003c/b\u003e行驶70米,右转\u003c/b\u003e进入周门街\u003c/b\u003e",
+            "path": "113.24486018613,23.136221213964",
+            "pois": [],
+            "turn": 3,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.2442120587,
+              "lat": 23.136171863362
+            },
+            "stepDestinationLocation": {
+              "lng": 113.24486018613,
+              "lat": 23.136221213964
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "右转进入周门街 - 540米",
+            "traffic_condition": 0
+          },
+          {
+            "area": 0,
+            "direction": 6,
+            "distance": 541,
+            "duration": 153,
+            "instructions": "沿周门街\u003c/b\u003e行驶460米,过左侧的稻香村(周门街店)\u003c/font\u003e\u003c/b\u003e约80米后,直行\u003c/b\u003e进入恩洲大巷\u003c/b\u003e",
+            "path": "113.24485021494,23.135891129538;113.2448900997,23.13556179203;113.24496986923,23.134973070117;113.24497984042,23.134583329123;113.24497984042,23.134403454669;113.24498981161,23.134313725058;113.24500984383,23.133464115564;113.24501990485,23.133104363375;113.24502996587,23.132644577055;113.24505008791,23.131775016565;113.24505008791,23.131725082716;113.24501038281,23.131464612166;113.24500050145,23.131354524778",
+            "pois": [
+              {
+                "detail": {
+                  "instructions": "",
+                  "position": 0
+                },
+                "location": {
+                  "lng": 113.24507991166,
+                  "lat": 23.132084589394
+                },
+                "name": "稻香村(周门街店)",
+                "type": 113
+              }
+            ],
+            "turn": 1,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.24486018613,
+              "lat": 23.136221213964
+            },
+            "stepDestinationLocation": {
+              "lng": 113.24500032179,
+              "lat": 23.131353444675
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "直行进入恩洲大巷 - 130米",
+            "traffic_condition": 0
+          },
+          {
+            "area": 0,
+            "direction": 6,
+            "distance": 130,
+            "duration": 46,
+            "instructions": "沿恩洲大巷\u003c/b\u003e行驶80米,过左侧的百利商贸中心\u003c/font\u003e\u003c/b\u003e左转\u003c/b\u003e",
+            "path": "113.24512024557,23.13018526645",
+            "pois": [
+              {
+                "detail": {
+                  "instructions": "",
+                  "position": 0
+                },
+                "location": {
+                  "lng": 113.24517989306,
+                  "lat": 23.130636088085
+                },
+                "name": "百利商贸中心",
+                "type": 104
+              }
+            ],
+            "turn": 7,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.24500032179,
+              "lat": 23.131353444675
+            },
+            "stepDestinationLocation": {
+              "lng": 113.24512024557,
+              "lat": 23.13018526645
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "左转 - 200米",
+            "traffic_condition": 2
+          },
+          {
+            "area": 0,
+            "direction": 3,
+            "distance": 195,
+            "duration": 66,
+            "instructions": "继续沿恩洲大巷\u003c/b\u003e行驶200米,右转\u003c/b\u003e进入龙津西路\u003c/b\u003e",
+            "path": "113.24540932029,23.130199557171;113.24545926607,23.129940412996;113.24554909662,23.129541850095;113.2457186967,23.129234514657;113.24594812393,23.12881808605",
+            "pois": [],
+            "turn": 3,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.24512024557,
+              "lat": 23.13018526645
+            },
+            "stepDestinationLocation": {
+              "lng": 113.24594812393,
+              "lat": 23.128817753704
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "右转进入龙津西路 - 170米",
+            "traffic_condition": 2
+          },
+          {
+            "area": 0,
+            "direction": 8,
+            "distance": 168,
+            "duration": 56,
+            "instructions": "沿龙津西路\u003c/b\u003e行驶80米,过左侧的格力电器(no.粤a0339)\u003c/font\u003e\u003c/b\u003e约90米后,右转\u003c/b\u003e",
+            "path": "113.24553957458,23.128501609404;113.24529047447,23.128308017385;113.24502143197,23.128094151881;113.24487204376,23.127982067608;113.24469274198,23.127829519846",
+            "pois": [
+              {
+                "detail": {
+                  "instructions": "",
+                  "position": 0
+                },
+                "location": {
+                  "lng": 113.24542001012,
+                  "lat": 23.128289821382
+                },
+                "name": "格力电器(no.粤a0339)",
+                "type": 105
+              }
+            ],
+            "turn": 3,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.24594812393,
+              "lat": 23.128817753704
+            },
+            "stepDestinationLocation": {
+              "lng": 113.24469238266,
+              "lat": 23.127829104411
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "右转 - 220米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 11,
+            "distance": 224,
+            "duration": 58,
+            "instructions": "继续沿龙津西路\u003c/b\u003e行驶100米,过左侧的司法大厦\u003c/font\u003e\u003c/b\u003e约130米后,左转\u003c/b\u003e",
+            "path": "113.24454272496,23.127986969739;113.24443313169,23.12808534467;113.24438336556,23.128134615194;113.24430368586,23.128163446336;113.24417415021,23.128171588848;113.24411441289,23.128150817134;113.24393502128,23.12807836537;113.24370577372,23.127995195348;113.24332695828,23.127850042349;113.24276866141,23.12764257382",
+            "pois": [
+              {
+                "detail": {
+                  "instructions": "",
+                  "position": 0
+                },
+                "location": {
+                  "lng": 113.24412393493,
+                  "lat": 23.127930969113
+                },
+                "name": "司法大厦",
+                "type": 106
+              }
+            ],
+            "turn": 7,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.24469238266,
+              "lat": 23.127829104411
+            },
+            "stepDestinationLocation": {
+              "lng": 113.24276794277,
+              "lat": 23.127642241472
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "左转 - 560米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 6,
+            "distance": 563,
+            "duration": 124,
+            "instructions": "继续沿龙津西路\u003c/b\u003e行驶500米,过左侧的翠香百货店\u003c/font\u003e\u003c/b\u003e约70米后,右转\u003c/b\u003e进入多宝路\u003c/b\u003e",
+            "path": "113.24276794277,23.127612246996;113.24277791396,23.127572448221;113.24282785974,23.127333239884;113.2429476937,23.12704492638;113.24297760727,23.126965411565;113.24301749204,23.126886062879;113.24306743782,23.126686818532;113.24311738361,23.126487573886;113.24310759208,23.126237562145;113.24309789038,23.125937530817;113.24308809885,23.125687518039;113.24308809885,23.125617640671;113.24306842596,23.125307471126;113.24302890052,23.124797056604;113.24300922763,23.124456889951;113.24297958354,23.124076590244;113.24295002929,23.123556366397;113.24292047504,23.123146068622;113.24289101062,23.122595845516",
+            "pois": [
+              {
+                "detail": {
+                  "instructions": "",
+                  "position": 0
+                },
+                "location": {
+                  "lng": 113.24298964456,
+                  "lat": 23.123205644137
+                },
+                "name": "翠香百货店",
+                "type": 104
+              }
+            ],
+            "turn": 3,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.24276794277,
+              "lat": 23.127642241472
+            },
+            "stepDestinationLocation": {
+              "lng": 113.24289029198,
+              "lat": 23.12259443298
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "右转进入多宝路 - 180米",
+            "traffic_condition": 2
+          },
+          {
+            "area": 0,
+            "direction": 9,
+            "distance": 178,
+            "duration": 50,
+            "instructions": "沿多宝路\u003c/b\u003e行驶180米,过右侧的广州医科大学第三附属医院-门诊大楼\u003c/font\u003e\u003c/b\u003e到达终点\u003c/b\u003e",
+            "path": "113.2418530186,23.122650768221;113.24158379644,23.122667303191;113.24139434381,23.122645034989;113.24129472173,23.122603905279;113.24119509965,23.122552721621;113.24118521829,23.122542667686",
+            "pois": [
+              {
+                "location": {
+                  "lng": 2.8908711447769e-9,
+                  "lat": -3.067393572659e-8
+                }
+              },
+              {
+                "detail": {
+                  "instructions": "",
+                  "position": 1
+                },
+                "location": {
+                  "lng": 113.24086551136,
+                  "lat": 23.122708432882
+                },
+                "name": "广州医科大学第三附属医院-门诊大楼",
+                "type": 106
+              }
+            ],
+            "turn": 0,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.24289029198,
+              "lat": 23.12259443298
+            },
+            "stepDestinationLocation": {
+              "lng": 113.24118485897,
+              "lat": 23.122542335324
+            },
+            "stepDestinationInstruction": "到达终点",
+            "traffic_condition": 1
+          }
+        ],
+        "toll": 0,
+        "originLocation": {
+          "lng": 113.24422202989,
+          "lat": 23.135912066203
+        },
+        "destinationLocation": {
+          "lng": 113.24118485897,
+          "lat": 23.122542335324
+        }
+      }
+    ],
+    "origin": {
+      "area_id": 257,
+      "bid": "7371019561418255037",
+      "cname": "广州市",
+      "uid": "e79c4edb0c25e88ff03cba82",
+      "wd": "广州市荔湾区疾病预防控制中心",
+      "originPt": {
+        "lng": 113.24421933498,
+        "lat": 23.135918048107
+      }
+    },
+    "destination": {
+      "area_id": 257,
+      "bid": "1265512496018489343",
+      "cname": "广州市",
+      "uid": "2fd2beab8303e04b7adbd2c1",
+      "wd": "广医三院",
+      "destinationPt": {
+        "lng": 113.24119204541,
+        "lat": 23.122541172059
+      }
+    },
+    "taxi": {
+      "detail": [
+        {
+          "desc": "全天",
+          "km_price": "2.6",
+          "start_price": "10.0",
+          "total_price": "10"
+        }
+      ],
+      "distance": 2094,
+      "duration": 612,
+      "remark": "全程2.1公里;2.5公里起步；燃油附加费0.0元；里程超过35.0公里，超过部分每公里收3.9元。"
+    },
+    "traffic_condition": 1
+  }
+}

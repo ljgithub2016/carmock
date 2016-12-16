@@ -1,0 +1,100 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 1,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "originInfo": {
+      "area_id": 257,
+      "wd": "均益大厦",
+      "uid": ""
+    },
+    "destinationInfo": {
+      "area_id": 257,
+      "wd": "杨基亿力健身会所",
+      "uid": ""
+    },
+    "origin": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "均益大厦",
+          "address": "广州市越秀区东华东路543号",
+          "uid": "e478948b66ed4876354aaeea",
+          "location": {
+            "lng": 113.297904318,
+            "lat": 23.127395638488
+          }
+        },
+        {
+          "name": "均益大厦-西门",
+          "address": "东华东路543",
+          "uid": "e3b2855cdd8c1099f7b91624",
+          "location": {
+            "lng": 113.29779499422,
+            "lat": 23.127483794122
+          }
+        },
+        {
+          "name": "均益大厦-停车场",
+          "address": "越秀区东华东路545号",
+          "uid": "222e14a810059b32c16c14b9",
+          "location": {
+            "lng": 113.28442057264,
+            "lat": 23.13373205969
+          }
+        },
+        {
+          "name": "均益大厦停车场-出入口",
+          "address": "广州市越秀区东华东路",
+          "uid": "90268e0c3a51a5e42102627f",
+          "location": {
+            "lng": 113.29813473336,
+            "lat": 23.12737337108
+          }
+        },
+        {
+          "name": "Miumiu lady",
+          "address": "东华东路554号(地铁东山口站F出口，均益大厦对面)",
+          "uid": "aa25a4dec3f826f81b94c638",
+          "telephone": "(020)37652590",
+          "location": {
+            "lng": 113.2974900195,
+            "lat": 23.127287957257
+          }
+        },
+        {
+          "name": "威健动物医院(东华东路)",
+          "address": "越秀区东华东路均益大厦地下539号",
+          "uid": "71210e7be59c13fba2046449",
+          "telephone": "(020)87602354",
+          "location": {
+            "lng": 113.29805667061,
+            "lat": 23.127255220816
+          }
+        }
+      ]
+    },
+    "destination": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "杨基亿力健身会所",
+          "address": "中山一路51号拓业大厦2楼(杨箕地铁B出口,广州银行2楼金羊花园门口)",
+          "uid": "7714a1be724d7d44c9fa5ff2",
+          "location": {
+            "lng": 113.3164299827,
+            "lat": 23.134175890287
+          }
+        }
+      ]
+    }
+  }
+}

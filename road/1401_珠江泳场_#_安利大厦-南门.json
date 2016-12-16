@@ -1,0 +1,355 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 2,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "routes": [
+      {
+        "distance": 3041,
+        "duration": 377,
+        "steps": [
+          {
+            "area": 0,
+            "direction": 3,
+            "distance": 105,
+            "duration": 39,
+            "instructions": "从起点\u003c/b\u003e向正东方向出发,行驶110米,右转\u003c/b\u003e进入滨江东路\u003c/b\u003e",
+            "path": "113.2992312949,23.110545619981;113.29944185771,23.110493351399;113.29950204418,23.11046277136;113.29958235269,23.110382000138;113.29946242891,23.110133453816;113.29939254074,23.10995437719;113.29938265938,23.109904601324;113.29937277802,23.109844770543",
+            "pois": [],
+            "turn": 3,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.2992312949,
+              "lat": 23.110545619981
+            },
+            "stepDestinationLocation": {
+              "lng": 113.29937232886,
+              "lat": 23.109844188854
+            },
+            "stepOriginInstruction": "从起点向正东方向出发 - 160米",
+            "stepDestinationInstruction": "右转进入滨江东路 - 160米",
+            "traffic_condition": 0
+          },
+          {
+            "area": 0,
+            "direction": 10,
+            "distance": 160,
+            "duration": 17,
+            "instructions": "沿滨江东路\u003c/b\u003e行驶160米,朝海印桥/东晓路方向\u003c/b\u003e,直行\u003c/b\u003e进入滨江中路\u003c/b\u003e",
+            "path": "113.29923192371,23.109895709807;113.29907157618,23.109957451826;113.29887116422,23.110019609307;113.29876094213,23.110060742918;113.29844015724,23.110214058993;113.29802909263,23.110518197675;113.29799908923,23.110548528407",
+            "pois": [],
+            "turn": 1,
+            "type": 3,
+            "stepOriginLocation": {
+              "lng": 113.29937232886,
+              "lat": 23.109844188854
+            },
+            "stepDestinationLocation": {
+              "lng": 113.29799864008,
+              "lat": 23.110548611505
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "直行进入滨江中路 - 370米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 10,
+            "distance": 369,
+            "duration": 51,
+            "instructions": "沿滨江中路\u003c/b\u003e行驶370米,在保利康桥\u003c/font\u003e\u003c/b\u003e朝海印桥/东湖路方向\u003c/b\u003e,左转\u003c/b\u003e",
+            "path": "113.29777801624,23.110720790213;113.29765773314,23.110831974994;113.29692579381,23.111428864494;113.29655488346,23.111742224175;113.29643469019,23.111833298608;113.29605380865,23.112156545863;113.29540226766,23.112691854882;113.29535223205,23.112732239796;113.29530228626,23.112672742675",
+            "pois": [
+              {
+                "detail": {
+                  "instructions": "",
+                  "position": 2
+                },
+                "location": {
+                  "lng": 113.2955226406,
+                  "lat": 23.111960935665
+                },
+                "name": "保利康桥",
+                "type": 100
+              }
+            ],
+            "turn": 7,
+            "type": 3,
+            "stepOriginLocation": {
+              "lng": 113.29799864008,
+              "lat": 23.110548611505
+            },
+            "stepDestinationLocation": {
+              "lng": 113.29530156762,
+              "lat": 23.112672576482
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "左转 - 120米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 7,
+            "distance": 121,
+            "duration": 17,
+            "instructions": "行驶120米,右转\u003c/b\u003e进入江海路\u003c/b\u003e",
+            "path": "113.29453118081,23.11184858847",
+            "pois": [],
+            "turn": 3,
+            "type": 3,
+            "stepOriginLocation": {
+              "lng": 113.29530156762,
+              "lat": 23.112672576482
+            },
+            "stepDestinationLocation": {
+              "lng": 113.29453118081,
+              "lat": 23.11184858847
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "右转进入江海路 - 240米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 10,
+            "distance": 242,
+            "duration": 23,
+            "instructions": "沿江海路\u003c/b\u003e行驶240米,右转\u003c/b\u003e进入东湖路\u003c/b\u003e",
+            "path": "113.29326861242,23.112776945716;113.29297810041,23.112988675407;113.29286796816,23.113109331264;113.29277786812,23.113239792365;113.29274786471,23.113289982461",
+            "pois": [],
+            "turn": 3,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.29453118081,
+              "lat": 23.11184858847
+            },
+            "stepDestinationLocation": {
+              "lng": 113.29274741556,
+              "lat": 23.113289982461
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "右转进入东湖路 - 1.2公里",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 1,
+            "distance": 1159,
+            "duration": 87,
+            "instructions": "沿东湖路\u003c/b\u003e行驶1.1公里,过左侧的龙湖大厦\u003c/font\u003e\u003c/b\u003e约90米后,朝内环路(A线)/黄埔大道/广汕公路/S41方向\u003c/b\u003e,靠右\u003c/b\u003e",
+            "path": "113.29279736135,23.113409723988;113.29286724952,23.113609237562;113.29305697164,23.114107978637;113.29306694283,23.114157919117;113.29308697504,23.114187750444;113.29352633627,23.115504726198;113.29389589915,23.116592100076;113.29418542302,23.117639912569;113.29422539762,23.117769621375;113.29437505531,23.118418412783;113.29441494008,23.118598059638;113.29442491127,23.118657969566;113.29444494348,23.118697854109;113.29444494348,23.1187278506;113.29446488586,23.118797731597;113.29455462658,23.119286980637;113.29457456897,23.119366832424;113.294794025,23.120485001664;113.29500350985,23.121583219648;113.29503342342,23.121732949503;113.2951233438,23.122062238264;113.29524326759,23.122461239093;113.29525323878,23.122491151643;113.29526320997,23.122521064186;113.29539310495,23.122929951362;113.29555309316,23.12336858345",
+            "pois": [
+              {
+                "detail": {
+                  "instructions": "",
+                  "position": 0
+                },
+                "location": {
+                  "lng": 113.29493254371,
+                  "lat": 23.122713667569
+                },
+                "name": "龙湖大厦",
+                "type": 106
+              }
+            ],
+            "turn": 10,
+            "type": 3,
+            "stepOriginLocation": {
+              "lng": 113.29274741556,
+              "lat": 23.113289982461
+            },
+            "stepDestinationLocation": {
+              "lng": 113.29555318299,
+              "lat": 23.123368666539
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "靠右 - 250米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 1,
+            "distance": 252,
+            "duration": 37,
+            "instructions": "继续沿东湖路\u003c/b\u003e行驶250米,调头\u003c/b\u003e",
+            "path": "113.29558318639,23.123408383486;113.29596316962,23.124425066792;113.29616322226,23.12492326868;113.29634324268,23.125391639896;113.29633327149,23.125411747333;113.29631332911,23.125421884139;113.29629338673,23.125432020945;113.29626338332,23.125442323927;113.29624344094,23.125442490104",
+            "pois": [],
+            "turn": 5,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.29555318299,
+              "lat": 23.123368666539
+            },
+            "stepDestinationLocation": {
+              "lng": 113.29624308162,
+              "lat": 23.125442573192
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "调头 - 120米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 7,
+            "distance": 118,
+            "duration": 13,
+            "instructions": "继续沿东湖路\u003c/b\u003e行驶120米,右转\u003c/b\u003e进入永胜上沙\u003c/b\u003e",
+            "path": "113.29620310703,23.125332896249;113.29597314081,23.124785008704;113.29585321703,23.124446171447",
+            "pois": [],
+            "turn": 3,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.29624308162,
+              "lat": 23.125442573192
+            },
+            "stepDestinationLocation": {
+              "lng": 113.29585294754,
+              "lat": 23.124446005268
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "右转进入永胜上沙 - 300米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 9,
+            "distance": 298,
+            "duration": 32,
+            "instructions": "沿永胜上沙\u003c/b\u003e行驶300米,靠左\u003c/b\u003e",
+            "path": "113.29498150136,23.124513058222;113.29466107579,23.124545462984;113.29434065021,23.124577784648;113.29373977366,23.124751939289;113.29351950915,23.124833366476;113.29300891229,23.124966557982",
+            "pois": [],
+            "turn": 9,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.29585294754,
+              "lat": 23.124446005268
+            },
+            "stepDestinationLocation": {
+              "lng": 113.29300846314,
+              "lat": 23.124966557982
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "靠左 - 40米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 8,
+            "distance": 38,
+            "duration": 16,
+            "instructions": "继续沿永胜上沙\u003c/b\u003e行驶40米,左转\u003c/b\u003e进入东湖西路\u003c/b\u003e",
+            "path": "113.29285835629,23.124917452458;113.29276834608,23.124878068319;113.29268839689,23.124798635295",
+            "pois": [],
+            "turn": 7,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.29300846314,
+              "lat": 23.124966557982
+            },
+            "stepDestinationLocation": {
+              "lng": 113.29268821723,
+              "lat": 23.124798386028
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "左转进入东湖西路 - 60米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 6,
+            "distance": 56,
+            "duration": 20,
+            "instructions": "沿东湖西路\u003c/b\u003e行驶60米,右转\u003c/b\u003e进入大沙头二马路\u003c/b\u003e",
+            "path": "113.29265848331,23.124288634261",
+            "pois": [],
+            "turn": 3,
+            "type": 3,
+            "stepOriginLocation": {
+              "lng": 113.29268821723,
+              "lat": 23.124798386028
+            },
+            "stepDestinationLocation": {
+              "lng": 113.29265848331,
+              "lat": 23.124288634261
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "右转进入大沙头二马路 - 120米",
+            "traffic_condition": 0
+          },
+          {
+            "area": 0,
+            "direction": 9,
+            "distance": 123,
+            "duration": 21,
+            "instructions": "沿大沙头二马路\u003c/b\u003e行驶120米,到达终点\u003c/b\u003e(在道路右侧\u003c/b\u003e)",
+            "path": "113.29223807634,23.124241024094;113.29200793046,23.124212275189;113.29148763191,23.124044933173",
+            "pois": [],
+            "turn": 0,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.29265848331,
+              "lat": 23.124288634261
+            },
+            "stepDestinationLocation": {
+              "lng": 113.29148736242,
+              "lat": 23.124044766994
+            },
+            "stepDestinationInstruction": "到达终点(在道路右侧)",
+            "traffic_condition": 0
+          }
+        ],
+        "toll": 0,
+        "originLocation": {
+          "lng": 113.2992312949,
+          "lat": 23.110545619981
+        },
+        "destinationLocation": {
+          "lng": 113.29148736242,
+          "lat": 23.124044766994
+        }
+      }
+    ],
+    "origin": {
+      "area_id": 257,
+      "bid": "18011738155199234047",
+      "cname": "广州市",
+      "uid": "fa835ce2b71626b6e812e475",
+      "wd": "珠江泳场",
+      "originPt": {
+        "lng": 113.29922258133,
+        "lat": 23.110542379163
+      }
+    },
+    "destination": {
+      "area_id": 257,
+      "bid": "15298543723094174606",
+      "cname": "广州市",
+      "uid": "a4bc0105d984b1f92cfaa74f",
+      "wd": "安利大厦-南门",
+      "destinationPt": {
+        "lng": 113.29146122173,
+        "lat": 23.124153115573
+      }
+    },
+    "taxi": {
+      "detail": [
+        {
+          "desc": "全天",
+          "km_price": "2.6",
+          "start_price": "10.0",
+          "total_price": "12"
+        }
+      ],
+      "distance": 3041,
+      "duration": 378,
+      "remark": "全程3.0公里;2.5公里起步；燃油附加费0.0元；里程超过35.0公里，超过部分每公里收3.9元。"
+    },
+    "traffic_condition": 1
+  }
+}

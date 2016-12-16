@@ -1,0 +1,385 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 2,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "routes": [
+      {
+        "distance": 1978,
+        "duration": 454,
+        "steps": [
+          {
+            "area": 0,
+            "direction": 9,
+            "distance": 455,
+            "duration": 58,
+            "instructions": "从起点\u003c/b\u003e向正西方向出发,沿东风东路\u003c/b\u003e行驶460米,朝建设六马路/黄华路/建设大马路/东濠涌高架方向\u003c/b\u003e,靠右\u003c/b\u003e",
+            "path": "113.30059923453,23.137246522567;113.30039882257,23.13725890166;113.2986749743,23.137258403173;113.29831430463,23.137262224906;113.29813401472,23.137264052691;113.29783344169,23.137257156955;113.2975329585,23.137250178138;113.29731260416,23.137252338248;113.29615055615,23.137243033158",
+            "pois": [],
+            "turn": 10,
+            "type": 3,
+            "stepOriginLocation": {
+              "lng": 113.30059923453,
+              "lat": 23.137246522567
+            },
+            "stepDestinationLocation": {
+              "lng": 113.29614983751,
+              "lat": 23.137242700833
+            },
+            "stepOriginInstruction": "从起点向正西方向出发 - 460米",
+            "stepDestinationInstruction": "靠右 - 460米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 10,
+            "distance": 462,
+            "duration": 80,
+            "instructions": "继续沿东风东路\u003c/b\u003e行驶460米,右转\u003c/b\u003e进入建设六马路\u003c/b\u003e",
+            "path": "113.29598957981,23.137294128065;113.29428693154,23.137277511837;113.29377633469,23.137231152551;113.29331577346,23.13718421168;113.29322576324,23.137184793248;113.29315578524,23.137185208654;113.29300567839,23.137186122547;113.29284560035,23.137187036441;113.29276556133,23.137187534928;113.29250532223,23.137189030389;113.29231524078,23.137190110445;113.29195493044,23.137222013621;113.29186492023,23.13724245159;113.29165480657,23.137283493679",
+            "pois": [],
+            "turn": 3,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.29614983751,
+              "lat": 23.137242700833
+            },
+            "stepDestinationLocation": {
+              "lng": 113.29165363877,
+              "lat": 23.137283161355
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "右转进入建设六马路 - 340米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 0,
+            "distance": 340,
+            "duration": 86,
+            "instructions": "沿建设六马路\u003c/b\u003e行驶290米,过右侧的万财大厦\u003c/font\u003e\u003c/b\u003e左转\u003c/b\u003e进入华乐路\u003c/b\u003e",
+            "path": "113.29168382184,23.138753024743;113.29168382184,23.139023035181;113.29168382184,23.139303014654;113.29167394048,23.139523093059;113.29166405912,23.139823176728;113.29165417775,23.140073245933;113.29164429639,23.140263331445;113.29155428618,23.140253860408",
+            "pois": [
+              {
+                "detail": {
+                  "instructions": "",
+                  "position": 1
+                },
+                "location": {
+                  "lng": 113.29207440507,
+                  "lat": 23.139911157941
+                },
+                "name": "万财大厦",
+                "type": 106
+              }
+            ],
+            "turn": 7,
+            "type": 3,
+            "stepOriginLocation": {
+              "lng": 113.29165363877,
+              "lat": 23.137283161355
+            },
+            "stepDestinationLocation": {
+              "lng": 113.29155392686,
+              "lat": 23.140253694249
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "左转进入华乐路 - 60米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 9,
+            "distance": 62,
+            "duration": 21,
+            "instructions": "沿华乐路\u003c/b\u003e行驶50米,过右侧的宜安广场南厅\u003c/font\u003e\u003c/b\u003e直行\u003c/b\u003e进入建设五马路\u003c/b\u003e",
+            "path": "113.29149383022,23.140243973973;113.2913438132,23.140214730062;113.29110369614,23.140185901541;113.29095367912,23.140186566175",
+            "pois": [
+              {
+                "detail": {
+                  "instructions": "",
+                  "position": 1
+                },
+                "location": {
+                  "lng": 113.29112354869,
+                  "lat": 23.140555687083
+                },
+                "name": "宜安广场南厅",
+                "type": 106
+              }
+            ],
+            "turn": 1,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.29155392686,
+              "lat": 23.140253694249
+            },
+            "stepDestinationLocation": {
+              "lng": 113.2909533198,
+              "lat": 23.140186400017
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "直行进入建设五马路 - 120米",
+            "traffic_condition": 2
+          },
+          {
+            "area": 0,
+            "direction": 9,
+            "distance": 124,
+            "duration": 39,
+            "instructions": "沿建设五马路\u003c/b\u003e行驶90米,过右侧的天伦花园A座\u003c/font\u003e\u003c/b\u003e右转\u003c/b\u003e进入建设三马路\u003c/b\u003e",
+            "path": "113.29032279916,23.140148848158;113.28990257184,23.140140374065;113.28975255482,23.140140872541",
+            "pois": [
+              {
+                "detail": {
+                  "instructions": "",
+                  "position": 1
+                },
+                "location": {
+                  "lng": 113.29005267869,
+                  "lat": 23.140289833731
+                },
+                "name": "天伦花园A座",
+                "type": 106
+              }
+            ],
+            "turn": 3,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.2909533198,
+              "lat": 23.140186400017
+            },
+            "stepDestinationLocation": {
+              "lng": 113.28975246499,
+              "lat": 23.140140789462
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "右转进入建设三马路 - 80米",
+            "traffic_condition": 2
+          },
+          {
+            "area": 0,
+            "direction": 0,
+            "distance": 82,
+            "duration": 33,
+            "instructions": "沿建设三马路\u003c/b\u003e行驶70米,过右侧的天伦花园B座\u003c/font\u003e\u003c/b\u003e左转\u003c/b\u003e进入建设二马路东六街\u003c/b\u003e",
+            "path": "113.2897424938,23.140290830682;113.28975264465,23.140880858241",
+            "pois": [
+              {
+                "detail": {
+                  "instructions": "",
+                  "position": 1
+                },
+                "location": {
+                  "lng": 113.29002276512,
+                  "lat": 23.140759895328
+                },
+                "name": "天伦花园B座",
+                "type": 106
+              }
+            ],
+            "turn": 7,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.28975246499,
+              "lat": 23.140140789462
+            },
+            "stepDestinationLocation": {
+              "lng": 113.28975264465,
+              "lat": 23.140880775162
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "左转进入建设二马路东六街 - 120米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 9,
+            "distance": 115,
+            "duration": 24,
+            "instructions": "沿建设二马路东六街\u003c/b\u003e行驶120米,右转\u003c/b\u003e进入建设二马路\u003c/b\u003e",
+            "path": "113.2895725344,23.140881356714;113.28862212717,23.140913757475",
+            "pois": [],
+            "turn": 3,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.28975264465,
+              "lat": 23.140880775162
+            },
+            "stepDestinationLocation": {
+              "lng": 113.28862203734,
+              "lat": 23.140913674396
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "右转进入建设二马路 - 40米",
+            "traffic_condition": 2
+          },
+          {
+            "area": 0,
+            "direction": 0,
+            "distance": 37,
+            "duration": 18,
+            "instructions": "沿建设二马路\u003c/b\u003e行驶40米,左转\u003c/b\u003e",
+            "path": "113.28861206615,23.141253715755",
+            "pois": [],
+            "turn": 7,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.28862203734,
+              "lat": 23.140913674396
+            },
+            "stepDestinationLocation": {
+              "lng": 113.28861206615,
+              "lat": 23.141253715755
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "左转 - 90米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 9,
+            "distance": 94,
+            "duration": 46,
+            "instructions": "行驶80米,过左侧的珠江规划大厦\u003c/font\u003e\u003c/b\u003e左转\u003c/b\u003e进入建设大马路\u003c/b\u003e",
+            "path": "113.28780179458,23.141255045013;113.28769184198,23.14125521117",
+            "pois": [
+              {
+                "detail": {
+                  "instructions": "",
+                  "position": 0
+                },
+                "location": {
+                  "lng": 113.28780179458,
+                  "lat": 23.141055074549
+                },
+                "name": "珠江规划大厦",
+                "type": 106
+              }
+            ],
+            "turn": 7,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.28861206615,
+              "lat": 23.141253715755
+            },
+            "stepDestinationLocation": {
+              "lng": 113.28769184198,
+              "lat": 23.14125521117
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "左转进入建设大马路 - 130米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 6,
+            "distance": 134,
+            "duration": 25,
+            "instructions": "沿建设大马路\u003c/b\u003e行驶20米,过左侧的珠江规划大厦\u003c/font\u003e\u003c/b\u003e约110米后,右转\u003c/b\u003e",
+            "path": "113.28769157249,23.140435222349;113.2876816013,23.140055300783",
+            "pois": [
+              {
+                "detail": {
+                  "instructions": "",
+                  "position": 0
+                },
+                "location": {
+                  "lng": 113.28780179458,
+                  "lat": 23.141055074549
+                },
+                "name": "珠江规划大厦",
+                "type": 106
+              }
+            ],
+            "turn": 3,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.28769184198,
+              "lat": 23.14125521117
+            },
+            "stepDestinationLocation": {
+              "lng": 113.28768151147,
+              "lat": 23.140055217704
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "右转 - 70米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 9,
+            "distance": 73,
+            "duration": 21,
+            "instructions": "行驶70米,到达终点\u003c/b\u003e",
+            "path": "113.28760147245,23.140055300783;113.28754155547,23.140055383863;113.28697158062,23.140085790921",
+            "pois": [],
+            "turn": 0,
+            "type": 21,
+            "stepOriginLocation": {
+              "lng": 113.28768151147,
+              "lat": 23.140055217704
+            },
+            "stepDestinationLocation": {
+              "lng": 113.28697140096,
+              "lat": 23.140085790921
+            },
+            "stepDestinationInstruction": "到达终点",
+            "traffic_condition": 0
+          }
+        ],
+        "toll": 0,
+        "originLocation": {
+          "lng": 113.30059923453,
+          "lat": 23.137246522567
+        },
+        "destinationLocation": {
+          "lng": 113.28697140096,
+          "lat": 23.140085790921
+        }
+      }
+    ],
+    "origin": {
+      "area_id": 257,
+      "bid": "7223602648801824173",
+      "cname": "广州市",
+      "uid": "31aed990c493428f32f71d3d",
+      "wd": "广州港澳百货商场",
+      "originPt": {
+        "lng": 113.30059698876,
+        "lat": 23.137247353379
+      }
+    },
+    "destination": {
+      "area_id": 257,
+      "bid": "10225945866447395747",
+      "cname": "广州市",
+      "uid": "58d9f35197b5dadb354aaec6",
+      "wd": "建设大马路幼儿园",
+      "destinationPt": {
+        "lng": 113.28696969418,
+        "lat": 23.140088698699
+      }
+    },
+    "taxi": {
+      "detail": [
+        {
+          "desc": "全天",
+          "km_price": "2.6",
+          "start_price": "10.0",
+          "total_price": "10"
+        }
+      ],
+      "distance": 1978,
+      "duration": 455,
+      "remark": "全程2.0公里;2.5公里起步；燃油附加费0.0元；里程超过35.0公里，超过部分每公里收3.9元。"
+    },
+    "traffic_condition": 1
+  }
+}

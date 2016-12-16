@@ -1,0 +1,214 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 2,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "routes": [
+      {
+        "distance": 1424,
+        "duration": 439,
+        "steps": [
+          {
+            "area": 0,
+            "direction": 0,
+            "distance": 139,
+            "duration": 54,
+            "instructions": "从起点\u003c/b\u003e向正北方向出发,沿杏园大街\u003c/b\u003e行驶140米,右转\u003c/b\u003e进入紫丹大街\u003c/b\u003e",
+            "path": "113.27552519216,23.102876460569;113.27555474641,23.103226654836;113.27550471079,23.103466155937;113.27547470739,23.10361582313;113.27521482761,23.104063161657",
+            "pois": [],
+            "turn": 3,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.27552519216,
+              "lat": 23.102876460569
+            },
+            "stepDestinationLocation": {
+              "lng": 113.27521464794,
+              "lat": 23.104063244759
+            },
+            "stepOriginInstruction": "从起点向正北方向出发 - 540米",
+            "stepDestinationInstruction": "右转进入紫丹大街 - 540米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 3,
+            "distance": 536,
+            "duration": 174,
+            "instructions": "沿紫丹大街\u003c/b\u003e行驶500米,过右侧的南油写字楼\u003c/font\u003e\u003c/b\u003e左转\u003c/b\u003e进入江南西路\u003c/b\u003e",
+            "path": "113.27569371427,23.104057843132;113.27579351601,23.104058757254;113.27603309409,23.104031084302;113.27613289584,23.10402210929;113.27647227566,23.104005239588;113.276612052,23.103996596982;113.27685163007,23.103958785572;113.27709129798,23.103890891212;113.27722110313,23.103852082547;113.27815992222,23.103569618284;113.27839967996,23.103441474546;113.27870932587,23.103313829298;113.27881927846,23.103224660377;113.27895941412,23.102865740322;113.27904951417,23.102646515231;113.27909963961,23.102486957697;113.27913970404,23.102327316868;113.27921992272,23.102027979409;113.27923995493,23.101958172687",
+            "pois": [
+              {
+                "detail": {
+                  "instructions": "",
+                  "position": 1
+                },
+                "location": {
+                  "lng": 113.27882035643,
+                  "lat": 23.102224019759
+                },
+                "name": "南油写字楼",
+                "type": 106
+              }
+            ],
+            "turn": 7,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.27521464794,
+              "lat": 23.104063244759
+            },
+            "stepDestinationLocation": {
+              "lng": 113.27924004476,
+              "lat": 23.101956843034
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "左转进入江南西路 - 180米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 2,
+            "distance": 176,
+            "duration": 31,
+            "instructions": "沿江南西路\u003c/b\u003e行驶70米,过右侧的PORORO主题乐园\u003c/font\u003e\u003c/b\u003e约100米后,直行\u003c/b\u003e进入前桂大街\u003c/b\u003e",
+            "path": "113.28056774031,23.102654659308;113.28065757086,23.102695130379;113.28070742681,23.102755379897",
+            "pois": [
+              {
+                "detail": {
+                  "instructions": "",
+                  "position": 1
+                },
+                "location": {
+                  "lng": 113.27990892305,
+                  "lat": 23.102191027826
+                },
+                "name": "PORORO主题乐园",
+                "type": 113
+              }
+            ],
+            "turn": 1,
+            "type": 3,
+            "stepOriginLocation": {
+              "lng": 113.27924004476,
+              "lat": 23.101956843034
+            },
+            "stepDestinationLocation": {
+              "lng": 113.28070742681,
+              "lat": 23.102755379897
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "直行进入前桂大街 - 490米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 2,
+            "distance": 485,
+            "duration": 144,
+            "instructions": "沿前桂大街\u003c/b\u003e行驶290米,过左侧的穗南大厦\u003c/font\u003e\u003c/b\u003e约190米后,左转\u003c/b\u003e进入安和巷\u003c/b\u003e",
+            "path": "113.28080731839,23.102785878608;113.28163618488,23.103129757322;113.28259521584,23.103333524569;113.28335464332,23.103435906689;113.28382436727,23.10348709772;113.28403421144,23.103567540728;113.28490350168,23.10390909056;113.28520326623,23.104029422263",
+            "pois": [
+              {
+                "detail": {
+                  "instructions": "",
+                  "position": 0
+                },
+                "location": {
+                  "lng": 113.28342435183,
+                  "lat": 23.103586238734
+                },
+                "name": "穗南大厦",
+                "type": 106
+              }
+            ],
+            "turn": 7,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.28070742681,
+              "lat": 23.102755379897
+            },
+            "stepDestinationLocation": {
+              "lng": 113.2852031764,
+              "lat": 23.104029588467
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "左转进入安和巷 - 90米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 0,
+            "distance": 88,
+            "duration": 34,
+            "instructions": "沿安和巷\u003c/b\u003e行驶90米,到达终点\u003c/b\u003e",
+            "path": "113.2851729035,23.104329503126;113.28535238494,23.104789636879;113.28535238494,23.104789636879",
+            "pois": [],
+            "turn": 0,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.2852031764,
+              "lat": 23.104029588467
+            },
+            "stepDestinationLocation": {
+              "lng": 113.28535238494,
+              "lat": 23.104789636879
+            },
+            "stepDestinationInstruction": "到达终点",
+            "traffic_condition": 0
+          }
+        ],
+        "toll": 0,
+        "originLocation": {
+          "lng": 113.27552519216,
+          "lat": 23.102876460569
+        },
+        "destinationLocation": {
+          "lng": 113.28535238494,
+          "lat": 23.104789636879
+        }
+      }
+    ],
+    "origin": {
+      "area_id": 257,
+      "bid": "16824345815155274635",
+      "cname": "广州市",
+      "uid": "e7d35a0e06cf2c5a8b2fb5d4",
+      "wd": "越秀·可逸锦苑",
+      "originPt": {
+        "lng": 113.27552528199,
+        "lat": 23.102880532601
+      }
+    },
+    "destination": {
+      "area_id": 257,
+      "bid": "17967857101401227263",
+      "cname": "广州市",
+      "uid": "2c0bd6c5b3c08dab43ab9a53",
+      "wd": "万松园小学东校区",
+      "destinationPt": {
+        "lng": 113.28535274427,
+        "lat": 23.10478357047
+      }
+    },
+    "taxi": {
+      "detail": [
+        {
+          "desc": "全天",
+          "km_price": "2.6",
+          "start_price": "10.0",
+          "total_price": "10"
+        }
+      ],
+      "distance": 1424,
+      "duration": 440,
+      "remark": "全程1.4公里;2.5公里起步；燃油附加费0.0元；里程超过35.0公里，超过部分每公里收3.9元。"
+    },
+    "traffic_condition": 1
+  }
+}

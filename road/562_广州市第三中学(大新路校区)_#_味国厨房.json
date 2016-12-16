@@ -1,0 +1,73 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 1,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "originInfo": {
+      "area_id": 257,
+      "wd": "广州市第三中学(大新路校区)",
+      "uid": ""
+    },
+    "destinationInfo": {
+      "area_id": 257,
+      "wd": "味国厨房",
+      "uid": ""
+    },
+    "origin": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "广州市第三中学(大新路校区)",
+          "address": "广州市越秀区大新路163号",
+          "uid": "6e3fca8d72e4a079deee8bc7",
+          "telephone": "(020)83336692",
+          "location": {
+            "lng": 113.26525477544,
+            "lat": 23.121909185149
+          }
+        },
+        {
+          "name": "广州市第三中学(大新路校区)-北门",
+          "address": "广州市越秀区大新路",
+          "uid": "81b5438f02d1234cc26c1434",
+          "location": {
+            "lng": 113.26522980254,
+            "lat": 23.121968678129
+          }
+        },
+        {
+          "name": "广州市第三中学(大新路校区)停车场-出入口",
+          "address": "广州市越秀区大新路",
+          "uid": "ff836da40641e3eb93114c12",
+          "location": {
+            "lng": 113.26489698035,
+            "lat": 23.121744416045
+          }
+        }
+      ]
+    },
+    "destination": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "味国厨房",
+          "address": "海珠区滨江东路572号蓝色康园1-2楼(近下渡大街)",
+          "uid": "15a93810b46bcca415c8f6ea",
+          "telephone": "(020)84140398,(020)84140488",
+          "location": {
+            "lng": 113.31074793085,
+            "lat": 23.108663023977
+          }
+        }
+      ]
+    }
+  }
+}

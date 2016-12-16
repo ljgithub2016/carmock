@@ -1,0 +1,64 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 1,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "originInfo": {
+      "area_id": 257,
+      "wd": "富力盈丰大厦-A座",
+      "uid": ""
+    },
+    "destinationInfo": {
+      "area_id": 257,
+      "wd": "新富熊大厦管理处",
+      "uid": ""
+    },
+    "origin": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "富力盈丰大厦-A座",
+          "address": "华强路2号",
+          "uid": "dded5ba1a03c473fc51b7583",
+          "location": {
+            "lng": 113.32288358914,
+            "lat": 23.131654626936
+          }
+        },
+        {
+          "name": "星美半永久美容会所",
+          "address": "珠江新城富力盈丰大厦A座23(汇美大厦)",
+          "uid": "763a571baa906ee0b7265530",
+          "telephone": "18680208448",
+          "location": {
+            "lng": 113.32259900595,
+            "lat": 23.131815977263
+          }
+        }
+      ]
+    },
+    "destination": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "新富熊大厦-管理处",
+          "address": "农林下路7号新富熊大厦B2",
+          "uid": "1874270829dce811ad0457eb",
+          "telephone": "020-87611928",
+          "location": {
+            "lng": 113.30168744182,
+            "lat": 23.132025184036
+          }
+        }
+      ]
+    }
+  }
+}

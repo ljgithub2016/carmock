@@ -1,0 +1,84 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 1,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "originInfo": {
+      "area_id": 257,
+      "wd": "润政商业购物广场",
+      "uid": ""
+    },
+    "destinationInfo": {
+      "area_id": 257,
+      "wd": "虾饺妹(下渡路店)",
+      "uid": ""
+    },
+    "origin": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "润政购物广场南门",
+          "address": "广州市海珠区",
+          "uid": "a40f851ad8345b2ec6effb1b",
+          "location": {
+            "lng": 113.28524997812,
+            "lat": 23.08959698434
+          }
+        },
+        {
+          "name": "兰蕙美容美体生活馆",
+          "address": "广州市海珠区江燕路37号润政商业购物广场1层",
+          "uid": "c80a0c0825f2723d4151c0b9",
+          "telephone": "(020)34427683",
+          "location": {
+            "lng": 113.27873438859,
+            "lat": 23.083816073204
+          }
+        },
+        {
+          "name": "柏禧酒楼",
+          "address": "江燕路37号润政商业购物广场1层",
+          "uid": "76e9170a317f01dd9403199f",
+          "telephone": "(020)34225891",
+          "location": {
+            "lng": 113.28531600357,
+            "lat": 23.090250900055
+          }
+        },
+        {
+          "name": "克丽缇娜(江燕路店)",
+          "address": "海珠区江燕路37号润政商业购物广场1层",
+          "uid": "7aeae6e6a40438a8cf06a458",
+          "telephone": "(020)34427683",
+          "location": {
+            "lng": 113.28531699171,
+            "lat": 23.089785978612
+          }
+        }
+      ]
+    },
+    "destination": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "虾饺妹(下渡路店)",
+          "address": "下渡路158、160、162号二层自编B之一",
+          "uid": "4fb50e06dd94bb57aecb66e2",
+          "telephone": "(020)84462866",
+          "location": {
+            "lng": 113.31448218686,
+            "lat": 23.106578550626
+          }
+        }
+      ]
+    }
+  }
+}

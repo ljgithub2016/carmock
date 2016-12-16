@@ -1,0 +1,11 @@
+{
+  "status": 1,
+  "message": "server err",
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": []
+}

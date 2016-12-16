@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration scan="true" scanPeriod="60 seconds" debug="false" >
+	<property name="appName">CheckedDemo</property>
+	<property name="version">1.0</property>
+	<contextName>${appName}</contextName>
+	<timestamp key="bySeconds" datePattern="yyyy-MM-dd HH:mm:ss" />
+	
+	<appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">   
+    <!-- encoder 默认配置为PatternLayoutEncoder -->   
+    <encoder>   
+      <pattern>%msg%n</pattern>   
+    </encoder>   
+  </appender>   
+  
+  <appender name="ConsoleChecked" class="ch.qos.logback.core.ConsoleAppender">   
+    <!-- encoder 默认配置为PatternLayoutEncoder -->   
+    <encoder>   
+      <pattern>%d{yyyy-MM-dd HH:mm:ss.SSS} [%thread]-%msg%n</pattern>   
+    </encoder>   
+  </appender> 
+  
+  <appender name="FILE" class= "ch.qos.logback.core.FileAppender">
+  	<file>E:\Demos_File\files.txt</file>
+  	<encoder>
+  		<pattern>%msg%n</pattern>
+  	</encoder>
+  	<append>true</append>
+  	<prudent>false</prudent>
+  </appender>
+  
+  <appender name="FILE2" class= "ch.qos.logback.core.FileAppender">
+  	<file>E:\Demos_File\files22.txt</file>
+  	<encoder>
+  		<pattern>%msg%n</pattern>
+  	</encoder>
+  	<append>true</append>
+  	<prudent>false</prudent>
+  </appender>
+  
+  <appender name="FILECheck" class= "ch.qos.logback.core.FileAppender">
+  	<file>E:\Demos_File\checked.txt</file>
+  	<encoder>
+  		<pattern>%d{yyyy-MM-dd HH:mm:ss.SSS} [%thread]-%msg%n</pattern>
+  	</encoder>
+  	<append>true</append>
+  	<prudent>false</prudent>
+  </appender>  
+  
+  <!--logback.LogbackDemo：类的全路径 -->   
+  <logger name="com.ihavecar.carmock" level="DEBUG" additivity="false">  
+    <appender-ref ref="FILECheck"/>
+    <appender-ref ref="ConsoleChecked" />  
+  </logger>   
+
+	
+  <root level="ERROR">             
+    <appender-ref ref="STDOUT" />   
+  </root>     
+  
+</configuration>

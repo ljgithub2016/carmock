@@ -1,0 +1,101 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 1,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "originInfo": {
+      "area_id": 257,
+      "wd": "宝发棋牌",
+      "uid": ""
+    },
+    "destinationInfo": {
+      "area_id": 257,
+      "wd": "陈岗大厦",
+      "uid": ""
+    },
+    "origin": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "宝发棋牌",
+          "address": "宝华路90号6楼",
+          "uid": "8360af002a5eea312b3a9f90",
+          "telephone": "(020)81386791",
+          "location": {
+            "lng": 113.24848404038,
+            "lat": 23.121428421068
+          }
+        },
+        {
+          "name": "宝发棋牌",
+          "address": "江南大道中广东土产大厦对面",
+          "uid": "e46a9095441ceaef76e5b671",
+          "telephone": "(020)89092091",
+          "location": {
+            "lng": 113.27786428988,
+            "lat": 23.109456534592
+          }
+        }
+      ]
+    },
+    "destination": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "陈岗大厦",
+          "address": "陈岗路32号",
+          "uid": "c61cf737a297e9661d1d11cd",
+          "location": {
+            "lng": 113.25701282238,
+            "lat": 23.147378132459
+          }
+        },
+        {
+          "name": "陈岗大厦-停车场",
+          "address": "陈岗路32",
+          "uid": "d52831f96dbca2a42efaa73b",
+          "location": {
+            "lng": 113.25701282238,
+            "lat": 23.147378132459
+          }
+        },
+        {
+          "name": "陈岗大厦管理处",
+          "address": "广州市荔湾区",
+          "uid": "14454f309f455141eb12e440",
+          "location": {
+            "lng": 113.25752009551,
+            "lat": 23.147513212036
+          }
+        },
+        {
+          "name": "湛江大厦",
+          "address": "荔湾区站前路88号(与陈岗路交汇处)",
+          "uid": "7bfa08fcbc11cb0325d2bbd3",
+          "telephone": "(020)86681688",
+          "location": {
+            "lng": 113.25607544059,
+            "lat": 23.148005013512
+          }
+        },
+        {
+          "name": "湛江大厦-车库",
+          "address": "广东省广州市荔湾区陈岗路65号",
+          "uid": "91c13f93b641dafa21f01709",
+          "location": {
+            "lng": 113.25646314924,
+            "lat": 23.147919363758
+          }
+        }
+      ]
+    }
+  }
+}

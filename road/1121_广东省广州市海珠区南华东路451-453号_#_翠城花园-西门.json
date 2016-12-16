@@ -1,0 +1,92 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 1,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "originInfo": {
+      "area_id": 257,
+      "wd": "广东省广州市海珠区南华东路451-453号",
+      "uid": ""
+    },
+    "destinationInfo": {
+      "area_id": 257,
+      "wd": "翠城花园-西门",
+      "uid": ""
+    },
+    "origin": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "广东云南大酒店",
+          "address": "南华东路451-453号云玉大厦1层",
+          "uid": "34e485088c7bdefbd8d89162",
+          "telephone": "(020)34155837",
+          "location": {
+            "lng": 113.27041545076,
+            "lat": 23.115556078764
+          }
+        },
+        {
+          "name": "云南省人民政府驻广州办事处",
+          "address": "南华东路451-453号云玉大厦1层",
+          "uid": "2fa04763478610b0ad080f0e",
+          "telephone": "(020)34054876",
+          "location": {
+            "lng": 113.27025195916,
+            "lat": 23.115466918066
+          }
+        },
+        {
+          "name": "大塘烧鹅(豪丰园南)",
+          "address": "南华东路451-453号云玉大厦1层",
+          "uid": "7c92d605247dcc442a02e1bd",
+          "location": {
+            "lng": 113.27041446262,
+            "lat": 23.115556078764
+          }
+        },
+        {
+          "name": "门面",
+          "address": "南华东路451-453号云玉大厦1层",
+          "uid": "4e3ff7fada1b9a37990050fe",
+          "location": {
+            "lng": 113.2704088033,
+            "lat": 23.115558654701
+          }
+        },
+        {
+          "name": "众星棋牌",
+          "address": "南华东路451-453号云玉大厦1层",
+          "uid": "1d0edeaa89cfb1f780a00cca",
+          "telephone": "(020)34155867",
+          "location": {
+            "lng": 113.27041446262,
+            "lat": 23.115555081627
+          }
+        }
+      ]
+    },
+    "destination": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "翠城花园-西门",
+          "address": "广东省广州市海珠区",
+          "uid": "044a73213a972ceb0f0e6bf3",
+          "location": {
+            "lng": 113.27494192239,
+            "lat": 23.088073052361
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,276 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 2,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "routes": [
+      {
+        "distance": 1461,
+        "duration": 346,
+        "steps": [
+          {
+            "area": 0,
+            "direction": 0,
+            "distance": 146,
+            "duration": 40,
+            "instructions": "从起点\u003c/b\u003e向正北方向出发,行驶150米,右转\u003c/b\u003e",
+            "path": "113.31833708529,23.135733107455;113.31833708529,23.135973131459;113.31828695984,23.136243978377;113.3182368344,23.136424847314;113.31812652248,23.136536758288;113.31794596307,23.136749945523;113.3178557732,23.136941531265",
+            "pois": [],
+            "turn": 3,
+            "type": 21,
+            "stepOriginLocation": {
+              "lng": 113.31833708529,
+              "lat": 23.135733107455
+            },
+            "stepDestinationLocation": {
+              "lng": 113.31785541388,
+              "lat": 23.136941614346
+            },
+            "stepOriginInstruction": "从起点向正北方向出发 - 30米",
+            "stepDestinationInstruction": "右转 - 30米",
+            "traffic_condition": 0
+          },
+          {
+            "area": 0,
+            "direction": 1,
+            "distance": 30,
+            "duration": 20,
+            "instructions": "行驶30米,右转\u003c/b\u003e上中山一路立交桥\u003c/b\u003e",
+            "path": "113.31791560035,23.137140594041;113.31793563256,23.137200246351",
+            "pois": [],
+            "turn": 3,
+            "type": 21,
+            "stepOriginLocation": {
+              "lng": 113.31785541388,
+              "lat": 23.136941614346
+            },
+            "stepDestinationLocation": {
+              "lng": 113.31793572239,
+              "lat": 23.137200246351
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "右转上中山一路立交桥 - 70米",
+            "traffic_condition": 0
+          },
+          {
+            "area": 0,
+            "direction": 4,
+            "distance": 66,
+            "duration": 5,
+            "instructions": "沿中山一路立交桥\u003c/b\u003e行驶70米,靠右\u003c/b\u003e进入东风东路\u003c/b\u003e",
+            "path": "113.31820665133,23.137085428093;113.31827689882,23.137044302861;113.31849770232,23.136940451207;113.31851773453,23.136930149119",
+            "pois": [],
+            "turn": 10,
+            "type": 12,
+            "stepOriginLocation": {
+              "lng": 113.31793572239,
+              "lat": 23.137200246351
+            },
+            "stepDestinationLocation": {
+              "lng": 113.31851782436,
+              "lat": 23.136929982956
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "靠右进入东风东路 - 130米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 5,
+            "distance": 126,
+            "duration": 15,
+            "instructions": "沿东风东路\u003c/b\u003e行驶130米,朝广州大道(南)/中山一路方向\u003c/b\u003e,靠左\u003c/b\u003e",
+            "path": "113.31855788879,23.136879220234;113.31860810406,23.136858449884;113.31869838377,23.136816909175;113.31875857024,23.136795972652;113.31961160115,23.136411055755",
+            "pois": [],
+            "turn": 9,
+            "type": 3,
+            "stepOriginLocation": {
+              "lng": 113.31851782436,
+              "lat": 23.136929982956
+            },
+            "stepDestinationLocation": {
+              "lng": 113.31961169098,
+              "lat": 23.136410723428
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "靠左 - 300米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 4,
+            "distance": 298,
+            "duration": 71,
+            "instructions": "继续沿东风东路\u003c/b\u003e行驶300米,在中山一立交桥\u003c/font\u003e\u003c/b\u003e由环岛走第3出口\u003c/b\u003e进入黄埔大道西\u003c/b\u003e",
+            "path": "113.32051493717,23.135974959262;113.32068552539,23.135882073598;113.32109694931,23.135695055842;113.32138800029,23.135550160519;113.3215385563,23.135477629715;113.3215385563,23.135437750218;113.32154861732,23.135377681704;113.32155867834,23.135347605896;113.32156873936,23.13531753008;113.32157880038,23.135297424145;113.32160889362,23.135256963017;113.32163898685,23.135226554851;113.32166908009,23.135206116572;113.32170923434,23.13517554223;113.32173932758,23.135165073839;113.32177948184,23.135154439283;113.3218396683,23.135143472396;113.32185970052,23.135143223148;113.32189985477,23.135142641571;113.32191988699,23.135142392324;113.32194998022,23.135151863726;113.32198007346,23.135161335128;113.32202022771,23.135170640365;113.32207044299,23.135199802306",
+            "pois": [
+              {
+                "detail": {
+                  "instructions": "",
+                  "position": 2
+                },
+                "location": {
+                  "lng": 113.32187973273,
+                  "lat": 23.13541149621
+                },
+                "name": "中山一立交桥",
+                "type": 100
+              }
+            ],
+            "turn": 14,
+            "type": 3,
+            "stepOriginLocation": {
+              "lng": 113.31961169098,
+              "lat": 23.136410723428
+            },
+            "stepDestinationLocation": {
+              "lng": 113.32207035316,
+              "lat": 23.135198306822
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "由环岛走第3出口进入黄埔大道西 - 350米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 4,
+            "distance": 350,
+            "duration": 68,
+            "instructions": "沿黄埔大道西\u003c/b\u003e行驶350米,右转\u003c/b\u003e进入华穗路\u003c/b\u003e",
+            "path": "113.32221084814,23.135115889009;113.32326447067,23.134618306991;113.32441843393,23.134039384704;113.32510069697,23.1336685009",
+            "pois": [],
+            "turn": 3,
+            "type": 3,
+            "stepOriginLocation": {
+              "lng": 113.32207035316,
+              "lat": 23.135198306822
+            },
+            "stepDestinationLocation": {
+              "lng": 113.32510069697,
+              "lat": 23.133668251649
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "右转进入华穗路 - 210米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 6,
+            "distance": 214,
+            "duration": 51,
+            "instructions": "沿华穗路\u003c/b\u003e行驶210米,右转\u003c/b\u003e进入华强路\u003c/b\u003e",
+            "path": "113.3251007868,23.133228241202;113.32508111391,23.131738708593",
+            "pois": [],
+            "turn": 3,
+            "type": 3,
+            "stepOriginLocation": {
+              "lng": 113.32510069697,
+              "lat": 23.133668251649
+            },
+            "stepDestinationLocation": {
+              "lng": 113.32508093424,
+              "lat": 23.131738625509
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "右转进入华强路 - 170米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 9,
+            "distance": 169,
+            "duration": 50,
+            "instructions": "沿华强路\u003c/b\u003e行驶170米,右转\u003c/b\u003e",
+            "path": "113.32375656243,23.131870148389;113.32342553685,23.131885602111",
+            "pois": [],
+            "turn": 3,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.32508093424,
+              "lat": 23.131738625509
+            },
+            "stepDestinationLocation": {
+              "lng": 113.32342544702,
+              "lat": 23.131885602111
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "右转 - 60米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 0,
+            "distance": 62,
+            "duration": 25,
+            "instructions": "行驶60米,到达终点\u003c/b\u003e",
+            "path": "113.32346551145,23.132174902104;113.32348554366,23.132384523732;113.32348554366,23.132434540417",
+            "pois": [],
+            "turn": 0,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.32342544702,
+              "lat": 23.131885602111
+            },
+            "stepDestinationLocation": {
+              "lng": 113.32348554366,
+              "lat": 23.132434540417
+            },
+            "stepDestinationInstruction": "到达终点",
+            "traffic_condition": 2
+          }
+        ],
+        "toll": 0,
+        "originLocation": {
+          "lng": 113.31833708529,
+          "lat": 23.135733107455
+        },
+        "destinationLocation": {
+          "lng": 113.32348554366,
+          "lat": 23.132434540417
+        }
+      }
+    ],
+    "origin": {
+      "area_id": 257,
+      "bid": "17826031770844266495",
+      "cname": "广州市",
+      "uid": "d219bb1df5cae488f40e77b3",
+      "wd": "中海锦城南苑",
+      "originPt": {
+        "lng": 113.31789835288,
+        "lat": 23.135710342955
+      }
+    },
+    "destination": {
+      "area_id": 257,
+      "bid": "1225373841489364124",
+      "cname": "广州市",
+      "uid": "bc869bd87dc6eba53b221c2a",
+      "wd": "富力盈力大厦",
+      "destinationPt": {
+        "lng": 113.3234768301,
+        "lat": 23.132428558356
+      }
+    },
+    "taxi": {
+      "detail": [
+        {
+          "desc": "全天",
+          "km_price": "2.6",
+          "start_price": "10.0",
+          "total_price": "10"
+        }
+      ],
+      "distance": 1461,
+      "duration": 347,
+      "remark": "全程1.5公里;2.5公里起步；燃油附加费0.0元；里程超过35.0公里，超过部分每公里收3.9元。"
+    },
+    "traffic_condition": 1
+  }
+}

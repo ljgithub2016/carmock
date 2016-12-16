@@ -1,0 +1,63 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 1,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "originInfo": {
+      "area_id": 257,
+      "wd": "广百·尚宜国际保健精品商城",
+      "uid": ""
+    },
+    "destinationInfo": {
+      "area_id": 257,
+      "wd": "交通运输部南海运救助局",
+      "uid": ""
+    },
+    "origin": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "国际",
+          "address": "越秀区",
+          "location": {
+            "lng": 113.26288073364,
+            "lat": 23.118896778084
+          }
+        }
+      ]
+    },
+    "destination": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "交通运输部南海运救助局",
+          "address": "广州市海珠区滨江西路42号",
+          "uid": "924b4a8613b5436646572695",
+          "telephone": "(020)84265635",
+          "location": {
+            "lng": 113.25566105225,
+            "lat": 23.109870281726
+          }
+        },
+        {
+          "name": "交通运输部南海运救助局船员之家",
+          "address": "海珠区娱乐路新凤凰十六巷6号",
+          "uid": "85a1775bcbe1495e373a7132",
+          "telephone": "(020)34014786",
+          "location": {
+            "lng": 113.30081536683,
+            "lat": 23.105273369778
+          }
+        }
+      ]
+    }
+  }
+}

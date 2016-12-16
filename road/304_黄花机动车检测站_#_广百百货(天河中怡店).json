@@ -1,0 +1,302 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 2,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "routes": [
+      {
+        "distance": 1664,
+        "duration": 444,
+        "steps": [
+          {
+            "area": 0,
+            "direction": 2,
+            "distance": 149,
+            "duration": 57,
+            "instructions": "从起点\u003c/b\u003e向东北方向出发,沿水荫路\u003c/b\u003e行驶150米,右转\u003c/b\u003e进入水荫南路\u003c/b\u003e",
+            "path": "113.31748567133,23.143798556587;113.31788721389,23.144091485966;113.31800767666,23.144179381268;113.31813820045,23.14428704878;113.31841928025,23.144512103506;113.31843940229,23.144541761853;113.31854989387,23.144689804255",
+            "pois": [],
+            "turn": 3,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.31748567133,
+              "lat": 23.143798556587
+            },
+            "stepDestinationLocation": {
+              "lng": 113.31854989387,
+              "lat": 23.144689804255
+            },
+            "stepOriginInstruction": "从起点向东北方向出发 - 300米",
+            "stepDestinationInstruction": "右转进入水荫南路 - 300米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 3,
+            "distance": 300,
+            "duration": 96,
+            "instructions": "沿水荫南路\u003c/b\u003e行驶300米,右转\u003c/b\u003e进入广州大道中\u003c/b\u003e",
+            "path": "113.3197843453,23.144818157382;113.32004530305,23.144803702084;113.32058716093,23.144694373462;113.32084802885,23.14464992753;113.32097846281,23.144617776911;113.32146013423,23.144529549593",
+            "pois": [],
+            "turn": 3,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.31854989387,
+              "lat": 23.144689804255
+            },
+            "stepDestinationLocation": {
+              "lng": 113.32146022406,
+              "lat": 23.14452913421
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "右转进入广州大道中 - 110米",
+            "traffic_condition": 2
+          },
+          {
+            "area": 0,
+            "direction": 6,
+            "distance": 109,
+            "duration": 15,
+            "instructions": "沿广州大道中\u003c/b\u003e行驶30米,过左侧的圣丰广场\u003c/font\u003e\u003c/b\u003e约80米后,靠右\u003c/b\u003e",
+            "path": "113.32150010882,23.144048369061;113.32153011223,23.14376790115;113.32155014444,23.143627666972;113.32155014444,23.143547746716",
+            "pois": [
+              {
+                "detail": {
+                  "instructions": "",
+                  "position": 0
+                },
+                "location": {
+                  "lng": 113.32188161917,
+                  "lat": 23.144341879424
+                },
+                "name": "圣丰广场",
+                "type": 106
+              }
+            ],
+            "turn": 10,
+            "type": 3,
+            "stepOriginLocation": {
+              "lng": 113.32146022406,
+              "lat": 23.14452913421
+            },
+            "stepDestinationLocation": {
+              "lng": 113.32155005461,
+              "lat": 23.143547497484
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "靠右 - 100米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 6,
+            "distance": 95,
+            "duration": 15,
+            "instructions": "继续沿广州大道中\u003c/b\u003e行驶100米,靠左\u003c/b\u003e",
+            "path": "113.32150990035,23.143368133658;113.32157987835,23.142707002645",
+            "pois": [],
+            "turn": 9,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.32155005461,
+              "lat": 23.143547497484
+            },
+            "stepDestinationLocation": {
+              "lng": 113.32157987835,
+              "lat": 23.142706919567
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "靠左 - 380米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 6,
+            "distance": 377,
+            "duration": 104,
+            "instructions": "继续沿广州大道中\u003c/b\u003e行驶380米,朝天河路方向\u003c/b\u003e,由环岛走第3出口\u003c/b\u003e进入天河路\u003c/b\u003e",
+            "path": "113.32168992078,23.141754928314;113.32177993099,23.140573382928;113.32180993439,23.140252946536;113.32181990558,23.140122844321;113.32178990218,23.140103403749;113.3217699598,23.140083797016;113.32175001742,23.140054220751;113.3217299852,23.140014674949;113.32172001401,23.13998493251;113.32171004282,23.139935167912;113.32171004282,23.139885237136;113.32173007503,23.139844943568;113.32175010725,23.139804649987;113.32178020048,23.139774242865;113.32183032593,23.139733450785;113.32188054121,23.139712680882;113.32191063444,23.13970221285;113.32197082091,23.139691246339;113.32203100738,23.139700218939;113.32206110061,23.139699803541;113.32208113283,23.139709440777;113.3221313481,23.139738601721;113.32217150236,23.139757959266",
+            "pois": [],
+            "turn": 14,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.32157987835,
+              "lat": 23.142706919567
+            },
+            "stepDestinationLocation": {
+              "lng": 113.32217114304,
+              "lat": 23.139756629993
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "由环岛走第3出口进入天河路 - 370米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 3,
+            "distance": 373,
+            "duration": 70,
+            "instructions": "沿天河路\u003c/b\u003e行驶370米,直行\u003c/b\u003e",
+            "path": "113.32231154819,23.139754303764;113.32355579115,23.139663580819;113.32422799316,23.139612652985;113.32433839491,23.139600938749;113.32471963577,23.139574851725;113.3250005359,23.1395704485;113.32499056471,23.139520683747;113.32537180557,23.139504649356;113.32576310745,23.139488531884",
+            "pois": [],
+            "turn": 1,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.32217114304,
+              "lat": 23.139756629993
+            },
+            "stepDestinationLocation": {
+              "lng": 113.32576310745,
+              "lat": 23.139487784166
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "直行 - 130米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 3,
+            "distance": 129,
+            "duration": 30,
+            "instructions": "继续沿天河路\u003c/b\u003e行驶90米,过右侧的苏宁易购(天河店)\u003c/font\u003e\u003c/b\u003e右转\u003c/b\u003e",
+            "path": "113.32650546712,23.13944624428;113.32702711313,23.139418412549",
+            "pois": [
+              {
+                "detail": {
+                  "instructions": "",
+                  "position": 1
+                },
+                "location": {
+                  "lng": 113.32667596551,
+                  "lat": 23.139253665199
+                },
+                "name": "苏宁易购(天河店)",
+                "type": 105
+              }
+            ],
+            "turn": 3,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.32576310745,
+              "lat": 23.139487784166
+            },
+            "stepDestinationLocation": {
+              "lng": 113.3270270233,
+              "lat": 23.13941832947
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "右转 - 110米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 6,
+            "distance": 111,
+            "duration": 47,
+            "instructions": "行驶20米,过右侧的南方精典大厦\u003c/font\u003e\u003c/b\u003e约90米后,左转\u003c/b\u003e",
+            "path": "113.32701687245,23.138778447288;113.32702684364,23.138418377198",
+            "pois": [
+              {
+                "detail": {
+                  "instructions": "",
+                  "position": 1
+                },
+                "location": {
+                  "lng": 113.3266859367,
+                  "lat": 23.139253499039
+                },
+                "name": "南方精典大厦",
+                "type": 106
+              }
+            ],
+            "turn": 7,
+            "type": 21,
+            "stepOriginLocation": {
+              "lng": 113.3270270233,
+              "lat": 23.13941832947
+            },
+            "stepDestinationLocation": {
+              "lng": 113.32702684364,
+              "lat": 23.138418294117
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "左转 - 20米",
+            "traffic_condition": 0
+          },
+          {
+            "area": 0,
+            "direction": 4,
+            "distance": 21,
+            "duration": 7,
+            "instructions": "行驶20米,到达终点\u003c/b\u003e",
+            "path": "113.32708703011,23.138377335459;113.32721746407,23.138375424609",
+            "pois": [],
+            "turn": 0,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.32702684364,
+              "lat": 23.138418294117
+            },
+            "stepDestinationLocation": {
+              "lng": 113.32721746407,
+              "lat": 23.138375424609
+            },
+            "stepDestinationInstruction": "到达终点",
+            "traffic_condition": 0
+          }
+        ],
+        "toll": 0,
+        "originLocation": {
+          "lng": 113.31748567133,
+          "lat": 23.143798556587
+        },
+        "destinationLocation": {
+          "lng": 113.32721746407,
+          "lat": 23.138375424609
+        }
+      }
+    ],
+    "origin": {
+      "area_id": 257,
+      "bid": "1265479897216712703",
+      "cname": "广州市",
+      "uid": "48eb00589f1c65b42ee67be7",
+      "wd": "黄花机动车检测站",
+      "originPt": {
+        "lng": 113.31748513235,
+        "lat": 23.143802295055
+      }
+    },
+    "destination": {
+      "area_id": 1613,
+      "bid": "1265665336724684799",
+      "cname": "天河区",
+      "uid": "dbf4d6eed148bb336fa3cc4c",
+      "wd": "广百百货(天河中怡店)",
+      "destinationPt": {
+        "lng": 113.32721378102,
+        "lat": 23.138377252379
+      }
+    },
+    "taxi": {
+      "detail": [
+        {
+          "desc": "全天",
+          "km_price": "2.6",
+          "start_price": "10.0",
+          "total_price": "10"
+        }
+      ],
+      "distance": 1664,
+      "duration": 445,
+      "remark": "全程1.7公里;2.5公里起步；燃油附加费0.0元；里程超过35.0公里，超过部分每公里收3.9元。"
+    },
+    "traffic_condition": 1
+  }
+}

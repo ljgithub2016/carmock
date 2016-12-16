@@ -1,0 +1,298 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 2,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "routes": [
+      {
+        "distance": 2038,
+        "duration": 289,
+        "steps": [
+          {
+            "area": 0,
+            "direction": 2,
+            "distance": 384,
+            "duration": 46,
+            "instructions": "从起点\u003c/b\u003e向东北方向出发,沿昌岗中路\u003c/b\u003e行驶230米,过右侧的麦当劳(昌岗中路店)\u003c/font\u003e\u003c/b\u003e约150米后,右转\u003c/b\u003e进入宝岗大道\u003c/b\u003e",
+            "path": "113.27371914893,23.091669756436;113.27386880663,23.091741396978;113.27398846092,23.091792675626;113.27413811862,23.091854259842;113.27417800339,23.09186464854;113.27424780172,23.091895399081;113.27431760006,23.091916176469;113.27462688665,23.091999369098;113.2748264003,23.092041422496;113.27536529378,23.092116802762;113.27642313835,23.092266648963;113.27693220808,23.092321085561;113.27704198101,23.092342029101;113.27736141845,23.092404693483",
+            "pois": [
+              {
+                "detail": {
+                  "instructions": "",
+                  "position": 1
+                },
+                "location": {
+                  "lng": 113.27594434151,
+                  "lat": 23.091932382829
+                },
+                "name": "麦当劳(昌岗中路店)",
+                "type": 109
+              }
+            ],
+            "turn": 3,
+            "type": 3,
+            "stepOriginLocation": {
+              "lng": 113.27371914893,
+              "lat": 23.091669756436
+            },
+            "stepDestinationLocation": {
+              "lng": 113.27736150828,
+              "lat": 23.092404693483
+            },
+            "stepOriginInstruction": "从起点向东北方向出发 - 180米",
+            "stepDestinationInstruction": "右转进入宝岗大道 - 180米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 5,
+            "distance": 180,
+            "duration": 25,
+            "instructions": "沿宝岗大道\u003c/b\u003e行驶180米,右转\u003c/b\u003e进入翠宝路\u003c/b\u003e",
+            "path": "113.27753146768,23.092106164756;113.27757144228,23.092016572763;113.27816126968,23.090961410571",
+            "pois": [],
+            "turn": 3,
+            "type": 3,
+            "stepOriginLocation": {
+              "lng": 113.27736150828,
+              "lat": 23.092404693483
+            },
+            "stepDestinationLocation": {
+              "lng": 113.27816126968,
+              "lat": 23.090961161241
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "右转进入翠宝路 - 680米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 8,
+            "distance": 683,
+            "duration": 91,
+            "instructions": "沿翠宝路\u003c/b\u003e行驶680米,右转\u003c/b\u003e进入工业大道中\u003c/b\u003e",
+            "path": "113.27720313702,23.090503639112;113.276305101,23.090075952152;113.27568661766,23.089750324041;113.2755270786,23.089668875333;113.2754173955,23.089617928309;113.27524788525,23.089536396409;113.27439997468,23.089137878399;113.27435020855,23.089117433022;113.27427052885,23.089046705289;113.27345271152,23.088617933189;113.27311369102,23.0884441467;113.27227602113,23.088034405298",
+            "pois": [],
+            "turn": 3,
+            "type": 3,
+            "stepOriginLocation": {
+              "lng": 113.27816126968,
+              "lat": 23.090961161241
+            },
+            "stepDestinationLocation": {
+              "lng": 113.27227503299,
+              "lat": 23.088033491067
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "右转进入工业大道中 - 140米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 11,
+            "distance": 136,
+            "duration": 20,
+            "instructions": "沿工业大道中\u003c/b\u003e行驶140米,靠左\u003c/b\u003e",
+            "path": "113.27199548032,23.088410070891;113.27197562777,23.088429851484;113.27195577522,23.088469578883;113.27180611752,23.088667717033;113.27172634799,23.08878673276;113.27152683434,23.089024182114",
+            "pois": [],
+            "turn": 9,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.27227503299,
+              "lat": 23.088033491067
+            },
+            "stepDestinationLocation": {
+              "lng": 113.27152629535,
+              "lat": 23.089024182114
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "靠左 - 110米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 10,
+            "distance": 114,
+            "duration": 24,
+            "instructions": "行驶110米,调头\u003c/b\u003e进入工业大道中\u003c/b\u003e",
+            "path": "113.27142649361,23.089102888544;113.27126686472,23.089300859528;113.27109726464,23.089518693757;113.2710674409,23.089568311043;113.27092775439,23.089756474247;113.27088795946,23.089746002274;113.27085813571,23.089725723212;113.27081834078,23.089715251236",
+            "pois": [],
+            "turn": 5,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.27152629535,
+              "lat": 23.089024182114
+            },
+            "stepDestinationLocation": {
+              "lng": 113.27081762214,
+              "lat": 23.089715001903
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "调头进入工业大道中 - 400米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 5,
+            "distance": 401,
+            "duration": 45,
+            "instructions": "沿工业大道中\u003c/b\u003e行驶400米,左转\u003c/b\u003e",
+            "path": "113.27085759673,23.089665550894;113.27093745609,23.089566648822;113.27100734426,23.089407657354;113.27104731885,23.089338259554;113.27120703757,23.089110451673;113.27150653263,23.088714342621;113.27163633778,23.088546041627;113.27182597007,23.08829853489;113.27187591586,23.088249249578;113.27203563458,23.088031330155;113.27224529908,23.087753985201;113.27256473652,23.087337925128;113.27265456707,23.087219074329;113.27279434341,23.087060828065;113.27301397911,23.086743503843",
+            "pois": [],
+            "turn": 7,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.27081762214,
+              "lat": 23.089715001903
+            },
+            "stepDestinationLocation": {
+              "lng": 113.27301397911,
+              "lat": 23.086742340264
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "左转 - 10米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 3,
+            "distance": 3,
+            "duration": 7,
+            "instructions": "继续沿工业大道中\u003c/b\u003e行驶10米,右转\u003c/b\u003e",
+            "path": "113.27304389268,23.086742755828",
+            "pois": [],
+            "turn": 3,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.27301397911,
+              "lat": 23.086742340264
+            },
+            "stepDestinationLocation": {
+              "lng": 113.27304389268,
+              "lat": 23.086742755828
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "右转 - 80米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 5,
+            "distance": 82,
+            "duration": 12,
+            "instructions": "继续沿工业大道中\u003c/b\u003e行驶80米,右转\u003c/b\u003e进入南泰路\u003c/b\u003e",
+            "path": "113.27351307765,23.086148082541",
+            "pois": [],
+            "turn": 3,
+            "type": 3,
+            "stepOriginLocation": {
+              "lng": 113.27304389268,
+              "lat": 23.086742755828
+            },
+            "stepDestinationLocation": {
+              "lng": 113.27351307765,
+              "lat": 23.086148082541
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "右转进入南泰路 - 10米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 8,
+            "distance": 13,
+            "duration": 3,
+            "instructions": "沿南泰路\u003c/b\u003e行驶10米,靠右\u003c/b\u003e",
+            "path": "113.27340339455,23.086086911246",
+            "pois": [],
+            "turn": 10,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.27351307765,
+              "lat": 23.086148082541
+            },
+            "stepDestinationLocation": {
+              "lng": 113.27340339455,
+              "lat": 23.086086911246
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "靠右 - 40米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 9,
+            "distance": 42,
+            "duration": 13,
+            "instructions": "行驶40米,到达终点\u003c/b\u003e",
+            "path": "113.27332353519,23.086076023417;113.27304434183,23.085902898511",
+            "pois": [],
+            "turn": 0,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.27340339455,
+              "lat": 23.086086911246
+            },
+            "stepDestinationLocation": {
+              "lng": 113.27304434183,
+              "lat": 23.085902815397
+            },
+            "stepDestinationInstruction": "到达终点",
+            "traffic_condition": 0
+          }
+        ],
+        "toll": 0,
+        "originLocation": {
+          "lng": 113.27371914893,
+          "lat": 23.091669756436
+        },
+        "destinationLocation": {
+          "lng": 113.27304434183,
+          "lat": 23.085902815397
+        }
+      }
+    ],
+    "origin": {
+      "area_id": 257,
+      "bid": "7768596253133102795",
+      "cname": "广州市",
+      "uid": "ef3eabcc20dd9999f4c59cbe",
+      "wd": "橡胶新村",
+      "originPt": {
+        "lng": 113.27376460319,
+        "lat": 23.09158639738
+      }
+    },
+    "destination": {
+      "area_id": 257,
+      "bid": "7098645433786782135",
+      "cname": "广州市",
+      "uid": "1e463c2e9c330a8da7c75646",
+      "wd": "卡威尔酒店",
+      "destinationPt": {
+        "lng": 113.27303697573,
+        "lat": 23.085909880028
+      }
+    },
+    "taxi": {
+      "detail": [
+        {
+          "desc": "全天",
+          "km_price": "2.6",
+          "start_price": "10.0",
+          "total_price": "10"
+        }
+      ],
+      "distance": 2038,
+      "duration": 290,
+      "remark": "全程2.0公里;2.5公里起步；燃油附加费0.0元；里程超过35.0公里，超过部分每公里收3.9元。"
+    },
+    "traffic_condition": 1
+  }
+}

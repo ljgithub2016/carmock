@@ -1,0 +1,72 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 1,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "originInfo": {
+      "area_id": 257,
+      "wd": "光大花园榕景四季",
+      "uid": ""
+    },
+    "destinationInfo": {
+      "area_id": 257,
+      "wd": "康和雅居",
+      "uid": ""
+    },
+    "origin": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "海王星辰(光大花园店)",
+          "address": "海珠区工业大道122号光大花园榕景四季苑商铺D24号",
+          "uid": "4e88443572bee361c7f50de8",
+          "location": {
+            "lng": 113.26363701704,
+            "lat": 23.090592982794
+          }
+        }
+      ]
+    },
+    "destination": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "康和雅居",
+          "address": "广州市越秀区执信南路马棚岗8号",
+          "uid": "2784e6ea889e90dcfa0cadd7",
+          "telephone": "(020)87755896,(020)87606153",
+          "location": {
+            "lng": 113.29865736751,
+            "lat": 23.131644656776
+          }
+        },
+        {
+          "name": "康和雅居-停车场",
+          "address": "越秀区马棚岗8号",
+          "uid": "bf32ced741735ef1471a320d",
+          "location": {
+            "lng": 113.29864533021,
+            "lat": 23.131635766715
+          }
+        },
+        {
+          "name": "康和雅居停车场-出入口",
+          "address": "广州市越秀区",
+          "uid": "1077bb3b00172eda28201a67",
+          "location": {
+            "lng": 113.29866230819,
+            "lat": 23.131529584453
+          }
+        }
+      ]
+    }
+  }
+}

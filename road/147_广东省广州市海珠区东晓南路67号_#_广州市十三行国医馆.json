@@ -1,0 +1,54 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 1,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "originInfo": {
+      "area_id": 257,
+      "wd": "广东省广州市海珠区东晓南路67号",
+      "uid": ""
+    },
+    "destinationInfo": {
+      "area_id": 257,
+      "wd": "广州市十三行国医馆",
+      "uid": ""
+    },
+    "origin": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "金盛龙商标辅料",
+          "address": "瑞宝瑞南路67号",
+          "uid": "c23df4007d793fd1b8bd6332",
+          "location": {
+            "lng": 113.30081401938,
+            "lat": 23.079801992384
+          }
+        }
+      ]
+    },
+    "destination": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "广州市十三行国医馆",
+          "address": "荔湾路1号（原19号，荔湾医院对面马路直入100米）",
+          "uid": "c088a8060e358231bda240dd",
+          "telephone": "(020)81200628",
+          "location": {
+            "lng": 113.24808177918,
+            "lat": 23.13047207759
+          }
+        }
+      ]
+    }
+  }
+}

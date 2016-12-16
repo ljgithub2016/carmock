@@ -1,0 +1,131 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 2,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "routes": [
+      {
+        "distance": 543,
+        "duration": 166,
+        "steps": [
+          {
+            "area": 0,
+            "direction": 7,
+            "distance": 92,
+            "duration": 31,
+            "instructions": "从起点\u003c/b\u003e向正南方向出发,沿南苑街\u003c/b\u003e行驶90米,右转\u003c/b\u003e进入建基路\u003c/b\u003e",
+            "path": "113.29371507026,23.106895328864;113.29356550239,23.106346534186;113.29350576507,23.10608709412",
+            "pois": [],
+            "turn": 3,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.29371507026,
+              "lat": 23.106895328864
+            },
+            "stepDestinationLocation": {
+              "lng": 113.29350567524,
+              "lat": 23.106086927919
+            },
+            "stepOriginInstruction": "从起点向正南方向出发 - 360米",
+            "stepDestinationInstruction": "右转进入建基路 - 360米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 9,
+            "distance": 355,
+            "duration": 118,
+            "instructions": "沿建基路\u003c/b\u003e行驶360米,左转\u003c/b\u003e进入东晓路\u003c/b\u003e",
+            "path": "113.29336544975,23.106087758925;113.29330544294,23.106088174429;113.29308526826,23.10608950404;113.29299525805,23.106090085744;113.29291521903,23.106090584348;113.29243471541,23.106093326671;113.29183419818,23.106086512415;113.29163405571,23.106087509623;113.29149400988,23.106088174429;113.29075344682,23.106121331595;113.29015301942,23.106163546723;113.29013307704,23.106163629823;113.29005312784,23.106163879125;113.29003318546,23.106163962226",
+            "pois": [],
+            "turn": 7,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.29350567524,
+              "lat": 23.106086927919
+            },
+            "stepDestinationLocation": {
+              "lng": 113.2900321075,
+              "lat": 23.106163879125
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "左转进入东晓路 - 100米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 6,
+            "distance": 96,
+            "duration": 16,
+            "instructions": "沿东晓路\u003c/b\u003e行驶100米,到达终点\u003c/b\u003e",
+            "path": "113.28990257184,23.105624388733;113.28989269048,23.105564556022;113.28987283793,23.105524750634;113.28985298538,23.105484945235;113.28973315142,23.105345418488",
+            "pois": [],
+            "turn": 0,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.2900321075,
+              "lat": 23.106163879125
+            },
+            "stepDestinationLocation": {
+              "lng": 113.2897327921,
+              "lat": 23.105345002983
+            },
+            "stepDestinationInstruction": "到达终点",
+            "traffic_condition": 1
+          }
+        ],
+        "toll": 0,
+        "originLocation": {
+          "lng": 113.29371507026,
+          "lat": 23.106895328864
+        },
+        "destinationLocation": {
+          "lng": 113.2897327921,
+          "lat": 23.105345002983
+        }
+      }
+    ],
+    "origin": {
+      "area_id": 257,
+      "bid": "1351574792274821816",
+      "cname": "广州市",
+      "uid": "92c42a2583f36b44eddfca1f",
+      "wd": "海印南苑二期",
+      "originPt": {
+        "lng": 113.29424596881,
+        "lat": 23.106877711626
+      }
+    },
+    "destination": {
+      "area_id": 257,
+      "bid": "1265579875465428991",
+      "cname": "广州市",
+      "uid": "78bd50f7c1fca84231870a02",
+      "wd": "炳胜金矿食唱KTV",
+      "destinationPt": {
+        "lng": 113.28973647515,
+        "lat": 23.105348659433
+      }
+    },
+    "taxi": {
+      "detail": [
+        {
+          "desc": "全天",
+          "km_price": "2.6",
+          "start_price": "10.0",
+          "total_price": "10"
+        }
+      ],
+      "distance": 543,
+      "duration": 167,
+      "remark": "全程0.5公里;2.5公里起步；燃油附加费0.0元；里程超过35.0公里，超过部分每公里收3.9元。"
+    },
+    "traffic_condition": 2
+  }
+}

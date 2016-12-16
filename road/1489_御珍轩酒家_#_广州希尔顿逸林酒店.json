@@ -1,0 +1,83 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 1,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "originInfo": {
+      "area_id": 257,
+      "wd": "御珍轩酒家",
+      "uid": ""
+    },
+    "destinationInfo": {
+      "area_id": 257,
+      "wd": "广州希尔顿逸林酒店",
+      "uid": ""
+    },
+    "origin": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "御珍轩酒家",
+          "address": "广州市越秀区二沙岛渔唱街1号新创举文化中心3楼(星海音乐厅东侧)",
+          "uid": "cd9d05dd696d0caf84420e8a",
+          "telephone": "020-87320666",
+          "location": {
+            "lng": 113.31451515467,
+            "lat": 23.113747426088
+          }
+        },
+        {
+          "name": "御珍轩酒家-停车场",
+          "address": "广州市越秀区",
+          "uid": "311f983e86b38556047ce856",
+          "location": {
+            "lng": 113.31489828197,
+            "lat": 23.113983584379
+          }
+        },
+        {
+          "name": "御珍轩酒家停车场出入口",
+          "address": "广州市越秀区",
+          "uid": "e600f20dc8ee9dfdae080f0b",
+          "location": {
+            "lng": 113.31508405155,
+            "lat": 23.113900322425
+          }
+        }
+      ]
+    },
+    "destination": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "广州希尔顿逸林酒店",
+          "address": "广州市越秀区东风路391号（小北路和东风中路交叉口）",
+          "uid": "830798b401566d03081cc7f8",
+          "telephone": "(020)28332888",
+          "location": {
+            "lng": 113.27759830161,
+            "lat": 23.137600198608
+          }
+        },
+        {
+          "name": "广州汇华希尔顿逸林酒店",
+          "address": "水西路18号",
+          "uid": "cb79fe7248bad0c340e19293",
+          "telephone": "020-32238888",
+          "location": {
+            "lng": 113.48186929146,
+            "lat": 23.18805469985
+          }
+        }
+      ]
+    }
+  }
+}

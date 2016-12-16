@@ -1,0 +1,60 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 1,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "originInfo": {
+      "area_id": 257,
+      "wd": "广东省广州市越秀区司马街9号",
+      "uid": ""
+    },
+    "destinationInfo": {
+      "area_id": 257,
+      "wd": "文德路字画街",
+      "uid": ""
+    },
+    "origin": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "司马街9号",
+          "address": "越秀区",
+          "location": {
+            "lng": 113.25780620581,
+            "lat": 23.136964378636
+          }
+        },
+        {
+          "name": "司马街7号",
+          "address": "越秀区",
+          "location": {
+            "lng": 113.25778563461,
+            "lat": 23.137109272414
+          }
+        }
+      ]
+    },
+    "destination": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "文德路字画街",
+          "address": "广州市越秀区文德路(近文明路)",
+          "uid": "08f1f1f52cd2bbd389db73e0",
+          "location": {
+            "lng": 113.27861248853,
+            "lat": 23.128150152439
+          }
+        }
+      ]
+    }
+  }
+}

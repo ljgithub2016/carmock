@@ -1,0 +1,521 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 2,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "routes": [
+      {
+        "distance": 3115,
+        "duration": 620,
+        "steps": [
+          {
+            "area": 0,
+            "direction": 10,
+            "distance": 179,
+            "duration": 53,
+            "instructions": "从起点\u003c/b\u003e向正西方向出发,沿小梅大街\u003c/b\u003e行驶160米,过右侧的广州荔湾荔锦商贸城\u003c/font\u003e\u003c/b\u003e右转\u003c/b\u003e进入荔湾路\u003c/b\u003e",
+            "path": "113.25273401358,23.137029597472;113.25204654037,23.137277594918;113.25130921121,23.137534813891;113.25110996705,23.137571369518",
+            "pois": [
+              {
+                "detail": {
+                  "instructions": "",
+                  "position": 1
+                },
+                "location": {
+                  "lng": 113.25177740804,
+                  "lat": 23.137532903028
+                },
+                "name": "广州荔湾荔锦商贸城",
+                "type": 104
+              }
+            ],
+            "turn": 3,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.25273401358,
+              "lat": 23.137029597472
+            },
+            "stepDestinationLocation": {
+              "lng": 113.25110978739,
+              "lat": 23.137571452599
+            },
+            "stepOriginInstruction": "从起点向正西方向出发 - 170米",
+            "stepDestinationInstruction": "右转进入荔湾路 - 170米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 0,
+            "distance": 174,
+            "duration": 44,
+            "instructions": "沿荔湾路\u003c/b\u003e行驶170米,在彩虹桥\u003c/font\u003e\u003c/b\u003e右转\u003c/b\u003e进入西华路\u003c/b\u003e",
+            "path": "113.25126941628,23.138654159246;113.25128935866,23.138834526413;113.25137909938,23.139116084804",
+            "pois": [
+              {
+                "detail": {
+                  "instructions": "",
+                  "position": 2
+                },
+                "location": {
+                  "lng": 113.25102031616,
+                  "lat": 23.13926994886
+                },
+                "name": "彩虹桥",
+                "type": 100
+              }
+            ],
+            "turn": 3,
+            "type": 3,
+            "stepOriginLocation": {
+              "lng": 113.25110978739,
+              "lat": 23.137571452599
+            },
+            "stepDestinationLocation": {
+              "lng": 113.25137909938,
+              "lat": 23.139116084804
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "右转进入西华路 - 380米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 4,
+            "distance": 376,
+            "duration": 86,
+            "instructions": "沿西华路\u003c/b\u003e行驶380米,左转\u003c/b\u003e进入康王北路\u003c/b\u003e",
+            "path": "113.2522459642,23.138711069226;113.25301320693,23.138354571413;113.25314274259,23.138296913555;113.25332204437,23.138210177479;113.25343163764,23.138162156907;113.25398957519,23.137902114407;113.25447780424,23.13767081739;113.25461731108,23.137603355684",
+            "pois": [],
+            "turn": 7,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.25137909938,
+              "lat": 23.139116084804
+            },
+            "stepDestinationLocation": {
+              "lng": 113.25461722125,
+              "lat": 23.137602774117
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "左转进入康王北路 - 240米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 1,
+            "distance": 244,
+            "duration": 73,
+            "instructions": "沿康王北路\u003c/b\u003e行驶20米,过右侧的华业大厦\u003c/font\u003e\u003c/b\u003e约220米后,左转\u003c/b\u003e进入东风西路辅路\u003c/b\u003e",
+            "path": "113.25484646882,23.138136900405;113.25487638239,23.138207435821;113.2552451368,23.139063993639;113.25541455722,23.139457044652;113.2554344996,23.139497421418;113.2554444708,23.139527579365;113.25538482331,23.139586482883;113.25540476569,23.139626859609;113.25541473688,23.139657017527",
+            "pois": [
+              {
+                "detail": {
+                  "instructions": "",
+                  "position": 1
+                },
+                "location": {
+                  "lng": 113.25500582822,
+                  "lat": 23.137679707045
+                },
+                "name": "华业大厦",
+                "type": 106
+              }
+            ],
+            "turn": 7,
+            "type": 3,
+            "stepOriginLocation": {
+              "lng": 113.25461722125,
+              "lat": 23.137602774117
+            },
+            "stepDestinationLocation": {
+              "lng": 113.25541464705,
+              "lat": 23.139657017527
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "左转进入东风西路辅路 - 340米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 10,
+            "distance": 344,
+            "duration": 55,
+            "instructions": "沿东风西路辅路\u003c/b\u003e行驶340米,直行\u003c/b\u003e进入东风西路\u003c/b\u003e",
+            "path": "113.25534493855,23.139675793527;113.25479706201,23.139846023602;113.25472744334,23.139864799575;113.25456808394,23.139911988736;113.25446855169,23.139950205297;113.25425942617,23.140016502696;113.25406027184,23.140082966222;113.25400062435,23.14010190832;113.25391106329,23.140130321463;113.25377164628,23.140167873327;113.25373185134,23.140177178212;113.25355263939,23.140243973973;113.25339327999,23.140291162999;113.25326383417,23.140338850483;113.25307465103,23.140395510502;113.25283561193,23.140481331278;113.2523674151,23.140633116772;113.25235753374,23.140613011643;113.25233768119,23.140552779315",
+            "pois": [],
+            "turn": 1,
+            "type": 11,
+            "stepOriginLocation": {
+              "lng": 113.25541464705,
+              "lat": 23.139657017527
+            },
+            "stepDestinationLocation": {
+              "lng": 113.25233597441,
+              "lat": 23.140552696236
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "直行进入东风西路 - 420米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 10,
+            "distance": 424,
+            "duration": 71,
+            "instructions": "沿东风西路\u003c/b\u003e行驶250米,过左侧的综合大楼\u003c/font\u003e\u003c/b\u003e约180米后,朝内环路A.B线/环市路方向\u003c/b\u003e,靠右\u003c/b\u003e",
+            "path": "113.25148905198,23.140838072608;113.25001439365,23.141332972765;113.2496458189,23.141466812325;113.24897828808,23.141705745929;113.24860962349,23.141839668191;113.24849014886,23.14187771804",
+            "pois": [
+              {
+                "detail": {
+                  "instructions": "",
+                  "position": 0
+                },
+                "location": {
+                  "lng": 113.24998430042,
+                  "lat": 23.140952389142
+                },
+                "name": "综合大楼",
+                "type": 106
+              }
+            ],
+            "turn": 10,
+            "type": 3,
+            "stepOriginLocation": {
+              "lng": 113.25233597441,
+              "lat": 23.140552696236
+            },
+            "stepDestinationLocation": {
+              "lng": 113.24848969971,
+              "lat": 23.14187771804
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "靠右 - 10米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 11,
+            "distance": 7,
+            "duration": 3,
+            "instructions": "继续沿东风西路\u003c/b\u003e行驶10米,左转\u003c/b\u003e",
+            "path": "113.24844981494,23.141937035905",
+            "pois": [],
+            "turn": 7,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.24848969971,
+              "lat": 23.14187771804
+            },
+            "stepDestinationLocation": {
+              "lng": 113.24844981494,
+              "lat": 23.141937035905
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "左转 - 350米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 10,
+            "distance": 347,
+            "duration": 32,
+            "instructions": "继续沿东风西路\u003c/b\u003e行驶220米,过右侧的荔海大厦\u003c/font\u003e\u003c/b\u003e约130米后,靠右\u003c/b\u003e",
+            "path": "113.24830033691,23.141984639719;113.24828048436,23.141994276789;113.24805132662,23.142060573166;113.2480015605,23.142079764216;113.24798170794,23.142089484358;113.24705492615,23.142394796126;113.24673602769,23.142489837252;113.24567953058,23.142843665458;113.24534068974,23.142948592495;113.24529092362,23.142967866494",
+            "pois": [
+              {
+                "detail": {
+                  "instructions": "",
+                  "position": 1
+                },
+                "location": {
+                  "lng": 113.246516392,
+                  "lat": 23.14277637254
+                },
+                "name": "荔海大厦",
+                "type": 106
+              }
+            ],
+            "turn": 10,
+            "type": 3,
+            "stepOriginLocation": {
+              "lng": 113.24844981494,
+              "lat": 23.141937035905
+            },
+            "stepDestinationLocation": {
+              "lng": 113.24529029481,
+              "lat": 23.142967866494
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "靠右 - 50米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 10,
+            "distance": 48,
+            "duration": 11,
+            "instructions": "继续沿东风西路\u003c/b\u003e行驶50米,朝南岸路/内环路(A线)方向\u003c/b\u003e,靠右\u003c/b\u003e",
+            "path": "113.24493142175,23.143072544201;113.24489162682,23.143111922935;113.24486180308,23.143121476846",
+            "pois": [],
+            "turn": 10,
+            "type": 3,
+            "stepOriginLocation": {
+              "lng": 113.24529029481,
+              "lat": 23.142967866494
+            },
+            "stepDestinationLocation": {
+              "lng": 113.24486162342,
+              "lat": 23.143121559923
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "靠右 - 250米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 10,
+            "distance": 247,
+            "duration": 40,
+            "instructions": "继续沿东风西路\u003c/b\u003e行驶140米,过右侧的西苑百货商店\u003c/font\u003e\u003c/b\u003e约110米后,朝南岸路方向\u003c/b\u003e,靠左\u003c/b\u003e进入西场立交\u003c/b\u003e",
+            "path": "113.24449277917,23.143256228452;113.24443304186,23.143265366965;113.2441938231,23.143341964297;113.24413408578,23.143361155162;113.24368556184,23.143504878867;113.2430973514,23.143696787154;113.24266868001,23.143831039713;113.2425989715,23.14385014743",
+            "pois": [
+              {
+                "detail": {
+                  "instructions": "",
+                  "position": 1
+                },
+                "location": {
+                  "lng": 113.2436254652,
+                  "lat": 23.143693962532
+                },
+                "name": "西苑百货商店",
+                "type": 104
+              }
+            ],
+            "turn": 9,
+            "type": 3,
+            "stepOriginLocation": {
+              "lng": 113.24486162342,
+              "lat": 23.143121559923
+            },
+            "stepDestinationLocation": {
+              "lng": 113.24259843252,
+              "lat": 23.143849981276
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "靠左进入西场立交 - 120米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 9,
+            "distance": 120,
+            "duration": 29,
+            "instructions": "沿西场立交\u003c/b\u003e行驶120米,在西场立交桥\u003c/font\u003e\u003c/b\u003e左转\u003c/b\u003e进入南岸路\u003c/b\u003e",
+            "path": "113.24237897648,23.14389708594;113.2422793544,23.143915778263;113.24170102531,23.144088329044;113.24165125919,23.144107685955;113.24158155068,23.144126793632;113.24151184217,23.144145901306;113.24148201843,23.144155538219",
+            "pois": [
+              {
+                "detail": {
+                  "instructions": "",
+                  "position": 2
+                },
+                "location": {
+                  "lng": 113.24134179294,
+                  "lat": 23.144133772087
+                },
+                "name": "西场立交桥",
+                "type": 100
+              }
+            ],
+            "turn": 7,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.24259843252,
+              "lat": 23.143849981276
+            },
+            "stepDestinationLocation": {
+              "lng": 113.24148147944,
+              "lat": 23.144155538219
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "左转进入南岸路 - 300米",
+            "traffic_condition": 2
+          },
+          {
+            "area": 0,
+            "direction": 9,
+            "distance": 304,
+            "duration": 50,
+            "instructions": "沿南岸路\u003c/b\u003e行驶300米,在西场立交桥\u003c/font\u003e\u003c/b\u003e靠右\u003c/b\u003e",
+            "path": "113.24144159468,23.144155039758;113.24141177094,23.14414473823;113.24134206243,23.144123969019;113.24127235392,23.144093147503;113.24120264541,23.14406232598;113.24116285048,23.144031919834;113.24110311316,23.143991295219;113.24100340125,23.14393015058;113.24094357411,23.143869504375;113.24092372155,23.143859368979;113.24081403845,23.143748128804;113.24058461122,23.143515429676;113.24042498233,23.143353595125;113.24036515519,23.143272927008;113.24036515519,23.143222997489;113.24022555851,23.143081433494;113.2399461855,23.14278825265;113.23974667184,23.142586041399;113.23948724121,23.142313213568;113.23941744288,23.142242514181",
+            "pois": [
+              {
+                "detail": {
+                  "instructions": "",
+                  "position": 2
+                },
+                "location": {
+                  "lng": 113.24134179294,
+                  "lat": 23.144133772087
+                },
+                "name": "西场立交桥",
+                "type": 100
+              }
+            ],
+            "turn": 10,
+            "type": 3,
+            "stepOriginLocation": {
+              "lng": 113.24148147944,
+              "lat": 23.144155538219
+            },
+            "stepDestinationLocation": {
+              "lng": 113.23941573609,
+              "lat": 23.142240935698
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "靠右 - 180米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 8,
+            "distance": 180,
+            "duration": 31,
+            "instructions": "继续沿南岸路\u003c/b\u003e行驶180米,靠右\u003c/b\u003e",
+            "path": "113.23931593435,23.14218975962;113.23824802876,23.141028406259",
+            "pois": [],
+            "turn": 10,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.23941573609,
+              "lat": 23.142240935698
+            },
+            "stepDestinationLocation": {
+              "lng": 113.23824793893,
+              "lat": 23.14102832318
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "靠右 - 20米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 8,
+            "distance": 18,
+            "duration": 9,
+            "instructions": "继续沿南岸路\u003c/b\u003e行驶20米,直行\u003c/b\u003e进入南岸路辅路\u003c/b\u003e",
+            "path": "113.23817805076,23.140997667102;113.23808831004,23.140966844859",
+            "pois": [],
+            "turn": 1,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.23824793893,
+              "lat": 23.14102832318
+            },
+            "stepDestinationLocation": {
+              "lng": 113.23808822021,
+              "lat": 23.140966678702
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "直行进入南岸路辅路 - 50米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 7,
+            "distance": 50,
+            "duration": 13,
+            "instructions": "沿南岸路辅路\u003c/b\u003e行驶50米,右转\u003c/b\u003e进入荟文二街\u003c/b\u003e",
+            "path": "113.23800836085,23.140885926052;113.23788870656,23.140764796987;113.23775899124,23.140623562682",
+            "pois": [],
+            "turn": 3,
+            "type": 11,
+            "stepOriginLocation": {
+              "lng": 113.23808822021,
+              "lat": 23.140966678702
+            },
+            "stepDestinationLocation": {
+              "lng": 113.23775881158,
+              "lat": 23.140623396524
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "右转进入荟文二街 - 50米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 10,
+            "distance": 53,
+            "duration": 13,
+            "instructions": "沿荟文二街\u003c/b\u003e行驶50米,到达终点\u003c/b\u003e",
+            "path": "113.23736966564,23.140919656074",
+            "pois": [],
+            "turn": 0,
+            "type": 21,
+            "stepOriginLocation": {
+              "lng": 113.23775881158,
+              "lat": 23.140623396524
+            },
+            "stepDestinationLocation": {
+              "lng": 113.23736966564,
+              "lat": 23.140919656074
+            },
+            "stepDestinationInstruction": "到达终点",
+            "traffic_condition": 0
+          }
+        ],
+        "toll": 0,
+        "originLocation": {
+          "lng": 113.25273401358,
+          "lat": 23.137029597472
+        },
+        "destinationLocation": {
+          "lng": 113.23736966564,
+          "lat": 23.140919656074
+        }
+      }
+    ],
+    "origin": {
+      "area_id": 257,
+      "bid": "10219584",
+      "cname": "广州市",
+      "uid": "ca2bafb091be753e07026fe3",
+      "wd": "小梅大街",
+      "originPt": {
+        "lng": 113.25273527121,
+        "lat": 23.137023034049
+      }
+    },
+    "destination": {
+      "area_id": 257,
+      "bid": "15880562789509922525",
+      "cname": "广州市",
+      "uid": "0ac906f75ce32d694bcc4a03",
+      "wd": "城启大厦",
+      "destinationPt": {
+        "lng": 113.23736526394,
+        "lat": 23.140927797803
+      }
+    },
+    "taxi": {
+      "detail": [
+        {
+          "desc": "全天",
+          "km_price": "2.6",
+          "start_price": "10.0",
+          "total_price": "12"
+        }
+      ],
+      "distance": 3115,
+      "duration": 621,
+      "remark": "全程3.1公里;2.5公里起步；燃油附加费0.0元；里程超过35.0公里，超过部分每公里收3.9元。"
+    },
+    "traffic_condition": 1
+  }
+}

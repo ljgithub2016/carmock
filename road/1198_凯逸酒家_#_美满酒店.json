@@ -1,0 +1,133 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 1,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "originInfo": {
+      "area_id": 257,
+      "wd": "凯逸酒家",
+      "uid": ""
+    },
+    "destinationInfo": {
+      "area_id": 257,
+      "wd": "美满酒店",
+      "uid": ""
+    },
+    "origin": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "凯逸酒家",
+          "address": "海珠区南华中路299号亿海湾3楼(近同福路)",
+          "uid": "20c3c6246ec764e8a4c7562f",
+          "telephone": "(020)26298022,(020)26298033",
+          "location": {
+            "lng": 113.26677372022,
+            "lat": 23.113387204944
+          }
+        }
+      ]
+    },
+    "destination": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "美满酒店",
+          "address": "广州荔湾区芳村大道南2号",
+          "uid": "2527be1e30ac5eaa4bfc8db5",
+          "telephone": "(020)81608868",
+          "location": {
+            "lng": 113.26195880269,
+            "lat": 23.069269555284
+          }
+        },
+        {
+          "name": "美满酒店·湛味轩",
+          "address": "东沙大道环翠北路交叉口旁",
+          "uid": "87248d9628d685b32806ce1a",
+          "telephone": "(020)81607088",
+          "location": {
+            "lng": 113.26177851277,
+            "lat": 23.06932649501
+          }
+        },
+        {
+          "name": "美满酒店-停车场",
+          "address": "芳村大道南2号",
+          "uid": "be834cb57ee8bc0ceedfca0d",
+          "telephone": "(020)81608868",
+          "location": {
+            "lng": 113.26195880269,
+            "lat": 23.069269555284
+          }
+        },
+        {
+          "name": "美满酒店停车场-出入口",
+          "address": "广州市荔湾区",
+          "uid": "2cc5bf85179a69552bb97c40",
+          "location": {
+            "lng": 113.2620543824,
+            "lat": 23.069002146051
+          }
+        },
+        {
+          "name": "美满公寓",
+          "address": "杏坛大街123号",
+          "uid": "4f87eae45aeeccf37c29bd82",
+          "telephone": "(020)34378847,13802519048,13802516619",
+          "location": {
+            "lng": 113.27440482553,
+            "lat": 23.10549566527
+          }
+        },
+        {
+          "name": "碧水湾美满别墅",
+          "address": "良口镇碧水新村怡乐路三区一街10号",
+          "uid": "2a92c3eb64e0d0b4f03cba69",
+          "location": {
+            "lng": 113.73716780715,
+            "lat": 23.709612261503
+          }
+        },
+        {
+          "name": "铭意学车(东塱分部)",
+          "address": "广东省广州市荔湾区芳村大道南2号美满酒店",
+          "uid": "97d43b426fe9a0c93b221c52",
+          "telephone": "(020)29847333",
+          "location": {
+            "lng": 113.2619788349,
+            "lat": 23.06931992824
+          }
+        },
+        {
+          "name": "润满四季椰子鸡",
+          "address": "东沙大道环翠北路临8b2(美满酒店对面)",
+          "uid": "42edcad4b324bca928201a47",
+          "telephone": "13613058724",
+          "location": {
+            "lng": 113.26200578407,
+            "lat": 23.068887185684
+          }
+        },
+        {
+          "name": "大家医疗门诊",
+          "address": "荔湾区芳村大道南46号(近美满酒店)",
+          "uid": "9f51c7528d58d55014948eea",
+          "telephone": "(020)81408338",
+          "location": {
+            "lng": 113.2613213651,
+            "lat": 23.07028864802
+          }
+        }
+      ]
+    }
+  }
+}

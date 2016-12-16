@@ -1,0 +1,201 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 2,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "routes": [
+      {
+        "distance": 1130,
+        "duration": 156,
+        "steps": [
+          {
+            "area": 0,
+            "direction": 9,
+            "distance": 78,
+            "duration": 30,
+            "instructions": "从起点\u003c/b\u003e向正西方向出发,沿法政路\u003c/b\u003e行驶80米,左转\u003c/b\u003e进入小北路\u003c/b\u003e",
+            "path": "113.27876663776,23.138488995544;113.27856703428,23.13853759756;113.27818767986,23.138604809549;113.27816782731,23.138614696106;113.27808805778,23.138634136896;113.27806820523,23.138634053816;113.27806820523,23.13858412255",
+            "pois": [],
+            "turn": 7,
+            "type": 3,
+            "stepOriginLocation": {
+              "lng": 113.27876663776,
+              "lat": 23.138488995544
+            },
+            "stepDestinationLocation": {
+              "lng": 113.27806766624,
+              "lat": 23.138583873309
+            },
+            "stepOriginInstruction": "从起点向正西方向出发 - 130米",
+            "stepDestinationInstruction": "左转进入小北路 - 130米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 6,
+            "distance": 132,
+            "duration": 24,
+            "instructions": "沿小北路\u003c/b\u003e行驶20米,过右侧的华宇大厦\u003c/font\u003e\u003c/b\u003e约110米后,右转\u003c/b\u003e进入东风中路\u003c/b\u003e",
+            "path": "113.27801772046,23.138193478286;113.2779978679,23.138053404371;113.27790803735,23.137472752382;113.27789815599,23.137402798143",
+            "pois": [
+              {
+                "detail": {
+                  "instructions": "",
+                  "position": 1
+                },
+                "location": {
+                  "lng": 113.27774813897,
+                  "lat": 23.138411398441
+                },
+                "name": "华宇大厦",
+                "type": 106
+              }
+            ],
+            "turn": 3,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.27806766624,
+              "lat": 23.138583873309
+            },
+            "stepDestinationLocation": {
+              "lng": 113.27789779667,
+              "lat": 23.1374025489
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "右转进入东风中路 - 580米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 9,
+            "distance": 579,
+            "duration": 53,
+            "instructions": "沿东风中路\u003c/b\u003e行驶440米,过右侧的广东大厦-商务中心\u003c/font\u003e\u003c/b\u003e约140米后,朝吉祥路/应元路/广东省人民政府方向\u003c/b\u003e,右转\u003c/b\u003e进入吉祥路\u003c/b\u003e",
+            "path": "113.27771813557,23.137421159057;113.2774985897,23.137429384081;113.27724913026,23.137447329587;113.27673008934,23.137482971347;113.27616119246,23.137537887887;113.27544263788,23.137591142785;113.27532298359,23.137590062733;113.27504361058,23.137607260488;113.27475426637,23.137624292079;113.27454478153,23.137632101686;113.27376657946,23.137683778009;113.27353715224,23.137691255289;113.27269921286,23.137731632593;113.27227036181,23.137756556848",
+            "pois": [
+              {
+                "detail": {
+                  "instructions": "",
+                  "position": 1
+                },
+                "location": {
+                  "lng": 113.27365599805,
+                  "lat": 23.137862651043
+                },
+                "name": "广东大厦-商务中心",
+                "type": 106
+              }
+            ],
+            "turn": 3,
+            "type": 3,
+            "stepOriginLocation": {
+              "lng": 113.27789779667,
+              "lat": 23.1374025489
+            },
+            "stepDestinationLocation": {
+              "lng": 113.27226928384,
+              "lat": 23.137756639929
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "右转进入吉祥路 - 320米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 0,
+            "distance": 321,
+            "duration": 43,
+            "instructions": "沿吉祥路\u003c/b\u003e行驶320米,右转\u003c/b\u003e进入应元路\u003c/b\u003e",
+            "path": "113.27243906358,23.139538712049;113.27244903477,23.139588809114;113.27246906698,23.139829075376;113.27253904498,23.1406599513",
+            "pois": [],
+            "turn": 3,
+            "type": 3,
+            "stepOriginLocation": {
+              "lng": 113.27226928384,
+              "lat": 23.137756639929
+            },
+            "stepDestinationLocation": {
+              "lng": 113.27253904498,
+              "lat": 23.1406599513
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "右转进入应元路 - 20米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 2,
+            "distance": 20,
+            "duration": 6,
+            "instructions": "沿应元路\u003c/b\u003e行驶20米,到达终点\u003c/b\u003e",
+            "path": "113.27261890434,23.14072084821;113.27268870268,23.140761639986",
+            "pois": [],
+            "turn": 0,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.27253904498,
+              "lat": 23.1406599513
+            },
+            "stepDestinationLocation": {
+              "lng": 113.27268870268,
+              "lat": 23.140761723065
+            },
+            "stepDestinationInstruction": "到达终点",
+            "traffic_condition": 1
+          }
+        ],
+        "toll": 0,
+        "originLocation": {
+          "lng": 113.27876663776,
+          "lat": 23.138488995544
+        },
+        "destinationLocation": {
+          "lng": 113.27268870268,
+          "lat": 23.140761723065
+        }
+      }
+    ],
+    "origin": {
+      "area_id": 257,
+      "bid": "7400696933309455352",
+      "cname": "广州市",
+      "uid": "32ba7bae2d6b09a8a6da39f8",
+      "wd": "神舟电脑技术服务中心",
+      "originPt": {
+        "lng": 113.27875918182,
+        "lat": 23.138485256926
+      }
+    },
+    "destination": {
+      "area_id": 257,
+      "bid": "2556811973415565377",
+      "cname": "广州市",
+      "uid": "b79f45d1a28f0772f11937a6",
+      "wd": "广州市第二中学",
+      "destinationPt": {
+        "lng": 113.27269561963,
+        "lat": 23.140761639986
+      }
+    },
+    "taxi": {
+      "detail": [
+        {
+          "desc": "全天",
+          "km_price": "2.6",
+          "start_price": "10.0",
+          "total_price": "10"
+        }
+      ],
+      "distance": 1130,
+      "duration": 157,
+      "remark": "全程1.1公里;2.5公里起步；燃油附加费0.0元；里程超过35.0公里，超过部分每公里收3.9元。"
+    },
+    "traffic_condition": 1
+  }
+}

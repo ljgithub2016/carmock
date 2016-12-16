@@ -1,0 +1,201 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 1,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "originInfo": {
+      "area_id": 257,
+      "wd": "Regiustea皇茶",
+      "uid": ""
+    },
+    "destinationInfo": {
+      "area_id": 257,
+      "wd": "陈岗大厦",
+      "uid": ""
+    },
+    "origin": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "Regiustea 皇茶(东晓南店)",
+          "address": "海珠区南洲路北晓港湾英华街27-55号自编a019号(东晓南地铁c2出口旁)",
+          "uid": "6ca41c593774e03f6140a99d",
+          "telephone": "(020)84124852",
+          "location": {
+            "lng": 113.3002074835,
+            "lat": 23.077329650586
+          }
+        },
+        {
+          "name": "Regiustea皇茶",
+          "address": "江南西路46号江南新地商业街B1楼D05b",
+          "uid": "4b86f858cd1507f8ac080f95",
+          "telephone": "13632192530",
+          "location": {
+            "lng": 113.27517700894,
+            "lat": 23.100204516049
+          }
+        },
+        {
+          "name": "Regiustea皇茶(江泰路店)",
+          "address": "海珠区江燕路233号（首层）（地铁江泰站D出口）",
+          "uid": "251a6d739b4b07503904b1dc",
+          "telephone": "(020)34368379",
+          "location": {
+            "lng": 113.28505738141,
+            "lat": 23.087306176184
+          }
+        },
+        {
+          "name": "Regiustea皇茶",
+          "address": "越秀区北京路190号（永汉电影院旁）",
+          "uid": "dda0e400921889af40ab9aee",
+          "telephone": "(020)29824813",
+          "location": {
+            "lng": 113.27563703119,
+            "lat": 23.127706052412
+          }
+        },
+        {
+          "name": "Regiustea皇茶(天河城南店)",
+          "address": "广东省广州市天河区天河南一路24号首层(体育西路地铁b出口旁)",
+          "uid": "f897b197e6faa34aed74f884",
+          "telephone": "(020)28139897",
+          "location": {
+            "lng": 113.32969957202,
+            "lat": 23.136781682642
+          }
+        },
+        {
+          "name": "Regiustea皇茶(区庄店)",
+          "address": "环市东路425号(区庄地铁E出口右转50米)",
+          "uid": "0057106186a768743be4a6e0",
+          "telephone": "(020)37804780",
+          "location": {
+            "lng": 113.30199798604,
+            "lat": 23.141025000029
+          }
+        },
+        {
+          "name": "Regiustea皇茶(上下九店)",
+          "address": "荔湾区上下九路63号名汇商业大厦首层103-105号(上下九广场香港金大祥珠宝旁)",
+          "uid": "5543236eb46c84b4df1e52a7",
+          "telephone": "(020)29877337",
+          "location": {
+            "lng": 113.25453646359,
+            "lat": 23.120620441008
+          }
+        },
+        {
+          "name": "Regiustea皇茶(京溪店)",
+          "address": "京溪路79号（公交京溪路站-京溪村牌坊对面）",
+          "uid": "37aa3ee87b4053c743024553",
+          "telephone": "(020)28101373",
+          "location": {
+            "lng": 113.33455599127,
+            "lat": 23.188731051527
+          }
+        },
+        {
+          "name": "Regiustea皇茶(花城汇北区店)",
+          "address": "珠江新城花城汇北区891街市1039铺(APM线黄埔大道出口)",
+          "uid": "b3b8bda0c48adba66b49f31c",
+          "telephone": "18565197898",
+          "location": {
+            "lng": 113.33108098624,
+            "lat": 23.125472983602
+          }
+        },
+        {
+          "name": "Regiustea皇茶(中华广场店)",
+          "address": "越秀区中华广场负一层08号（与流行前线交接处手扶梯旁）",
+          "uid": "b89edf650da1e19a8bfc06e6",
+          "telephone": "(020)29076007",
+          "location": {
+            "lng": 113.2895240259,
+            "lat": 23.132614999131
+          }
+        },
+        {
+          "name": "Regiustea皇茶(越富广场店)",
+          "address": "越秀区越富广场二期首层02铺（地铁西门口站D出口）",
+          "uid": "81ca67d043e5d49116c90532",
+          "telephone": "13728030575",
+          "location": {
+            "lng": 113.26105690396,
+            "lat": 23.135487931916
+          }
+        },
+        {
+          "name": "Regiustea皇茶(猎德店)",
+          "address": "花城大道88号优托邦2楼电梯口左转(麦当劳楼上)",
+          "uid": "fa807cd045cc718c1b11d5a9",
+          "telephone": "(020)38894049",
+          "location": {
+            "lng": 113.33772799785,
+            "lat": 23.123791011617
+          }
+        }
+      ]
+    },
+    "destination": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "陈岗大厦",
+          "address": "陈岗路32号",
+          "uid": "c61cf737a297e9661d1d11cd",
+          "location": {
+            "lng": 113.25701282238,
+            "lat": 23.147378132459
+          }
+        },
+        {
+          "name": "陈岗大厦-停车场",
+          "address": "陈岗路32",
+          "uid": "d52831f96dbca2a42efaa73b",
+          "location": {
+            "lng": 113.25701282238,
+            "lat": 23.147378132459
+          }
+        },
+        {
+          "name": "陈岗大厦管理处",
+          "address": "广州市荔湾区",
+          "uid": "14454f309f455141eb12e440",
+          "location": {
+            "lng": 113.25752009551,
+            "lat": 23.147513212036
+          }
+        },
+        {
+          "name": "湛江大厦",
+          "address": "荔湾区站前路88号(与陈岗路交汇处)",
+          "uid": "7bfa08fcbc11cb0325d2bbd3",
+          "telephone": "(020)86681688",
+          "location": {
+            "lng": 113.25607544059,
+            "lat": 23.148005013512
+          }
+        },
+        {
+          "name": "湛江大厦-车库",
+          "address": "广东省广州市荔湾区陈岗路65号",
+          "uid": "91c13f93b641dafa21f01709",
+          "location": {
+            "lng": 113.25646314924,
+            "lat": 23.147919363758
+          }
+        }
+      ]
+    }
+  }
+}

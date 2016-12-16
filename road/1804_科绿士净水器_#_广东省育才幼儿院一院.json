@@ -1,0 +1,74 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 1,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "originInfo": {
+      "area_id": 257,
+      "wd": "科绿士净水器",
+      "uid": ""
+    },
+    "destinationInfo": {
+      "area_id": 257,
+      "wd": "广东省育才幼儿院一院",
+      "uid": ""
+    },
+    "origin": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "科绿士净水器",
+          "address": "前进路与塘边新街交叉口",
+          "uid": "78d7539e1b0f0ab9931fc9e0",
+          "location": {
+            "lng": 113.28668439235,
+            "lat": 23.106683755654
+          }
+        },
+        {
+          "name": "科绿士净水器",
+          "address": "德政中路255号",
+          "uid": "fff370b5f718e8541e1d11e4",
+          "telephone": "13826146601",
+          "location": {
+            "lng": 113.28176904427,
+            "lat": 23.130656942495
+          }
+        },
+        {
+          "name": "科绿士净水器金碧专卖店",
+          "address": "金新二街71",
+          "uid": "bd687e1380060d98213bf200",
+          "telephone": "13794329377",
+          "location": {
+            "lng": 113.247167394,
+            "lat": 23.209721729311
+          }
+        }
+      ]
+    },
+    "destination": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "广东省育才幼儿院一院",
+          "address": "越秀区北较场路6号",
+          "uid": "06d2dffd36a32f8b88f15dfe",
+          "telephone": "(020)83564540",
+          "location": {
+            "lng": 113.28196433588,
+            "lat": 23.143716974893
+          }
+        }
+      ]
+    }
+  }
+}

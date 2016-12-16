@@ -1,0 +1,93 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 1,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "originInfo": {
+      "area_id": 257,
+      "wd": "光大花园榕景四季",
+      "uid": ""
+    },
+    "destinationInfo": {
+      "area_id": 257,
+      "wd": "嘴刁刁主题创意食店",
+      "uid": ""
+    },
+    "origin": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "海王星辰(光大花园店)",
+          "address": "海珠区工业大道122号光大花园榕景四季苑商铺D24号",
+          "uid": "4e88443572bee361c7f50de8",
+          "location": {
+            "lng": 113.26363701704,
+            "lat": 23.090592982794
+          }
+        }
+      ]
+    },
+    "destination": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "嘴刁刁主题创意食店",
+          "address": "江南西路35号3号铺(建设银行旁边）",
+          "uid": "33eb781a7d60c5d57bf796d1",
+          "telephone": "(020)84415503",
+          "location": {
+            "lng": 113.27813701543,
+            "lat": 23.101284037305
+          }
+        },
+        {
+          "name": "嘴刁刁主题创意食店(环市东门店)",
+          "address": "广东省广州市越秀区建设五马路2号德安大厦首层102铺",
+          "uid": "962cf395d52ef1d01d5800ca",
+          "telephone": "(020)83769836",
+          "location": {
+            "lng": 113.29065301626,
+            "lat": 23.139768011896
+          }
+        },
+        {
+          "name": "嘴刁刁主题创意食店(天河南二路店)",
+          "address": "广东省广州市天河区天河南二路24号1-2楼",
+          "uid": "6062b9dc8fb819243362127e",
+          "telephone": "(020)38559236",
+          "location": {
+            "lng": 113.33789301658,
+            "lat": 23.137190027364
+          }
+        },
+        {
+          "name": "嘴刁刁主题创意食店(天娱广场店)",
+          "address": "天河路625号岗顶天娱广场5楼(百脑汇对面)",
+          "uid": "f50e86e53023f2e6f1193795",
+          "telephone": "(020)87566441",
+          "location": {
+            "lng": 113.3466900326,
+            "lat": 23.141265014451
+          }
+        },
+        {
+          "name": "嘴刁刁主题创意食店(润汇店)",
+          "address": "江南西66号润汇大厦3楼",
+          "uid": "596ef9c8e3196488e856fa9e",
+          "location": {
+            "lng": 113.27630896372,
+            "lat": 23.101103037356
+          }
+        }
+      ]
+    }
+  }
+}

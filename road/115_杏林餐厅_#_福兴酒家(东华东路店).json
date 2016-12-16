@@ -1,0 +1,94 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 1,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "originInfo": {
+      "area_id": 257,
+      "wd": "杏林餐厅",
+      "uid": ""
+    },
+    "destinationInfo": {
+      "area_id": 257,
+      "wd": "福兴酒家(东华东路店)",
+      "uid": ""
+    },
+    "origin": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "杏林餐厅",
+          "address": "广州白云区机场路12号广州中医药大学内",
+          "uid": "d5464cf83f6b034efca77896",
+          "telephone": "(020)36585008,(020)86591233",
+          "location": {
+            "lng": 113.2746682087,
+            "lat": 23.16325261179
+          }
+        },
+        {
+          "name": "杏林餐厅",
+          "address": "广州越秀区恒福路76号附近",
+          "uid": "8fde79cc7e32d9c294ca079b",
+          "location": {
+            "lng": 113.29212776442,
+            "lat": 23.149870768764
+          }
+        },
+        {
+          "name": "杏林阁教工餐厅",
+          "address": "广州市越秀区中山大学北校区执信南路74号",
+          "uid": "373cf757ba151a774354d7fd",
+          "telephone": "020-87331755",
+          "location": {
+            "lng": 113.2977837654,
+            "lat": 23.135747314496
+          }
+        },
+        {
+          "name": "福满楼饭店",
+          "address": "杏林医疗附近",
+          "uid": "04f5bd8ceb540bbd2806cefb",
+          "telephone": "13926281441",
+          "location": {
+            "lng": 113.11542837575,
+            "lat": 23.339975708823
+          }
+        },
+        {
+          "name": "聚龙酒家(杏林医院东北)",
+          "address": "118省道(杏林医院东北)",
+          "uid": "6eb6a81c9a952afb3be4a698",
+          "telephone": "(020)86843812",
+          "location": {
+            "lng": 113.11682272556,
+            "lat": 23.342188228298
+          }
+        }
+      ]
+    },
+    "destination": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "福兴酒家(东华东路店)",
+          "address": "越秀区东华东路450号(近公安越秀分局)",
+          "uid": "cb632bdde9982efe99005023",
+          "telephone": "(020)66834988",
+          "location": {
+            "lng": 113.29508992684,
+            "lat": 23.127819881746
+          }
+        }
+      ]
+    }
+  }
+}

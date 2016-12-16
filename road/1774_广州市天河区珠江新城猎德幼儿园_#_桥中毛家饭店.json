@@ -1,0 +1,65 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 1,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "originInfo": {
+      "area_id": 257,
+      "wd": "广州市天河区珠江新城猎德幼儿园",
+      "uid": ""
+    },
+    "destinationInfo": {
+      "area_id": 257,
+      "wd": "桥中毛家饭店",
+      "uid": ""
+    },
+    "origin": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "广州市天河区珠江新城猎德幼儿园",
+          "address": "广州市天河区海月路33号",
+          "uid": "c483549c2a5042fa130daa23",
+          "telephone": "020-38996795",
+          "location": {
+            "lng": 113.34403742626,
+            "lat": 23.11994424001
+          }
+        }
+      ]
+    },
+    "destination": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "桥中毛家饭店",
+          "address": "荔湾区珠江桥中北路7号",
+          "uid": "fd13a3f21bdce3e3b0077d8a",
+          "telephone": "(020)81765383",
+          "location": {
+            "lng": 113.22571451097,
+            "lat": 23.140943832021
+          }
+        },
+        {
+          "name": "毛家饭店(市桥店)",
+          "address": "光明北路223号(喜悦天地4楼)",
+          "uid": "8802d3213e8d96bd04026fcb",
+          "telephone": "(020)62343221",
+          "location": {
+            "lng": 113.36782096294,
+            "lat": 22.953423899777
+          }
+        }
+      ]
+    }
+  }
+}

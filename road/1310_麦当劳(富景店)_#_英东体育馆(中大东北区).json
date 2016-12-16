@@ -1,0 +1,302 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 2,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "routes": [
+      {
+        "distance": 1654,
+        "duration": 375,
+        "steps": [
+          {
+            "area": 0,
+            "direction": 0,
+            "distance": 21,
+            "duration": 18,
+            "instructions": "从起点\u003c/b\u003e向正北方向出发,行驶20米,右转\u003c/b\u003e进入新港西路\u003c/b\u003e",
+            "path": "113.29666798013,23.098743948881;113.29671792591,23.098933428772",
+            "pois": [],
+            "turn": 3,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.29666798013,
+              "lat": 23.098743948881
+            },
+            "stepDestinationLocation": {
+              "lng": 113.29671783608,
+              "lat": 23.098933428772
+            },
+            "stepOriginInstruction": "从起点向正北方向出发 - 730米",
+            "stepDestinationInstruction": "右转进入新港西路 - 730米",
+            "traffic_condition": 0
+          },
+          {
+            "area": 0,
+            "direction": 3,
+            "distance": 726,
+            "duration": 98,
+            "instructions": "沿新港西路\u003c/b\u003e行驶730米,左转\u003c/b\u003e进入逸仙路\u003c/b\u003e",
+            "path": "113.29697843451,23.098880989408;113.29752954494,23.098785833933;113.29763976703,23.098764808303;113.2977299569,23.098744031986;113.29782014677,23.098723255666;113.29852181321,23.098526212884;113.29922356947,23.098328754281;113.30000554442,23.098110020334;113.30004560884,23.098099632125;113.30017595297,23.098068218175;113.30241219471,23.097420657003;113.30251253543,23.097389409105;113.30300399838,23.097252948783;113.30323468323,23.097189871156;113.30341524264,23.09713751421;113.30347524945,23.09727663405",
+            "pois": [],
+            "turn": 7,
+            "type": 3,
+            "stepOriginLocation": {
+              "lng": 113.29671783608,
+              "lat": 23.098933428772
+            },
+            "stepDestinationLocation": {
+              "lng": 113.30347524945,
+              "lat": 23.097275553669
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "左转进入逸仙路 - 390米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 1,
+            "distance": 386,
+            "duration": 89,
+            "instructions": "沿逸仙路\u003c/b\u003e行驶220米,过左侧的中山大学-测试大楼\u003c/font\u003e\u003c/b\u003e约170米后,右转\u003c/b\u003e进入竹园路\u003c/b\u003e",
+            "path": "113.30349528166,23.097315278424;113.30357532068,23.097534096785;113.30367530209,23.097822640613;113.30371518685,23.0980220114;113.30376513264,23.0982512999;113.303844992,23.098650122993;113.30390490897,23.098919217789;113.30396482595,23.099218312941;113.30403471412,23.099507268634;113.30406462769,23.099646801514;113.3043042956,23.100673140711",
+            "pois": [
+              {
+                "detail": {
+                  "instructions": "",
+                  "position": 0
+                },
+                "location": {
+                  "lng": 113.30363353088,
+                  "lat": 23.099592949652
+                },
+                "name": "中山大学-测试大楼",
+                "type": 106
+              }
+            ],
+            "turn": 3,
+            "type": 21,
+            "stepOriginLocation": {
+              "lng": 113.30347524945,
+              "lat": 23.097275553669
+            },
+            "stepDestinationLocation": {
+              "lng": 113.30430438543,
+              "lat": 23.100673223815
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "右转进入竹园路 - 110米",
+            "traffic_condition": 0
+          },
+          {
+            "area": 0,
+            "direction": 3,
+            "distance": 106,
+            "duration": 32,
+            "instructions": "沿竹园路\u003c/b\u003e行驶60米,过左侧的中山大学-文科大楼\u003c/font\u003e\u003c/b\u003e约50米后,左转\u003c/b\u003e",
+            "path": "113.30530761303,23.100428731425",
+            "pois": [
+              {
+                "detail": {
+                  "instructions": "",
+                  "position": 0
+                },
+                "location": {
+                  "lng": 113.30486591621,
+                  "lat": 23.100765136882
+                },
+                "name": "中山大学-文科大楼",
+                "type": 106
+              }
+            ],
+            "turn": 7,
+            "type": 21,
+            "stepOriginLocation": {
+              "lng": 113.30430438543,
+              "lat": 23.100673223815
+            },
+            "stepDestinationLocation": {
+              "lng": 113.30530761303,
+              "lat": 23.100428731425
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "左转 - 70米",
+            "traffic_condition": 0
+          },
+          {
+            "area": 0,
+            "direction": 0,
+            "distance": 71,
+            "duration": 20,
+            "instructions": "行驶40米,过左侧的中山大学-文科大楼\u003c/font\u003e\u003c/b\u003e右转\u003c/b\u003e",
+            "path": "113.30529692319,23.101068715483",
+            "pois": [
+              {
+                "detail": {
+                  "instructions": "",
+                  "position": 0
+                },
+                "location": {
+                  "lng": 113.30486591621,
+                  "lat": 23.100765136882
+                },
+                "name": "中山大学-文科大楼",
+                "type": 106
+              }
+            ],
+            "turn": 3,
+            "type": 21,
+            "stepOriginLocation": {
+              "lng": 113.30530761303,
+              "lat": 23.100428731425
+            },
+            "stepDestinationLocation": {
+              "lng": 113.30529692319,
+              "lat": 23.101068715483
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "右转 - 160米",
+            "traffic_condition": 0
+          },
+          {
+            "area": 0,
+            "direction": 3,
+            "distance": 161,
+            "duration": 49,
+            "instructions": "行驶160米,左转\u003c/b\u003e进入康乐路\u003c/b\u003e",
+            "path": "113.30595888452,23.101138771984;113.3060993795,23.101106693923;113.30651062377,23.101160378964;113.3066309967,23.101178495583;113.30685171037,23.101165198982",
+            "pois": [],
+            "turn": 7,
+            "type": 21,
+            "stepOriginLocation": {
+              "lng": 113.30529692319,
+              "lat": 23.101068715483
+            },
+            "stepDestinationLocation": {
+              "lng": 113.30685162054,
+              "lat": 23.101165115878
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "左转进入康乐路 - 90米",
+            "traffic_condition": 0
+          },
+          {
+            "area": 0,
+            "direction": 0,
+            "distance": 92,
+            "duration": 26,
+            "instructions": "沿康乐路\u003c/b\u003e行驶90米,右转\u003c/b\u003e",
+            "path": "113.30684102053,23.101725150932;113.30683077985,23.102005209125",
+            "pois": [],
+            "turn": 3,
+            "type": 21,
+            "stepOriginLocation": {
+              "lng": 113.30685162054,
+              "lat": 23.101165115878
+            },
+            "stepDestinationLocation": {
+              "lng": 113.30683069002,
+              "lat": 23.102005209125
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "右转 - 30米",
+            "traffic_condition": 0
+          },
+          {
+            "area": 0,
+            "direction": 3,
+            "distance": 26,
+            "duration": 16,
+            "instructions": "继续沿康乐路\u003c/b\u003e行驶30米,左转\u003c/b\u003e",
+            "path": "113.30694109177,23.10200354706;113.30709155794,23.102001303273",
+            "pois": [],
+            "turn": 7,
+            "type": 21,
+            "stepOriginLocation": {
+              "lng": 113.30683069002,
+              "lat": 23.102005209125
+            },
+            "stepDestinationLocation": {
+              "lng": 113.30709155794,
+              "lat": 23.10200122017
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "左转 - 70米",
+            "traffic_condition": 0
+          },
+          {
+            "area": 0,
+            "direction": 0,
+            "distance": 65,
+            "duration": 23,
+            "instructions": "行驶70米,到达终点\u003c/b\u003e",
+            "path": "113.30709146811,23.102121138086;113.30710134947,23.10225094516;113.30745249709,23.10224554346",
+            "pois": [],
+            "turn": 0,
+            "type": 21,
+            "stepOriginLocation": {
+              "lng": 113.30709155794,
+              "lat": 23.10200122017
+            },
+            "stepDestinationLocation": {
+              "lng": 113.30745249709,
+              "lat": 23.102245460356
+            },
+            "stepDestinationInstruction": "到达终点",
+            "traffic_condition": 0
+          }
+        ],
+        "toll": 0,
+        "originLocation": {
+          "lng": 113.29666798013,
+          "lat": 23.098743948881
+        },
+        "destinationLocation": {
+          "lng": 113.30745249709,
+          "lat": 23.102245460356
+        }
+      }
+    ],
+    "origin": {
+      "area_id": 257,
+      "bid": "13752763991322527980",
+      "cname": "广州市",
+      "uid": "db8e95e0aa618a01cb09f07b",
+      "wd": "麦当劳(富景店)",
+      "originPt": {
+        "lng": 113.29653664786,
+        "lat": 23.098783506986
+      }
+    },
+    "destination": {
+      "area_id": 257,
+      "bid": "6729310256256585734",
+      "cname": "广州市",
+      "uid": "2dec20038f9b8913c33644ff",
+      "wd": "英东体育馆(中大东北区)",
+      "destinationPt": {
+        "lng": 113.3074510598,
+        "lat": 23.102240640378
+      }
+    },
+    "taxi": {
+      "detail": [
+        {
+          "desc": "全天",
+          "km_price": "2.6",
+          "start_price": "10.0",
+          "total_price": "10"
+        }
+      ],
+      "distance": 1654,
+      "duration": 376,
+      "remark": "全程1.7公里;2.5公里起步；燃油附加费0.0元；里程超过35.0公里，超过部分每公里收3.9元。"
+    },
+    "traffic_condition": 1
+  }
+}

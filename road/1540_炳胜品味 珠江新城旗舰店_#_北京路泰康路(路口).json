@@ -1,0 +1,74 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 1,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "originInfo": {
+      "area_id": 257,
+      "wd": "炳胜品味 珠江新城旗舰店",
+      "uid": ""
+    },
+    "destinationInfo": {
+      "area_id": 257,
+      "wd": "北京路泰康路(路口)",
+      "uid": ""
+    },
+    "origin": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "炳胜品味 珠江新城旗舰店",
+          "address": "广东省广州市天河区珠江新城冼村路2号首府大厦1-4层",
+          "uid": "72aa25132bae7a5e077ce851",
+          "telephone": "(020)38035888",
+          "location": {
+            "lng": 113.33487003888,
+            "lat": 23.120592023685
+          }
+        }
+      ]
+    },
+    "destination": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "北京路/泰康路(路口)",
+          "address": "广东省广州市越秀区",
+          "uid": "ce9ec719e6da304ff90cad35",
+          "location": {
+            "lng": 113.2760931009,
+            "lat": 23.124914793614
+          }
+        },
+        {
+          "name": "时代·俪人(北京路店)",
+          "address": "北京路和泰康路交叉口锦源国际公馆12楼1212室(地铁6号线北京路A出口斜对面)",
+          "uid": "98729acbe5e4fb25223bf276",
+          "telephone": "18819156481",
+          "location": {
+            "lng": 113.27616379755,
+            "lat": 23.125618554644
+          }
+        },
+        {
+          "name": "TOP-EVER(北京路店)",
+          "address": "泰康路口锦源国际公寓1524室(北京路地铁站A出口)",
+          "uid": "3ebcc7eea6421c8dab059d40",
+          "telephone": "13580444471,13632274194",
+          "location": {
+            "lng": 113.27567700579,
+            "lat": 23.124780023366
+          }
+        }
+      ]
+    }
+  }
+}

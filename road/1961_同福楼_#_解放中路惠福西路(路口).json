@@ -1,0 +1,128 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 1,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "originInfo": {
+      "area_id": 257,
+      "wd": "同福楼",
+      "uid": ""
+    },
+    "destinationInfo": {
+      "area_id": 257,
+      "wd": "解放中路惠福西路(路口)",
+      "uid": ""
+    },
+    "origin": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "同福楼",
+          "address": "江高镇江同路2号",
+          "uid": "c222704e781f70afb75f1e73",
+          "location": {
+            "lng": 113.24138347431,
+            "lat": 23.279456506153
+          }
+        },
+        {
+          "name": "同福楼",
+          "address": "广州市海珠区同福中路412号(近红会医院)",
+          "uid": "69fcd6df8cd40936cb2915e7",
+          "telephone": "(020)84233368",
+          "location": {
+            "lng": 113.26895085346,
+            "lat": 23.112056663376
+          }
+        },
+        {
+          "name": "同福楼",
+          "address": "广东省广州市从化区街口镇朝阳街",
+          "uid": "fc04f7cab5a783140bf5eba5",
+          "location": {
+            "lng": 113.59578215552,
+            "lat": 23.554951988422
+          }
+        },
+        {
+          "name": "同福楼湘菜馆",
+          "address": "新塘镇新塘大道西247号新康花园康馨苑楼下",
+          "uid": "dc1c5645779e189c6c3e1beb",
+          "telephone": "18122277748",
+          "location": {
+            "lng": 113.59725564605,
+            "lat": 23.119548721485
+          }
+        },
+        {
+          "name": "广州酒类专卖店(同福楼北)",
+          "address": "江高镇(同福楼北)",
+          "uid": "c96f15a1681ad04c5cbe86bc",
+          "location": {
+            "lng": 113.24168368802,
+            "lat": 23.280480454778
+          }
+        },
+        {
+          "name": "悦轩茶庄(同福楼东北)",
+          "address": "江高镇江人一路15号(同福楼东北)",
+          "uid": "40ca484ab48a75a4c61e510f",
+          "location": {
+            "lng": 113.24323110909,
+            "lat": 23.282110224631
+          }
+        },
+        {
+          "name": "利民综合店(同福楼东北)",
+          "address": "江人一路10号附近",
+          "uid": "d338fff84791d2e84e2fdf6c",
+          "telephone": "(020)86207421",
+          "location": {
+            "lng": 113.24313283446,
+            "lat": 23.281608797436
+          }
+        },
+        {
+          "name": "新面孔服装城(同福楼东北)",
+          "address": "江高镇江高北胜街57号",
+          "uid": "de7f16e7d8a2407acc06a4c6",
+          "location": {
+            "lng": 113.24065728414,
+            "lat": 23.280477799062
+          }
+        },
+        {
+          "name": "华泰保险股份有限公司(同福楼东北)",
+          "address": "广东省广州市白云区",
+          "uid": "647b776399a669c05e0d02fe",
+          "location": {
+            "lng": 113.24374035848,
+            "lat": 23.282908338092
+          }
+        }
+      ]
+    },
+    "destination": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "解放中路/惠福西路(路口)",
+          "address": "广东省广州市越秀区",
+          "uid": "f3c2373c22eb5b53d22dd627",
+          "location": {
+            "lng": 113.26936721806,
+            "lat": 23.126433151297
+          }
+        }
+      ]
+    }
+  }
+}

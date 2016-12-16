@@ -1,0 +1,34 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 2,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "origin": {
+      "area_id": 257,
+      "cname": "广州市",
+      "uid": "",
+      "wd": "",
+      "originPt": {
+        "lng": 2.8908711447769e-9,
+        "lat": -3.067393572659e-8
+      }
+    },
+    "destination": {
+      "area_id": 257,
+      "bid": "13829712928723154632",
+      "cname": "广州市",
+      "uid": "31468a1232ef3c9d0b1cc72a",
+      "wd": "贡茶(可逸倾城店)",
+      "destinationPt": {
+        "lng": 113.27302799267,
+        "lat": 23.099581314987
+      }
+    }
+  }
+}

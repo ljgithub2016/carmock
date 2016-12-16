@@ -1,0 +1,276 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 2,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "routes": [
+      {
+        "distance": 1577,
+        "duration": 384,
+        "steps": [
+          {
+            "area": 0,
+            "direction": 10,
+            "distance": 97,
+            "duration": 50,
+            "instructions": "从起点\u003c/b\u003e向正西方向出发,行驶100米,左转\u003c/b\u003e",
+            "path": "113.2927719393,23.108770803422;113.2918907016,23.109085498959",
+            "pois": [],
+            "turn": 7,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.2927719393,
+              "lat": 23.108770803422
+            },
+            "stepDestinationLocation": {
+              "lng": 113.2918907016,
+              "lat": 23.109085498959
+            },
+            "stepOriginInstruction": "从起点向正西方向出发 - 120米",
+            "stepDestinationInstruction": "左转 - 120米",
+            "traffic_condition": 0
+          },
+          {
+            "area": 0,
+            "direction": 7,
+            "distance": 123,
+            "duration": 53,
+            "instructions": "行驶120米,左转\u003c/b\u003e进入海联路\u003c/b\u003e",
+            "path": "113.29167088624,23.10864665346;113.29165094385,23.108616820888;113.29138127254,23.108098281519",
+            "pois": [],
+            "turn": 7,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.2918907016,
+              "lat": 23.109085498959
+            },
+            "stepDestinationLocation": {
+              "lng": 113.29138118271,
+              "lat": 23.10809811532
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "左转进入海联路 - 280米",
+            "traffic_condition": 0
+          },
+          {
+            "area": 0,
+            "direction": 3,
+            "distance": 276,
+            "duration": 48,
+            "instructions": "沿海联路\u003c/b\u003e行驶280米,右转\u003c/b\u003e进入南苑街\u003c/b\u003e",
+            "path": "113.29220214412,23.107944132005;113.29280293084,23.107830867316;113.29287299867,23.107820562967;113.29331361752,23.107737961945;113.29344378199,23.107717187031;113.29402462633,23.107613478617",
+            "pois": [],
+            "turn": 3,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.29138118271,
+              "lat": 23.10809811532
+            },
+            "stepDestinationLocation": {
+              "lng": 113.29402480599,
+              "lat": 23.107613146218
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "右转进入南苑街 - 180米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 7,
+            "distance": 179,
+            "duration": 34,
+            "instructions": "沿南苑街\u003c/b\u003e行驶180米,右转\u003c/b\u003e进入建基路\u003c/b\u003e",
+            "path": "113.29371507026,23.106895328864;113.29356550239,23.106346534186;113.29350576507,23.10608709412",
+            "pois": [],
+            "turn": 3,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.29402480599,
+              "lat": 23.107613146218
+            },
+            "stepDestinationLocation": {
+              "lng": 113.29350567524,
+              "lat": 23.106086927919
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "右转进入建基路 - 360米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 9,
+            "distance": 355,
+            "duration": 74,
+            "instructions": "沿建基路\u003c/b\u003e行驶360米,左转\u003c/b\u003e进入东晓路\u003c/b\u003e",
+            "path": "113.29336544975,23.106087758925;113.29330544294,23.106088174429;113.29308526826,23.10608950404;113.29299525805,23.106090085744;113.29291521903,23.106090584348;113.29243471541,23.106093326671;113.29183419818,23.106086512415;113.29163405571,23.106087509623;113.29149400988,23.106088174429;113.29075344682,23.106121331595;113.29015301942,23.106163546723;113.29013307704,23.106163629823;113.29005312784,23.106163879125;113.29003318546,23.106163962226",
+            "pois": [],
+            "turn": 7,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.29350567524,
+              "lat": 23.106086927919
+            },
+            "stepDestinationLocation": {
+              "lng": 113.2900321075,
+              "lat": 23.106163879125
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "左转进入东晓路 - 120米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 6,
+            "distance": 116,
+            "duration": 19,
+            "instructions": "沿东晓路\u003c/b\u003e行驶120米,右转\u003c/b\u003e",
+            "path": "113.28990257184,23.105624388733;113.28989269048,23.105564556022;113.28987283793,23.105524750634;113.28985298538,23.105484945235;113.28969317683,23.105295557793;113.28965329206,23.105235808035;113.2896434107,23.105195919448",
+            "pois": [],
+            "turn": 3,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.2900321075,
+              "lat": 23.106163879125
+            },
+            "stepDestinationLocation": {
+              "lng": 113.28964287172,
+              "lat": 23.105195337739
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "右转 - 40米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 9,
+            "distance": 41,
+            "duration": 19,
+            "instructions": "行驶40米,朝前进路/南田路方向\u003c/b\u003e,右转\u003c/b\u003e进入前进路\u003c/b\u003e",
+            "path": "113.2895928361,23.105185448691;113.28953291912,23.105175725846;113.28948297334,23.105155947747;113.28943302755,23.105146141797;113.28937311057,23.105126363694;113.28932316479,23.105106585588;113.28926324781,23.105086807479",
+            "pois": [],
+            "turn": 3,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.28964287172,
+              "lat": 23.105195337739
+            },
+            "stepDestinationLocation": {
+              "lng": 113.28926270883,
+              "lat": 23.105086391972
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "右转进入前进路 - 350米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 10,
+            "distance": 349,
+            "duration": 69,
+            "instructions": "沿前进路\u003c/b\u003e行驶150米,过右侧的四航大厦\u003c/font\u003e\u003c/b\u003e约200米后,调头\u003c/b\u003e",
+            "path": "113.28920270202,23.105116557743;113.28906265619,23.105166917113;113.28902268159,23.105196999764;113.28896267479,23.105227165509;113.28857227121,23.105537963698;113.28837212874,23.105698348574;113.28832218296,23.105738403213;113.28823217275,23.105838539756;113.28794193024,23.106048950903;113.28780188441,23.106139115135;113.28741166049,23.106349525805;113.28706159084,23.106479744247;113.28698164165,23.10649977145;113.28646161259,23.106629906645;113.28645173123,23.106590018477;113.28644184987,23.106550130296",
+            "pois": [
+              {
+                "detail": {
+                  "instructions": "",
+                  "position": 1
+                },
+                "location": {
+                  "lng": 113.28823136427,
+                  "lat": 23.106008397754
+                },
+                "name": "四航大厦",
+                "type": 106
+              }
+            ],
+            "turn": 5,
+            "type": 3,
+            "stepOriginLocation": {
+              "lng": 113.28926270883,
+              "lat": 23.105086391972
+            },
+            "stepDestinationLocation": {
+              "lng": 113.28644050241,
+              "lat": 23.106549797894
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "调头 - 40米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 3,
+            "distance": 41,
+            "duration": 15,
+            "instructions": "继续沿前进路\u003c/b\u003e行驶40米,到达终点\u003c/b\u003e",
+            "path": "113.28681060428,23.106459800142",
+            "pois": [],
+            "turn": 0,
+            "type": 3,
+            "stepOriginLocation": {
+              "lng": 113.28644050241,
+              "lat": 23.106549797894
+            },
+            "stepDestinationLocation": {
+              "lng": 113.28681060428,
+              "lat": 23.106459800142
+            },
+            "stepDestinationInstruction": "到达终点",
+            "traffic_condition": 1
+          }
+        ],
+        "toll": 0,
+        "originLocation": {
+          "lng": 113.2927719393,
+          "lat": 23.108770803422
+        },
+        "destinationLocation": {
+          "lng": 113.28681060428,
+          "lat": 23.106459800142
+        }
+      }
+    ],
+    "origin": {
+      "area_id": 257,
+      "bid": "2729030763607458486",
+      "cname": "广州市",
+      "uid": "f685eabf9869d38ccb213d0c",
+      "wd": "广州市海珠区体育局",
+      "originPt": {
+        "lng": 113.29277274778,
+        "lat": 23.108780692203
+      }
+    },
+    "destination": {
+      "area_id": 257,
+      "bid": "1261478997741535231",
+      "cname": "广州市",
+      "uid": "49d959389ab0215ac71e51ac",
+      "wd": "南园酒家美食",
+      "destinationPt": {
+        "lng": 113.28681698225,
+        "lat": 23.10645390001
+      }
+    },
+    "taxi": {
+      "detail": [
+        {
+          "desc": "全天",
+          "km_price": "2.6",
+          "start_price": "10.0",
+          "total_price": "10"
+        }
+      ],
+      "distance": 1577,
+      "duration": 385,
+      "remark": "全程1.6公里;2.5公里起步；燃油附加费0.0元；里程超过35.0公里，超过部分每公里收3.9元。"
+    },
+    "traffic_condition": 1
+  }
+}

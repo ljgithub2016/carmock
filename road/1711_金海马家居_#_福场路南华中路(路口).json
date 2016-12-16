@@ -1,0 +1,102 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 1,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "originInfo": {
+      "area_id": 257,
+      "wd": "金海马家居",
+      "uid": ""
+    },
+    "destinationInfo": {
+      "area_id": 257,
+      "wd": "福场路南华中路(路口)",
+      "uid": ""
+    },
+    "origin": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "金海马家居(黄埔大道中)",
+          "address": "黄埔大道中303号",
+          "uid": "161a0ed28e6df1495cd4fe40",
+          "telephone": "(020)38906180",
+          "location": {
+            "lng": 113.3859698783,
+            "lat": 23.126170094622
+          }
+        },
+        {
+          "name": "金海马家居(花地店)",
+          "address": "喜鹊路269号金海马家居运城家私广场15-16档(近花鸟鱼虫市场)",
+          "uid": "a1418eb407d97966ebe58240",
+          "telephone": "(020)81529395",
+          "location": {
+            "lng": 113.23749102671,
+            "lat": 23.090460255461
+          }
+        },
+        {
+          "name": "金海马家居(江南大道店)",
+          "address": "广州市海珠区礼岗路78号万星大厦",
+          "uid": "691305232b39b811725e8040",
+          "telephone": "(020)34482811,(020)84435992,(020)89802339",
+          "location": {
+            "lng": 113.28522437641,
+            "lat": 23.09182193021
+          }
+        },
+        {
+          "name": "金海马",
+          "address": "广州市越秀区中山三路33号中华广场F2",
+          "uid": "90f2054b0277aa3af23cba41",
+          "location": {
+            "lng": 113.28910227146,
+            "lat": 23.13181356781
+          }
+        },
+        {
+          "name": "金海马",
+          "address": "广州市黄埔区中山大道东278号红树湾家具博览中心F1",
+          "uid": "53d4eab8b5d5a84d3417dcbe",
+          "location": {
+            "lng": 113.43676555148,
+            "lat": 23.109339531754
+          }
+        },
+        {
+          "name": "金海马家居(花都店)",
+          "address": "新华街三东大道东瀛富建材旁",
+          "uid": "86fd22563cd24cfa455726cc",
+          "telephone": "(020)86901215",
+          "location": {
+            "lng": 113.25090173983,
+            "lat": 23.414274103349
+          }
+        }
+      ]
+    },
+    "destination": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "福场路/南华中路(路口)",
+          "address": "广东省广州市海珠区",
+          "uid": "cfd8dd2e4b703ae04051c082",
+          "location": {
+            "lng": 113.26702641356,
+            "lat": 23.113327126443
+          }
+        }
+      ]
+    }
+  }
+}

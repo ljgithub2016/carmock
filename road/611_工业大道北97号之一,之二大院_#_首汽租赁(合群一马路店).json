@@ -1,0 +1,34 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 2,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "origin": {
+      "area_id": 257,
+      "cname": "广州市",
+      "uid": "",
+      "wd": "",
+      "originPt": {
+        "lng": 2.8908711447769e-9,
+        "lat": -3.067393572659e-8
+      }
+    },
+    "destination": {
+      "area_id": 257,
+      "bid": "2833379701289087948",
+      "cname": "广州市",
+      "uid": "551ba9bee5d25c68fe0eb00f",
+      "wd": "首汽租赁(合群一马路店)",
+      "destinationPt": {
+        "lng": 113.29534190153,
+        "lat": 23.126379891918
+      }
+    }
+  }
+}

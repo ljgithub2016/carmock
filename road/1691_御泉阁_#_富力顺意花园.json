@@ -1,0 +1,175 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 2,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "routes": [
+      {
+        "distance": 1004,
+        "duration": 206,
+        "steps": [
+          {
+            "area": 0,
+            "direction": 9,
+            "distance": 104,
+            "duration": 38,
+            "instructions": "从起点\u003c/b\u003e向正西方向出发,行驶100米,左转\u003c/b\u003e",
+            "path": "113.28670702965,23.08763314008;113.2856971546,23.08764286421",
+            "pois": [],
+            "turn": 7,
+            "type": 21,
+            "stepOriginLocation": {
+              "lng": 113.28670702965,
+              "lat": 23.08763314008
+            },
+            "stepDestinationLocation": {
+              "lng": 113.28569706477,
+              "lat": 23.08764286421
+            },
+            "stepOriginInstruction": "从起点向正西方向出发 - 50米",
+            "stepDestinationInstruction": "左转 - 50米",
+            "traffic_condition": 0
+          },
+          {
+            "area": 0,
+            "direction": 6,
+            "distance": 47,
+            "duration": 22,
+            "instructions": "行驶50米,右转\u003c/b\u003e进入南珠路\u003c/b\u003e",
+            "path": "113.28567721222,23.087332938384;113.28569724443,23.087223063728",
+            "pois": [],
+            "turn": 3,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.28569706477,
+              "lat": 23.08764286421
+            },
+            "stepDestinationLocation": {
+              "lng": 113.28569733426,
+              "lat": 23.087222980616
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "右转进入南珠路 - 60米",
+            "traffic_condition": 0
+          },
+          {
+            "area": 0,
+            "direction": 9,
+            "distance": 57,
+            "duration": 26,
+            "instructions": "沿南珠路\u003c/b\u003e行驶60米,左转\u003c/b\u003e进入江燕路\u003c/b\u003e",
+            "path": "113.28522743065,23.087232538551;113.28514757129,23.087242428935",
+            "pois": [],
+            "turn": 7,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.28569733426,
+              "lat": 23.087222980616
+            },
+            "stepDestinationLocation": {
+              "lng": 113.28514739163,
+              "lat": 23.087242428935
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "左转进入江燕路 - 800米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 7,
+            "distance": 796,
+            "duration": 118,
+            "instructions": "沿江燕路\u003c/b\u003e行驶800米,右转\u003c/b\u003e",
+            "path": "113.28499773393,23.08669230636;113.28495793899,23.086562317856;113.28493808644,23.086482363227;113.28471863041,23.085782217933;113.2846089473,23.085422170271;113.28459906594,23.085392249369;113.28458918458,23.08536232846;113.28426983697,23.084341938317;113.28421998102,23.084211947514;113.28412026911,23.083931851809;113.28398049277,23.083661646165;113.28391069443,23.083521597806;113.28374100452,23.083221303707;113.28368117737,23.083121233228;113.28320166189,23.08273998396;113.28317174832,23.082709979339;113.28313186355,23.082689948549;113.28254248531,23.082248106791;113.28252263276,23.082228159048;113.28225296144,23.082067247138;113.28211318511,23.08198679111;113.28202335455,23.081926532173;113.2815439289,23.081754565484;113.28113448125,23.081642691434",
+            "pois": [],
+            "turn": 3,
+            "type": 3,
+            "stepOriginLocation": {
+              "lng": 113.28514739163,
+              "lat": 23.087242428935
+            },
+            "stepDestinationLocation": {
+              "lng": 113.28113232532,
+              "lat": 23.081640613534
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "右转 - 10米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 0,
+            "distance": 0,
+            "duration": 1,
+            "instructions": "行驶10米,到达终点\u003c/b\u003e",
+            "path": "113.2811222643,23.081640530418",
+            "pois": [],
+            "turn": 0,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.28113232532,
+              "lat": 23.081640613534
+            },
+            "stepDestinationLocation": {
+              "lng": 113.2811222643,
+              "lat": 23.081640530418
+            },
+            "stepDestinationInstruction": "到达终点",
+            "traffic_condition": 0
+          }
+        ],
+        "toll": 0,
+        "originLocation": {
+          "lng": 113.28670702965,
+          "lat": 23.08763314008
+        },
+        "destinationLocation": {
+          "lng": 113.2811222643,
+          "lat": 23.081640530418
+        }
+      }
+    ],
+    "origin": {
+      "area_id": 257,
+      "bid": "11984512333830369889",
+      "cname": "广州市",
+      "uid": "4930eabce4aebdf80bccdde6",
+      "wd": "御泉阁",
+      "originPt": {
+        "lng": 113.28670918559,
+        "lat": 23.087630314265
+      }
+    },
+    "destination": {
+      "area_id": 257,
+      "bid": "4960445197083848666",
+      "cname": "广州市",
+      "uid": "334a0826aaf8289d5fd4fefe",
+      "wd": "富力顺意花园",
+      "destinationPt": {
+        "lng": 113.28112172531,
+        "lat": 23.081637787591
+      }
+    },
+    "taxi": {
+      "detail": [
+        {
+          "desc": "全天",
+          "km_price": "2.6",
+          "start_price": "10.0",
+          "total_price": "10"
+        }
+      ],
+      "distance": 1004,
+      "duration": 207,
+      "remark": "全程1.0公里;2.5公里起步；燃油附加费0.0元；里程超过35.0公里，超过部分每公里收3.9元。"
+    },
+    "traffic_condition": 1
+  }
+}

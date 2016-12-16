@@ -1,0 +1,53 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 1,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "originInfo": {
+      "area_id": 257,
+      "wd": "广东省广州市海珠区东马路8号",
+      "uid": ""
+    },
+    "destinationInfo": {
+      "area_id": 257,
+      "wd": "西关古老大屋",
+      "uid": ""
+    },
+    "origin": {
+      "cityName": "海珠区",
+      "listType": 0,
+      "content": [
+        {
+          "name": "志威粥粉美食店",
+          "address": "广州海珠区晓港东马路8号",
+          "uid": "686339c25469b05f581093f3",
+          "location": {
+            "lng": 113.29289788173,
+            "lat": 23.096994488226
+          }
+        }
+      ]
+    },
+    "destination": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "西关古老大屋",
+          "address": "逢源北街82号(近古玩城)",
+          "uid": "00d5e660ed6aae44d4851f84",
+          "location": {
+            "lng": 113.24259205455,
+            "lat": 23.12540077964
+          }
+        }
+      ]
+    }
+  }
+}

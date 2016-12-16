@@ -1,0 +1,281 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 2,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "routes": [
+      {
+        "distance": 1735,
+        "duration": 382,
+        "steps": [
+          {
+            "area": 0,
+            "direction": 11,
+            "distance": 27,
+            "duration": 20,
+            "instructions": "从起点\u003c/b\u003e向正北方向出发,行驶30米,右转\u003c/b\u003e进入南堤二马路\u003c/b\u003e",
+            "path": "113.27647604854,23.121161947727;113.27642610275,23.121321482813;113.27640616037,23.121391279353",
+            "pois": [],
+            "turn": 3,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.27647604854,
+              "lat": 23.121161947727
+            },
+            "stepDestinationLocation": {
+              "lng": 113.27640607054,
+              "lat": 23.121391279353
+            },
+            "stepOriginInstruction": "从起点向正北方向出发 - 110米",
+            "stepDestinationInstruction": "右转进入南堤二马路 - 110米",
+            "traffic_condition": 0
+          },
+          {
+            "area": 0,
+            "direction": 2,
+            "distance": 107,
+            "duration": 45,
+            "instructions": "沿南堤二马路\u003c/b\u003e行驶,过左侧的森晟商务大厦\u003c/font\u003e\u003c/b\u003e约120米后,右转\u003c/b\u003e进入北京路\u003c/b\u003e",
+            "path": "113.27662561641,23.121483178074;113.27697487759,23.121606152755;113.27738414558,23.121719571871",
+            "pois": [
+              {
+                "detail": {
+                  "instructions": "",
+                  "position": 0
+                },
+                "location": {
+                  "lng": 113.27626620437,
+                  "lat": 23.121499962463
+                },
+                "name": "森晟商务大厦",
+                "type": 106
+              }
+            ],
+            "turn": 3,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.27640607054,
+              "lat": 23.121391279353
+            },
+            "stepDestinationLocation": {
+              "lng": 113.27738414558,
+              "lat": 23.121719571871
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "右转进入北京路 - 60米",
+            "traffic_condition": 0
+          },
+          {
+            "area": 0,
+            "direction": 5,
+            "distance": 57,
+            "duration": 26,
+            "instructions": "沿北京路\u003c/b\u003e行驶60米,右转\u003c/b\u003e进入沿江中路\u003c/b\u003e",
+            "path": "113.27752419141,23.121260743176;113.27748430665,23.121270381752",
+            "pois": [],
+            "turn": 3,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.27738414558,
+              "lat": 23.121719571871
+            },
+            "stepDestinationLocation": {
+              "lng": 113.27748430665,
+              "lat": 23.121270464843
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "右转进入沿江中路 - 370米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 9,
+            "distance": 372,
+            "duration": 65,
+            "instructions": "沿沿江中路\u003c/b\u003e行驶130米,过右侧的沿江大厦\u003c/font\u003e\u003c/b\u003e约240米后,直行\u003c/b\u003e进入沿江西路\u003c/b\u003e",
+            "path": "113.27653605535,23.121022520553;113.2759972517,23.120837725311;113.27498962241,23.120488159147;113.27406194231,23.12014864618",
+            "pois": [
+              {
+                "detail": {
+                  "instructions": "",
+                  "position": 1
+                },
+                "location": {
+                  "lng": 113.27621661791,
+                  "lat": 23.12105957928
+                },
+                "name": "沿江大厦",
+                "type": 106
+              }
+            ],
+            "turn": 1,
+            "type": 3,
+            "stepOriginLocation": {
+              "lng": 113.27748430665,
+              "lat": 23.121270464843
+            },
+            "stepDestinationLocation": {
+              "lng": 113.27406167282,
+              "lat": 23.120148313812
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "直行进入沿江西路 - 170米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 8,
+            "distance": 173,
+            "duration": 35,
+            "instructions": "沿沿江西路\u003c/b\u003e行驶170米,靠左\u003c/b\u003e",
+            "path": "113.27367261671,23.12000414933;113.27365276415,23.120003983147;113.27344336914,23.119921722075;113.27336368944,23.119880923888;113.27314432324,23.119798496556;113.2731045283,23.119778138992;113.27303481979,23.119747394908;113.27300499605,23.119737174576;113.27290537397,23.119706098115;113.27255638228,23.119562099337;113.27249664496,23.119531438296",
+            "pois": [],
+            "turn": 9,
+            "type": 3,
+            "stepOriginLocation": {
+              "lng": 113.27406167282,
+              "lat": 23.120148313812
+            },
+            "stepDestinationLocation": {
+              "lng": 113.27249574666,
+              "lat": 23.119530690466
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "靠左 - 280米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 8,
+            "distance": 282,
+            "duration": 52,
+            "instructions": "继续沿沿江西路\u003c/b\u003e行驶280米,朝解放南路/中山路方向\u003c/b\u003e,右转\u003c/b\u003e进入解放南路\u003c/b\u003e",
+            "path": "113.27208692782,23.119365752223;113.27176793953,23.119231973447;113.27033226767,23.118643677603;113.27023264559,23.118632460072;113.27018287946,23.118641766468;113.27014308453,23.118651239049;113.27011326079,23.118660794722;113.27006349466,23.118680155345;113.26995381156,23.118728681528",
+            "pois": [],
+            "turn": 3,
+            "type": 3,
+            "stepOriginLocation": {
+              "lng": 113.27249574666,
+              "lat": 23.119530690466
+            },
+            "stepDestinationLocation": {
+              "lng": 113.26995300308,
+              "lat": 23.118728349157
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "右转进入解放南路 - 630米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 0,
+            "distance": 627,
+            "duration": 126,
+            "instructions": "沿解放南路\u003c/b\u003e行驶560米,过左侧的宝轩酒店-商务中心\u003c/font\u003e\u003c/b\u003e约60米后,右转\u003c/b\u003e进入大德路\u003c/b\u003e",
+            "path": "113.26991293866,23.118897858288;113.26987296406,23.119067284111;113.2696425487,23.120573909715;113.26961254529,23.12076344154;113.26945228759,23.121821108901;113.26940225197,23.122200334896;113.26937224857,23.122429913998;113.26933227398,23.122669297358;113.26932239261,23.122729122358;113.26930245023,23.122828830631;113.26927262649,23.122888406289;113.26917264509,23.12345690794;113.2691626739,23.12360671877;113.2691626739,23.123686734136;113.2691626739,23.123826740138;113.2691626739,23.123906755371;113.26917237559,23.124316884614",
+            "pois": [
+              {
+                "detail": {
+                  "instructions": "",
+                  "position": 0
+                },
+                "location": {
+                  "lng": 113.26882257543,
+                  "lat": 23.123732017993
+                },
+                "name": "宝轩酒店-商务中心",
+                "type": 106
+              }
+            ],
+            "turn": 3,
+            "type": 3,
+            "stepOriginLocation": {
+              "lng": 113.26995300308,
+              "lat": 23.118728349157
+            },
+            "stepDestinationLocation": {
+              "lng": 113.2691712078,
+              "lat": 23.124316801525
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "右转进入大德路 - 90米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 3,
+            "distance": 90,
+            "duration": 10,
+            "instructions": "沿大德路\u003c/b\u003e行驶90米,到达终点\u003c/b\u003e",
+            "path": "113.26949028591,23.124311317633;113.2698392776,23.124316136811;113.27003870143,23.124318878757",
+            "pois": [],
+            "turn": 0,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.2691712078,
+              "lat": 23.124316801525
+            },
+            "stepDestinationLocation": {
+              "lng": 113.27003879126,
+              "lat": 23.124318795667
+            },
+            "stepDestinationInstruction": "到达终点",
+            "traffic_condition": 1
+          }
+        ],
+        "toll": 0,
+        "originLocation": {
+          "lng": 113.27647604854,
+          "lat": 23.121161947727
+        },
+        "destinationLocation": {
+          "lng": 113.27003879126,
+          "lat": 23.124318795667
+        }
+      }
+    ],
+    "origin": {
+      "area_id": 257,
+      "bid": "1897143396977837654",
+      "cname": "广州市",
+      "uid": "9a82d2443e1411e108f5eb8e",
+      "wd": "天字广场",
+      "originPt": {
+        "lng": 113.27647748583,
+        "lat": 23.121161864636
+      }
+    },
+    "destination": {
+      "area_id": 257,
+      "bid": "4892699553251875257",
+      "bus_stop": 1,
+      "cname": "广州市",
+      "uid": "e349ddc059980919badf8fd9",
+      "wd": "起义路口",
+      "destinationPt": {
+        "lng": 113.27004561838,
+        "lat": 23.124360838828
+      }
+    },
+    "taxi": {
+      "detail": [
+        {
+          "desc": "全天",
+          "km_price": "2.6",
+          "start_price": "10.0",
+          "total_price": "10"
+        }
+      ],
+      "distance": 1735,
+      "duration": 383,
+      "remark": "全程1.7公里;2.5公里起步；燃油附加费0.0元；里程超过35.0公里，超过部分每公里收3.9元。"
+    },
+    "traffic_condition": 1
+  }
+}

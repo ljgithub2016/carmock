@@ -1,0 +1,298 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 2,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "routes": [
+      {
+        "distance": 1566,
+        "duration": 302,
+        "steps": [
+          {
+            "area": 0,
+            "direction": 0,
+            "distance": 5,
+            "duration": 10,
+            "instructions": "从起点\u003c/b\u003e向正北方向出发,行驶10米,左转\u003c/b\u003e进入泰兴路\u003c/b\u003e",
+            "path": "113.32950311261,23.154934318853;113.32951317363,23.154974192483",
+            "pois": [],
+            "turn": 7,
+            "type": 21,
+            "stepOriginLocation": {
+              "lng": 113.32950311261,
+              "lat": 23.154934318853
+            },
+            "stepDestinationLocation": {
+              "lng": 113.32951317363,
+              "lat": 23.154974192483
+            },
+            "stepOriginInstruction": "从起点向正北方向出发 - 20米",
+            "stepDestinationInstruction": "左转进入泰兴路 - 20米",
+            "traffic_condition": 0
+          },
+          {
+            "area": 0,
+            "direction": 9,
+            "distance": 16,
+            "duration": 4,
+            "instructions": "沿泰兴路\u003c/b\u003e行驶20米,靠右\u003c/b\u003e",
+            "path": "113.32935264644,23.154956415491",
+            "pois": [],
+            "turn": 10,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.32951317363,
+              "lat": 23.154974192483
+            },
+            "stepDestinationLocation": {
+              "lng": 113.32935264644,
+              "lat": 23.154956415491
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "靠右 - 80米",
+            "traffic_condition": 2
+          },
+          {
+            "area": 0,
+            "direction": 10,
+            "distance": 77,
+            "duration": 15,
+            "instructions": "行驶80米,右转\u003c/b\u003e进入泰昌街\u003c/b\u003e",
+            "path": "113.32892172928,23.155272496694;113.32875141056,23.15538497324",
+            "pois": [],
+            "turn": 3,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.32935264644,
+              "lat": 23.154956415491
+            },
+            "stepDestinationLocation": {
+              "lng": 113.32875132073,
+              "lat": 23.15538497324
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "右转进入泰昌街 - 130米",
+            "traffic_condition": 2
+          },
+          {
+            "area": 0,
+            "direction": 0,
+            "distance": 126,
+            "duration": 26,
+            "instructions": "沿泰昌街\u003c/b\u003e行驶130米,右转\u003c/b\u003e进入泰盛路\u003c/b\u003e",
+            "path": "113.32875150039,23.155594973507;113.32877243091,23.156524852017",
+            "pois": [],
+            "turn": 3,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.32875132073,
+              "lat": 23.15538497324
+            },
+            "stepDestinationLocation": {
+              "lng": 113.32877234108,
+              "lat": 23.156524852017
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "右转进入泰盛路 - 70米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 3,
+            "distance": 65,
+            "duration": 26,
+            "instructions": "沿泰盛路\u003c/b\u003e行驶70米,左转\u003c/b\u003e进入林和西路\u003c/b\u003e",
+            "path": "113.32940411934,23.156465956028",
+            "pois": [],
+            "turn": 7,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.32877234108,
+              "lat": 23.156524852017
+            },
+            "stepDestinationLocation": {
+              "lng": 113.32940411934,
+              "lat": 23.156465956028
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "左转进入林和西路 - 690米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 11,
+            "distance": 688,
+            "duration": 120,
+            "instructions": "沿林和西路\u003c/b\u003e行驶690米,右转\u003c/b\u003e进入禺东西路\u003c/b\u003e",
+            "path": "113.32928392606,23.156637659775;113.32904353951,23.156911122661;113.32890331402,23.157003162898;113.32888337164,23.157013463426;113.32880333262,23.157094621589;113.32873326479,23.157185664875;113.32854291385,23.157308440301;113.3273198709,23.157906532764;113.32684861983,23.158053646483;113.3260864076,23.158125417317;113.32563509891,23.158202504467;113.32350845045,23.158526967773;113.3234283216,23.158538264996;113.32327794526,23.15858079571",
+            "pois": [],
+            "turn": 3,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.32940411934,
+              "lat": 23.156465956028
+            },
+            "stepDestinationLocation": {
+              "lng": 113.32327677746,
+              "lat": 23.158580712642
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "右转进入禺东西路 - 10米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 0,
+            "distance": 6,
+            "duration": 2,
+            "instructions": "沿禺东西路\u003c/b\u003e行驶10米,靠左\u003c/b\u003e",
+            "path": "113.32331693172,23.158610035568",
+            "pois": [],
+            "turn": 9,
+            "type": 3,
+            "stepOriginLocation": {
+              "lng": 113.32327677746,
+              "lat": 23.158580712642
+            },
+            "stepDestinationLocation": {
+              "lng": 113.32331693172,
+              "lat": 23.158610035568
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "靠左 - 270米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 2,
+            "distance": 269,
+            "duration": 52,
+            "instructions": "继续沿禺东西路\u003c/b\u003e行驶210米,过右侧的兴禺大厦\u003c/font\u003e\u003c/b\u003e约60米后,调头\u003c/b\u003e",
+            "path": "113.32406989139,23.158997712278;113.32418029314,23.159035923335;113.32434091017,23.159123310318;113.32441115766,23.159132198534;113.32456171366,23.159159776922;113.3253545581,23.159427087623;113.32555523955,23.159493956747;113.32552523615,23.159544461604;113.32548526155,23.15963508787",
+            "pois": [
+              {
+                "detail": {
+                  "instructions": "",
+                  "position": 1
+                },
+                "location": {
+                  "lng": 113.32533407674,
+                  "lat": 23.158997296941
+                },
+                "name": "兴禺大厦",
+                "type": 106
+              }
+            ],
+            "turn": 5,
+            "type": 3,
+            "stepOriginLocation": {
+              "lng": 113.32331693172,
+              "lat": 23.158610035568
+            },
+            "stepDestinationLocation": {
+              "lng": 113.32548517172,
+              "lat": 23.159635004802
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "调头 - 310米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 8,
+            "distance": 306,
+            "duration": 43,
+            "instructions": "继续沿禺东西路\u003c/b\u003e行驶310米,靠右\u003c/b\u003e进入禺东西路辅路\u003c/b\u003e",
+            "path": "113.32528440044,23.159558167689;113.32474254256,23.15937691499;113.32472260018,23.15937724726;113.32446164243,23.159201476762;113.32434126949,23.159123476453;113.32399012186,23.159049297202;113.32386974893,23.159001367249;113.32350854028,23.158907417847;113.3232777656,23.158781321197;113.32279591452,23.158509440462",
+            "pois": [],
+            "turn": 10,
+            "type": 3,
+            "stepOriginLocation": {
+              "lng": 113.32548517172,
+              "lat": 23.159635004802
+            },
+            "stepDestinationLocation": {
+              "lng": 113.32279501621,
+              "lat": 23.158508692851
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "靠右进入禺东西路辅路 - 10米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 9,
+            "distance": 8,
+            "duration": 2,
+            "instructions": "沿禺东西路辅路\u003c/b\u003e行驶10米,到达终点\u003c/b\u003e",
+            "path": "113.3227147077,23.158490085655",
+            "pois": [],
+            "turn": 0,
+            "type": 11,
+            "stepOriginLocation": {
+              "lng": 113.32279501621,
+              "lat": 23.158508692851
+            },
+            "stepDestinationLocation": {
+              "lng": 113.3227147077,
+              "lat": 23.158490085655
+            },
+            "stepDestinationInstruction": "到达终点",
+            "traffic_condition": 1
+          }
+        ],
+        "toll": 0,
+        "originLocation": {
+          "lng": 113.32950311261,
+          "lat": 23.154934318853
+        },
+        "destinationLocation": {
+          "lng": 113.3227147077,
+          "lat": 23.158490085655
+        }
+      }
+    ],
+    "origin": {
+      "area_id": 257,
+      "bid": "17661676364702416895",
+      "cname": "广州市",
+      "uid": "083a55fa001c7a04256e9885",
+      "wd": "九号行馆水疗城",
+      "originPt": {
+        "lng": 113.32952242618,
+        "lat": 23.154934152713
+      }
+    },
+    "destination": {
+      "area_id": 257,
+      "bid": "18011867425124909055",
+      "cname": "广州市",
+      "uid": "8cba4bb00b2f9684ad0457ee",
+      "wd": "富信广场",
+      "destinationPt": {
+        "lng": 113.32271327041,
+        "lat": 23.158497810965
+      }
+    },
+    "taxi": {
+      "detail": [
+        {
+          "desc": "全天",
+          "km_price": "2.6",
+          "start_price": "10.0",
+          "total_price": "10"
+        }
+      ],
+      "distance": 1566,
+      "duration": 303,
+      "remark": "全程1.6公里;2.5公里起步；燃油附加费0.0元；里程超过35.0公里，超过部分每公里收3.9元。"
+    },
+    "traffic_condition": 1
+  }
+}

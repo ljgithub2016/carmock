@@ -1,0 +1,108 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 1,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "originInfo": {
+      "area_id": 257,
+      "wd": "电车公司南田路总站",
+      "uid": ""
+    },
+    "destinationInfo": {
+      "area_id": 257,
+      "wd": "正骨医院",
+      "uid": ""
+    },
+    "origin": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "电车公司南田路总站",
+          "address": "广东省广州市海珠区南田路22附近",
+          "uid": "6a880458ec703ff19222e068",
+          "location": {
+            "lng": 113.26678710497,
+            "lat": 23.103525324775
+          }
+        }
+      ]
+    },
+    "destination": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "广州市正骨医院",
+          "address": "广东省广州市越秀区东风中路449号",
+          "uid": "dbf4d6eed1dfbb336fa3ccfd",
+          "location": {
+            "lng": 113.27902517009,
+            "lat": 23.137500667602
+          }
+        },
+        {
+          "name": "正骨医院",
+          "address": "",
+          "uid": "0c78704fca133f033362126d",
+          "location": {
+            "lng": 113.27977300942,
+            "lat": 23.137310993534
+          }
+        },
+        {
+          "name": "西关正骨医院",
+          "address": "文昌北路235号",
+          "uid": "38e480378c0d5a34373a71e3",
+          "telephone": "(020)81935964",
+          "location": {
+            "lng": 113.25090299746,
+            "lat": 23.126068311656
+          }
+        },
+        {
+          "name": "广州市正骨医院-急诊",
+          "address": "东风中路449",
+          "uid": "764672e5e15b05d394ec8413",
+          "location": {
+            "lng": 113.27902615822,
+            "lat": 23.137501747655
+          }
+        },
+        {
+          "name": "李氏正骨医院",
+          "address": "广东省广州市白云区龙归墟公路北8号",
+          "uid": "d57878cb3aed0511260bd013",
+          "location": {
+            "lng": 113.30940011327,
+            "lat": 23.290534032099
+          }
+        },
+        {
+          "name": "广州市正骨医院-足踝外科",
+          "address": "东风中路449",
+          "uid": "62b1e6c792c8ade130870a8c",
+          "location": {
+            "lng": 113.27902615822,
+            "lat": 23.137502744627
+          }
+        },
+        {
+          "name": "西关正骨医院康复医院",
+          "address": "广东省广州市从化区府前路5",
+          "uid": "c23eb95ba77f4609631809a9",
+          "location": {
+            "lng": 113.5138557049,
+            "lat": 23.584649562102
+          }
+        }
+      ]
+    }
+  }
+}

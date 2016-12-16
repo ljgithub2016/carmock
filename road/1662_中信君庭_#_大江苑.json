@@ -1,0 +1,223 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 2,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "routes": [
+      {
+        "distance": 1272,
+        "duration": 259,
+        "steps": [
+          {
+            "area": 0,
+            "direction": 9,
+            "distance": 117,
+            "duration": 43,
+            "instructions": "从起点\u003c/b\u003e向正西方向出发,沿滨江东路\u003c/b\u003e行驶120米,调头\u003c/b\u003e",
+            "path": "113.31212161964,23.108746372314;113.31106799711,23.108824402266;113.31104805473,23.108754848414",
+            "pois": [],
+            "turn": 5,
+            "type": 3,
+            "stepOriginLocation": {
+              "lng": 113.31212161964,
+              "lat": 23.108746372314
+            },
+            "stepDestinationLocation": {
+              "lng": 113.31104787506,
+              "lat": 23.108754765315
+            },
+            "stepOriginInstruction": "从起点向正西方向出发 - 660米",
+            "stepDestinationInstruction": "调头 - 660米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 3,
+            "distance": 663,
+            "duration": 87,
+            "instructions": "继续沿滨江东路\u003c/b\u003e行驶660米,右转\u003c/b\u003e进入樱花街\u003c/b\u003e",
+            "path": "113.31172025674,23.108703327018;113.31286433864,23.108623635013;113.31457058012,23.108443808458;113.31465088863,23.108432506966;113.31545388393,23.108348410538;113.31562456198,23.108325475139;113.315785179,23.108322732863;113.31622678599,23.108304949616;113.31673864047,23.108335862549;113.31692935073,23.10834251049;113.31752133406,23.108462007183",
+            "pois": [],
+            "turn": 3,
+            "type": 3,
+            "stepOriginLocation": {
+              "lng": 113.31104787506,
+              "lat": 23.108754765315
+            },
+            "stepDestinationLocation": {
+              "lng": 113.3175211544,
+              "lat": 23.108461342389
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "右转进入樱花街 - 160米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 4,
+            "distance": 159,
+            "duration": 38,
+            "instructions": "沿樱花街\u003c/b\u003e行驶80米,过左侧的裕丰大厦\u003c/font\u003e\u003c/b\u003e约80米后,右转\u003c/b\u003e进入翠竹路\u003c/b\u003e",
+            "path": "113.31781247487,23.108196255699;113.3182141971,23.107949284175;113.31845512264,23.107865104341;113.31883663299,23.107718516626",
+            "pois": [
+              {
+                "detail": {
+                  "instructions": "",
+                  "position": 0
+                },
+                "location": {
+                  "lng": 113.31828408527,
+                  "lat": 23.108257915409
+                },
+                "name": "裕丰大厦",
+                "type": 106
+              }
+            ],
+            "turn": 3,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.3175211544,
+              "lat": 23.108461342389
+            },
+            "stepDestinationLocation": {
+              "lng": 113.31883663299,
+              "lat": 23.107718267327
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "右转进入翠竹路 - 100米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 6,
+            "distance": 96,
+            "duration": 13,
+            "instructions": "沿翠竹路\u003c/b\u003e行驶70米,过左侧的佳兴大厦\u003c/font\u003e\u003c/b\u003e直行\u003c/b\u003e进入大江直街\u003c/b\u003e",
+            "path": "113.31891730082,23.107336922449;113.31897784661,23.107026045371;113.31898799746,23.106955991976;113.31902824155,23.10687538482",
+            "pois": [
+              {
+                "detail": {
+                  "instructions": "",
+                  "position": 0
+                },
+                "location": {
+                  "lng": 113.31918849925,
+                  "lat": 23.107102248133
+                },
+                "name": "佳兴大厦",
+                "type": 106
+              }
+            ],
+            "turn": 1,
+            "type": 3,
+            "stepOriginLocation": {
+              "lng": 113.31883663299,
+              "lat": 23.107718267327
+            },
+            "stepDestinationLocation": {
+              "lng": 113.31902815172,
+              "lat": 23.10687513552
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "直行进入大江直街 - 140米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 7,
+            "distance": 136,
+            "duration": 41,
+            "instructions": "沿大江直街\u003c/b\u003e行驶140米,右转\u003c/b\u003e进入南贤大街\u003c/b\u003e",
+            "path": "113.31900811951,23.1068254416;113.31895817372,23.106656415651;113.31889816691,23.106497610839;113.31886834317,23.106318280008;113.31877842279,23.10600000458;113.31869856343,23.105691534299",
+            "pois": [],
+            "turn": 3,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.31902815172,
+              "lat": 23.10687513552
+            },
+            "stepDestinationLocation": {
+              "lng": 113.31869820411,
+              "lat": 23.105691201895
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "右转进入南贤大街 - 100米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 9,
+            "distance": 101,
+            "duration": 35,
+            "instructions": "沿南贤大街\u003c/b\u003e行驶100米,到达终点\u003c/b\u003e",
+            "path": "113.31772453077,23.105898289243",
+            "pois": [],
+            "turn": 0,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.31869820411,
+              "lat": 23.105691201895
+            },
+            "stepDestinationLocation": {
+              "lng": 113.31772453077,
+              "lat": 23.105898289243
+            },
+            "stepDestinationInstruction": "到达终点",
+            "traffic_condition": 0
+          }
+        ],
+        "toll": 0,
+        "originLocation": {
+          "lng": 113.31212161964,
+          "lat": 23.108746372314
+        },
+        "destinationLocation": {
+          "lng": 113.31772453077,
+          "lat": 23.105898289243
+        }
+      }
+    ],
+    "origin": {
+      "area_id": 257,
+      "bid": "18011735573923889151",
+      "cname": "广州市",
+      "uid": "b3aa435d5784930b15764376",
+      "wd": "中信君庭",
+      "originPt": {
+        "lng": 113.31212224845,
+        "lat": 23.108747452602
+      }
+    },
+    "destination": {
+      "area_id": 257,
+      "bid": "18011736939723489279",
+      "cname": "广州市",
+      "uid": "0523a14161d85f1db23c8174",
+      "wd": "大江苑",
+      "destinationPt": {
+        "lng": 113.31772767483,
+        "lat": 23.105905435911
+      }
+    },
+    "taxi": {
+      "detail": [
+        {
+          "desc": "全天",
+          "km_price": "2.6",
+          "start_price": "10.0",
+          "total_price": "10"
+        }
+      ],
+      "distance": 1272,
+      "duration": 260,
+      "remark": "全程1.3公里;2.5公里起步；燃油附加费0.0元；里程超过35.0公里，超过部分每公里收3.9元。"
+    },
+    "traffic_condition": 1
+  }
+}

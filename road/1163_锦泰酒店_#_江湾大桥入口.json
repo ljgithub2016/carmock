@@ -1,0 +1,92 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 1,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "originInfo": {
+      "area_id": 257,
+      "wd": "锦泰酒店",
+      "uid": ""
+    },
+    "destinationInfo": {
+      "area_id": 257,
+      "wd": "江湾大桥入口",
+      "uid": ""
+    },
+    "origin": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "锦泰酒店",
+          "address": "广州市越秀区泰康路56号",
+          "uid": "15e1e85eb2be88bb58109363",
+          "telephone": "020-83313173",
+          "location": {
+            "lng": 113.27466048328,
+            "lat": 23.124391083307
+          }
+        },
+        {
+          "name": "锦泰酒店(海珠中分店)",
+          "address": "广州广州市越秀区海珠中路37号",
+          "uid": "718c108cc4f5f8ca4d776eb4",
+          "telephone": "(020)81887838",
+          "location": {
+            "lng": 113.26216020279,
+            "lat": 23.124090632354
+          }
+        },
+        {
+          "name": "锦泰连锁酒店沿江分店",
+          "address": "广州广州市越秀区沿江西路105号",
+          "uid": "3a0fbba8c08c733c9fe3219b",
+          "telephone": "(020)81886189",
+          "location": {
+            "lng": 113.26206102986,
+            "lat": 23.115125148685
+          }
+        },
+        {
+          "name": "锦泰a公寓",
+          "address": "广州市白云区",
+          "uid": "f99e980f66f1dcb7f82213ff",
+          "location": {
+            "lng": 113.30716297323,
+            "lat": 23.218959955527
+          }
+        }
+      ]
+    },
+    "destination": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "江湾大桥入口",
+          "address": "广东省广州市海珠区",
+          "uid": "0bcaf4e0dcfa46491c3894fd",
+          "location": {
+            "lng": 113.2840934996,
+            "lat": 23.115073795952
+          }
+        },
+        {
+          "name": "江湾大桥入口",
+          "address": "广东省广州市越秀区",
+          "uid": "96237b9328403b2af503b89b",
+          "location": {
+            "lng": 113.28852286441,
+            "lat": 23.123201655819
+          }
+        }
+      ]
+    }
+  }
+}

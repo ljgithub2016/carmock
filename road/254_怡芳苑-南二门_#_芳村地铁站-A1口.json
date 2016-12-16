@@ -1,0 +1,166 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 2,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "routes": [
+      {
+        "distance": 835,
+        "duration": 177,
+        "steps": [
+          {
+            "area": 0,
+            "direction": 6,
+            "distance": 27,
+            "duration": 26,
+            "instructions": "从起点\u003c/b\u003e向正南方向出发,沿瑞林大街\u003c/b\u003e行驶30米,左转\u003c/b\u003e进入荣兴路\u003c/b\u003e",
+            "path": "113.23799317949,23.099810600796;113.23799335915,23.099640734871;113.23799344898,23.099570843788",
+            "pois": [],
+            "turn": 7,
+            "type": 21,
+            "stepOriginLocation": {
+              "lng": 113.23799317949,
+              "lat": 23.099810600796
+            },
+            "stepDestinationLocation": {
+              "lng": 113.23799344898,
+              "lat": 23.099570594474
+            },
+            "stepOriginInstruction": "从起点向正南方向出发 - 270米",
+            "stepDestinationInstruction": "左转进入荣兴路 - 270米",
+            "traffic_condition": 0
+          },
+          {
+            "area": 0,
+            "direction": 3,
+            "distance": 265,
+            "duration": 63,
+            "instructions": "沿荣兴路\u003c/b\u003e行驶130米,过右侧的花地大厦\u003c/font\u003e\u003c/b\u003e约140米后,左转\u003c/b\u003e进入花地大道北\u003c/b\u003e",
+            "path": "113.23885160023,23.099579486683;113.23894143079,23.09958048394;113.23902129015,23.099581314987;113.24011883982,23.099523723383;113.24041815521,23.099507351739;113.24049792474,23.099508265891;113.24051777729,23.099578489426",
+            "pois": [
+              {
+                "detail": {
+                  "instructions": "",
+                  "position": 1
+                },
+                "location": {
+                  "lng": 113.23922089363,
+                  "lat": 23.099453582924
+                },
+                "name": "花地大厦",
+                "type": 106
+              }
+            ],
+            "turn": 7,
+            "type": 3,
+            "stepOriginLocation": {
+              "lng": 113.23799344898,
+              "lat": 23.099570594474
+            },
+            "stepDestinationLocation": {
+              "lng": 113.24051777729,
+              "lat": 23.099578323216
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "左转进入花地大道北 - 220米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 1,
+            "distance": 224,
+            "duration": 38,
+            "instructions": "沿花地大道北\u003c/b\u003e行驶220米,靠右\u003c/b\u003e进入花地大道北辅路\u003c/b\u003e",
+            "path": "113.24056754342,23.099738881501;113.2407565469,23.100261027002;113.24077639945,23.100331250138;113.24084601813,23.100522057431;113.24103502161,23.101074283438;113.24119420134,23.101506173269",
+            "pois": [],
+            "turn": 10,
+            "type": 3,
+            "stepOriginLocation": {
+              "lng": 113.24051777729,
+              "lat": 23.099578323216
+            },
+            "stepDestinationLocation": {
+              "lng": 113.24119420134,
+              "lat": 23.101506173269
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "靠右进入花地大道北辅路 - 320米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 1,
+            "distance": 319,
+            "duration": 48,
+            "instructions": "沿花地大道北辅路\u003c/b\u003e行驶320米,右转\u003c/b\u003e",
+            "path": "113.24123408611,23.101566672637;113.24141320823,23.101978865397;113.24158244898,23.102330890299;113.24173165753,23.102702692734;113.24215943061,23.103777955473;113.24220919674,23.103908591948;113.24238867818,23.103990946047;113.24249836128,23.104032413934",
+            "pois": [],
+            "turn": 0,
+            "type": 11,
+            "stepOriginLocation": {
+              "lng": 113.24119420134,
+              "lat": 23.101506173269
+            },
+            "stepDestinationLocation": {
+              "lng": 113.24249827145,
+              "lat": 23.104032413934
+            },
+            "stepDestinationInstruction": "到达终点(在道路右侧)",
+            "traffic_condition": 1
+          }
+        ],
+        "toll": 0,
+        "originLocation": {
+          "lng": 113.23799317949,
+          "lat": 23.099810600796
+        },
+        "destinationLocation": {
+          "lng": 113.24249827145,
+          "lat": 23.104032413934
+        }
+      }
+    ],
+    "origin": {
+      "area_id": 257,
+      "bid": "3699532716458523506",
+      "cname": "广州市",
+      "uid": "dd89ec7b36e1558c4557261a",
+      "wd": "怡芳苑-南2门",
+      "originPt": {
+        "lng": 113.2379940778,
+        "lat": 23.099805697624
+      }
+    },
+    "destination": {
+      "area_id": 257,
+      "bid": "15614978248981953184",
+      "cname": "广州市",
+      "uid": "a5c41392229a2728744ff1e8",
+      "wd": "芳村地铁站-A1口",
+      "destinationPt": {
+        "lng": 113.24254848673,
+        "lat": 23.103911001907
+      }
+    },
+    "taxi": {
+      "detail": [
+        {
+          "desc": "全天",
+          "km_price": "2.6",
+          "start_price": "10.0",
+          "total_price": "10"
+        }
+      ],
+      "distance": 835,
+      "duration": 178,
+      "remark": "全程0.8公里;2.5公里起步；燃油附加费0.0元；里程超过35.0公里，超过部分每公里收3.9元。"
+    },
+    "traffic_condition": 1
+  }
+}

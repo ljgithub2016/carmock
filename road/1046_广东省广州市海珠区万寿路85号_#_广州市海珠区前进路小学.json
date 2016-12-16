@@ -1,0 +1,54 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 1,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "originInfo": {
+      "area_id": 257,
+      "wd": "广东省广州市海珠区万寿路85号",
+      "uid": ""
+    },
+    "destinationInfo": {
+      "area_id": 257,
+      "wd": "广州市海珠区前进路小学",
+      "uid": ""
+    },
+    "origin": {
+      "cityName": "海珠区",
+      "listType": 0,
+      "content": [
+        {
+          "name": "建伟五金",
+          "address": "万寿路85号附近",
+          "uid": "13d769787813b7af0869d945",
+          "location": {
+            "lng": 113.28924231729,
+            "lat": 23.108345751361
+          }
+        }
+      ]
+    },
+    "destination": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "广州市海珠区前进路小学",
+          "address": "基立下道与基立北街交汇处",
+          "uid": "3ee9634be2d8883e79b55cd0",
+          "telephone": "(020)84238010",
+          "location": {
+            "lng": 113.28335778739,
+            "lat": 23.110094646976
+          }
+        }
+      ]
+    }
+  }
+}

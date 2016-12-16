@@ -1,0 +1,63 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 1,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "originInfo": {
+      "area_id": 257,
+      "wd": "广东省广州市天河区汇景南路249",
+      "uid": ""
+    },
+    "destinationInfo": {
+      "area_id": 257,
+      "wd": "有家超市(体育西横路店)",
+      "uid": ""
+    },
+    "origin": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "维纶特莱会所",
+          "address": "汇景南路249号维纶堡西200米",
+          "uid": "5c56edd6ece5dc5aa0d2309c",
+          "location": {
+            "lng": 113.37597012103,
+            "lat": 23.15366832487
+          }
+        },
+        {
+          "name": "维纶堡",
+          "address": "汇景南路249",
+          "uid": "8d96925c51815038c1f1cf12",
+          "location": {
+            "lng": 113.37759380824,
+            "lat": 23.153257289576
+          }
+        }
+      ]
+    },
+    "destination": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "有家超市(体育西横路店)",
+          "address": "广州市天河区体育西横街192号",
+          "uid": "d991e116964961281e389483",
+          "telephone": "18502013685",
+          "location": {
+            "lng": 113.33403353679,
+            "lat": 23.134157196591
+          }
+        }
+      ]
+    }
+  }
+}

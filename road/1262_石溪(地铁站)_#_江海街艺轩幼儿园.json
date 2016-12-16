@@ -1,0 +1,90 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 1,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "originInfo": {
+      "area_id": 257,
+      "wd": "石溪(地铁站)",
+      "uid": ""
+    },
+    "destinationInfo": {
+      "area_id": 257,
+      "wd": "江海街艺轩幼儿园",
+      "uid": ""
+    },
+    "origin": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "宝岗大道",
+          "address": "",
+          "uid": "68321c3bd64eb41cdaeced6c",
+          "location": {
+            "lng": 113.27615391619,
+            "lat": 23.092186282219
+          }
+        },
+        {
+          "name": "东晓南",
+          "address": "",
+          "uid": "a9d2af9dc90588150c0e6b83",
+          "location": {
+            "lng": 113.30085022109,
+            "lat": 23.077434130711
+          }
+        },
+        {
+          "name": "燕岗",
+          "address": "",
+          "uid": "31f1da91eab86f339f09f7db",
+          "location": {
+            "lng": 113.27711186918,
+            "lat": 23.082821187569
+          }
+        },
+        {
+          "name": "江泰路",
+          "address": "",
+          "uid": "2f4d46020e5b3447a1046483",
+          "location": {
+            "lng": 113.2870035603,
+            "lat": 23.088395027665
+          }
+        },
+        {
+          "name": "燕岗",
+          "address": "",
+          "uid": "0173fb20ef4b9b66b5147f82",
+          "location": {
+            "lng": 113.27711186918,
+            "lat": 23.082821187569
+          }
+        }
+      ]
+    },
+    "destination": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "江海街艺轩幼儿园",
+          "address": "广东省广州市海珠区大塘村口1号附近",
+          "uid": "3f5810a1b2296707c5effbe9",
+          "telephone": "(020)84201846",
+          "location": {
+            "lng": 113.32773381008,
+            "lat": 23.091157882805
+          }
+        }
+      ]
+    }
+  }
+}

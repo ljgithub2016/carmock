@@ -1,0 +1,372 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 2,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "routes": [
+      {
+        "distance": 2290,
+        "duration": 369,
+        "steps": [
+          {
+            "area": 0,
+            "direction": 1,
+            "distance": 44,
+            "duration": 16,
+            "instructions": "从起点\u003c/b\u003e向正北方向出发,行驶40米,右转\u003c/b\u003e进入东湖西路\u003c/b\u003e",
+            "path": "113.2942915129,23.122928372649;113.29438152311,23.12316767202;113.29442149771,23.123297375422",
+            "pois": [],
+            "turn": 3,
+            "type": 21,
+            "stepOriginLocation": {
+              "lng": 113.2942915129,
+              "lat": 23.122928372649
+            },
+            "stepDestinationLocation": {
+              "lng": 113.29442140788,
+              "lat": 23.123297375422
+            },
+            "stepOriginInstruction": "从起点向正北方向出发 - 100米",
+            "stepDestinationInstruction": "右转进入东湖西路 - 100米",
+            "traffic_condition": 0
+          },
+          {
+            "area": 0,
+            "direction": 4,
+            "distance": 95,
+            "duration": 25,
+            "instructions": "沿东湖西路\u003c/b\u003e行驶100米,右转\u003c/b\u003e进入东湖路\u003c/b\u003e",
+            "path": "113.29529294388,23.122990773325",
+            "pois": [],
+            "turn": 3,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.29442140788,
+              "lat": 23.123297375422
+            },
+            "stepDestinationLocation": {
+              "lng": 113.29529294388,
+              "lat": 23.122990773325
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "右转进入东湖路 - 50米",
+            "traffic_condition": 0
+          },
+          {
+            "area": 0,
+            "direction": 7,
+            "distance": 54,
+            "duration": 5,
+            "instructions": "沿东湖路\u003c/b\u003e行驶40米,过右侧的龙湖大厦\u003c/font\u003e\u003c/b\u003e朝仲恺路/滨江路方向\u003c/b\u003e,靠右\u003c/b\u003e",
+            "path": "113.29514301669,23.122522061271",
+            "pois": [
+              {
+                "detail": {
+                  "instructions": "",
+                  "position": 1
+                },
+                "location": {
+                  "lng": 113.29493254371,
+                  "lat": 23.122713667569
+                },
+                "name": "龙湖大厦",
+                "type": 106
+              }
+            ],
+            "turn": 10,
+            "type": 3,
+            "stepOriginLocation": {
+              "lng": 113.29529294388,
+              "lat": 23.122990773325
+            },
+            "stepDestinationLocation": {
+              "lng": 113.29514301669,
+              "lat": 23.122522061271
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "靠右 - 390米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 7,
+            "distance": 387,
+            "duration": 58,
+            "instructions": "继续沿东湖路\u003c/b\u003e行驶240米,过右侧的越秀区斯科电器商行\u003c/font\u003e\u003c/b\u003e约140米后,调头\u003c/b\u003e",
+            "path": "113.29504303529,23.12232289346;113.29496317593,23.122103617414;113.29491331997,23.121884091733;113.29485349283,23.121614711124;113.29442464178,23.119408295507;113.29440478923,23.119338497924;113.29444485365,23.119318306474;113.29455507574,23.119287562284;113.2946252334,23.119267121548",
+            "pois": [
+              {
+                "detail": {
+                  "instructions": "",
+                  "position": 1
+                },
+                "location": {
+                  "lng": 113.29441341296,
+                  "lat": 23.120427834587
+                },
+                "name": "越秀区斯科电器商行",
+                "type": 105
+              }
+            ],
+            "turn": 5,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.29514301669,
+              "lat": 23.122522061271
+            },
+            "stepDestinationLocation": {
+              "lng": 113.29462469441,
+              "lat": 23.119266539901
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "调头 - 470米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 0,
+            "distance": 466,
+            "duration": 39,
+            "instructions": "继续沿东湖路\u003c/b\u003e行驶380米,过左侧的龙湖大厦\u003c/font\u003e\u003c/b\u003e约90米后,朝内环路(A线)/黄埔大道/广汕公路/S41方向\u003c/b\u003e,靠右\u003c/b\u003e",
+            "path": "113.2946446368,23.119366333869;113.29475423007,23.120095384277;113.29504357427,23.121572916366;113.29515343704,23.12205201811;113.29522341504,23.122261406466;113.29525332861,23.122491151643;113.2952632998,23.122521064186;113.29539319478,23.122929951362;113.29555318299,23.12336858345",
+            "pois": [
+              {
+                "detail": {
+                  "instructions": "",
+                  "position": 0
+                },
+                "location": {
+                  "lng": 113.29493254371,
+                  "lat": 23.122713667569
+                },
+                "name": "龙湖大厦",
+                "type": 106
+              }
+            ],
+            "turn": 10,
+            "type": 3,
+            "stepOriginLocation": {
+              "lng": 113.29462469441,
+              "lat": 23.119266539901
+            },
+            "stepDestinationLocation": {
+              "lng": 113.29555318299,
+              "lat": 23.123368666539
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "靠右 - 310米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 1,
+            "distance": 313,
+            "duration": 36,
+            "instructions": "继续沿东湖路\u003c/b\u003e行驶310米,右前方转弯\u003c/b\u003e",
+            "path": "113.29558318639,23.123408383486;113.29596316962,23.124425066792;113.29616322226,23.12492326868;113.29634324268,23.125391639896;113.29645328511,23.125630602469;113.29652335294,23.125769941712;113.29661336315,23.125999099195",
+            "pois": [],
+            "turn": 2,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.29555318299,
+              "lat": 23.123368666539
+            },
+            "stepDestinationLocation": {
+              "lng": 113.29661345298,
+              "lat": 23.125999182283
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "右前方转弯 - 180米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 2,
+            "distance": 182,
+            "duration": 36,
+            "instructions": "继续沿东湖路\u003c/b\u003e行驶180米,右转\u003c/b\u003e进入东华东路\u003c/b\u003e",
+            "path": "113.29677371069,23.126047705789;113.29687387175,23.126116752049;113.29697403281,23.126235817296;113.29708416507,23.126384794108;113.29745462626,23.126961174097;113.29765485856,23.127269179503",
+            "pois": [],
+            "turn": 3,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.29661345298,
+              "lat": 23.125999182283
+            },
+            "stepDestinationLocation": {
+              "lng": 113.29765485856,
+              "lat": 23.12726926259
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "右转进入东华东路 - 360米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 4,
+            "distance": 360,
+            "duration": 62,
+            "instructions": "沿东华东路\u003c/b\u003e行驶340米,过右侧的婴童百货育婴坊\u003c/font\u003e\u003c/b\u003e进入光东前街\u003c/b\u003e",
+            "path": "113.29778511286,23.127227968138;113.29808577571,23.127075004072;113.29833631312,23.126972557099;113.29856681831,23.126870276223;113.29879732351,23.126777882708;113.29904795074,23.126665298795;113.29922842032,23.126573403664;113.29969967139,23.126268221636;113.29993026642,23.126115671903;113.30014082923,23.126003336694;113.30077251766,23.125745929175",
+            "pois": [
+              {
+                "detail": {
+                  "instructions": "",
+                  "position": 1
+                },
+                "location": {
+                  "lng": 113.30056213451,
+                  "lat": 23.125667659908
+                },
+                "name": "婴童百货育婴坊",
+                "type": 104
+              }
+            ],
+            "turn": 1,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.29765485856,
+              "lat": 23.12726926259
+            },
+            "stepDestinationLocation": {
+              "lng": 113.30077260749,
+              "lat": 23.125745098292
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "进入光东前街 - 140米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 4,
+            "distance": 141,
+            "duration": 36,
+            "instructions": "沿光东前街\u003c/b\u003e行驶140米,左转\u003c/b\u003e进入培正一横路\u003c/b\u003e",
+            "path": "113.30093304486,23.125683114353;113.30112357545,23.125650876047;113.30134419929,23.12553820809;113.30167513504,23.125324171942;113.302026103,23.125229783221",
+            "pois": [],
+            "turn": 7,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.30077260749,
+              "lat": 23.125745098292
+            },
+            "stepDestinationLocation": {
+              "lng": 113.302026103,
+              "lat": 23.125229450866
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "左转进入培正一横路 - 120米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 1,
+            "distance": 115,
+            "duration": 36,
+            "instructions": "沿培正一横路\u003c/b\u003e行驶120米,左转\u003c/b\u003e进入恤孤院路\u003c/b\u003e",
+            "path": "113.30216632849,23.125457612221;113.30229667262,23.125436009196;113.30243707777,23.125384245011;113.30257748292,23.12532251017;113.30292854072,23.125147940834",
+            "pois": [],
+            "turn": 7,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.302026103,
+              "lat": 23.125229450866
+            },
+            "stepDestinationLocation": {
+              "lng": 113.30292854072,
+              "lat": 23.12514752539
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "左转进入恤孤院路 - 130米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 1,
+            "distance": 133,
+            "duration": 18,
+            "instructions": "沿恤孤院路\u003c/b\u003e行驶30米,过左侧的逵园\u003c/font\u003e\u003c/b\u003e约100米后,到达终点\u003c/b\u003e",
+            "path": "113.30318895948,23.125673974628;113.30322902391,23.125813396914;113.30323890527,23.126023277862;113.30322884425,23.126173418147;113.30321887306,23.126293563487",
+            "pois": [
+              {
+                "detail": {
+                  "instructions": "",
+                  "position": 0
+                },
+                "location": {
+                  "lng": 113.3027879559,
+                  "lat": 23.125549425037
+                },
+                "name": "逵园",
+                "type": 113
+              }
+            ],
+            "turn": 0,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.30292854072,
+              "lat": 23.12514752539
+            },
+            "stepDestinationLocation": {
+              "lng": 113.30321869339,
+              "lat": 23.126293480399
+            },
+            "stepDestinationInstruction": "到达终点",
+            "traffic_condition": 1
+          }
+        ],
+        "toll": 0,
+        "originLocation": {
+          "lng": 113.2942915129,
+          "lat": 23.122928372649
+        },
+        "destinationLocation": {
+          "lng": 113.30321869339,
+          "lat": 23.126293480399
+        }
+      }
+    ],
+    "origin": {
+      "area_id": 257,
+      "bid": "13142273208209887069",
+      "cname": "广州市",
+      "uid": "c4a7f10bee264ce7fd0eb015",
+      "wd": "学而思培优(龙湖大厦)",
+      "originPt": {
+        "lng": 113.29449749435,
+        "lat": 23.122840297078
+      }
+    },
+    "destination": {
+      "area_id": 257,
+      "bid": "13438517144484883273",
+      "cname": "广州市",
+      "uid": "0791ad96977e0c4cb72655c9",
+      "wd": "培正小学-西门",
+      "destinationPt": {
+        "lng": 113.30322004085,
+        "lat": 23.126288495117
+      }
+    },
+    "taxi": {
+      "detail": [
+        {
+          "desc": "全天",
+          "km_price": "2.6",
+          "start_price": "10.0",
+          "total_price": "10"
+        }
+      ],
+      "distance": 2290,
+      "duration": 370,
+      "remark": "全程2.3公里;2.5公里起步；燃油附加费0.0元；里程超过35.0公里，超过部分每公里收3.9元。"
+    },
+    "traffic_condition": 1
+  }
+}

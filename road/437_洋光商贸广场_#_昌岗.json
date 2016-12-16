@@ -1,0 +1,337 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 2,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "routes": [
+      {
+        "distance": 2722,
+        "duration": 432,
+        "steps": [
+          {
+            "area": 0,
+            "direction": 11,
+            "distance": 62,
+            "duration": 27,
+            "instructions": "从起点\u003c/b\u003e向西北方向出发,行驶60米,右转\u003c/b\u003e进入翠宝路\u003c/b\u003e",
+            "path": "113.27584651604,23.089101808097;113.2756767363,23.089400177353;113.27557693456,23.089589171906",
+            "pois": [],
+            "turn": 3,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.27584651604,
+              "lat": 23.089101808097
+            },
+            "stepDestinationLocation": {
+              "lng": 113.2755767549,
+              "lat": 23.089589255017
+            },
+            "stepOriginInstruction": "从起点向西北方向出发 - 300米",
+            "stepDestinationInstruction": "右转进入翠宝路 - 300米",
+            "traffic_condition": 0
+          },
+          {
+            "area": 0,
+            "direction": 2,
+            "distance": 304,
+            "duration": 49,
+            "instructions": "沿翠宝路\u003c/b\u003e行驶130米,过右侧的海悦广场D座\u003c/font\u003e\u003c/b\u003e约180米后,右转\u003c/b\u003e进入宝岗大道\u003c/b\u003e",
+            "path": "113.27564655323,23.089619922973;113.27634498577,23.09000638848;113.27820124427,23.090891598032",
+            "pois": [
+              {
+                "detail": {
+                  "instructions": "",
+                  "position": 1
+                },
+                "location": {
+                  "lng": 113.27673431138,
+                  "lat": 23.089959763346
+                },
+                "name": "海悦广场D座",
+                "type": 106
+              }
+            ],
+            "turn": 3,
+            "type": 3,
+            "stepOriginLocation": {
+              "lng": 113.2755767549,
+              "lat": 23.089589255017
+            },
+            "stepDestinationLocation": {
+              "lng": 113.27820124427,
+              "lat": 23.090891514922
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "右转进入宝岗大道 - 60米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 5,
+            "distance": 58,
+            "duration": 26,
+            "instructions": "沿宝岗大道\u003c/b\u003e行驶60米,调头\u003c/b\u003e",
+            "path": "113.2783812647,23.09052283762;113.27850109865,23.090563727939",
+            "pois": [],
+            "turn": 5,
+            "type": 3,
+            "stepOriginLocation": {
+              "lng": 113.27820124427,
+              "lat": 23.090891514922
+            },
+            "stepDestinationLocation": {
+              "lng": 113.27850100882,
+              "lat": 23.090563727939
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "调头 - 20米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 11,
+            "distance": 24,
+            "duration": 5,
+            "instructions": "继续沿宝岗大道\u003c/b\u003e行驶20米,靠右\u003c/b\u003e进入昌岗大街\u003c/b\u003e",
+            "path": "113.27840102742,23.09076302651",
+            "pois": [],
+            "turn": 10,
+            "type": 3,
+            "stepOriginLocation": {
+              "lng": 113.27850100882,
+              "lat": 23.090563727939
+            },
+            "stepDestinationLocation": {
+              "lng": 113.27840102742,
+              "lat": 23.09076302651
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "靠右进入昌岗大街 - 270米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 0,
+            "distance": 265,
+            "duration": 58,
+            "instructions": "沿昌岗大街\u003c/b\u003e行驶70米,过左侧的江南佳利百货\u003c/font\u003e\u003c/b\u003e约190米后,右转\u003c/b\u003e进入昌岗中路\u003c/b\u003e",
+            "path": "113.27848052746,23.091333494162;113.27852023256,23.091663772537;113.27856990885,23.091984076951;113.27866926144,23.092654685844;113.27879870727,23.093125497972",
+            "pois": [
+              {
+                "detail": {
+                  "instructions": "",
+                  "position": 0
+                },
+                "location": {
+                  "lng": 113.2783606935,
+                  "lat": 23.09140264159
+                },
+                "name": "江南佳利百货",
+                "type": 104
+              }
+            ],
+            "turn": 3,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.27840102742,
+              "lat": 23.09076302651
+            },
+            "stepDestinationLocation": {
+              "lng": 113.27879870727,
+              "lat": 23.093125497972
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "右转进入昌岗中路 - 630米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 2,
+            "distance": 627,
+            "duration": 91,
+            "instructions": "沿昌岗中路\u003c/b\u003e行驶510米,过右侧的达镖国际酒店-商务中心\u003c/font\u003e\u003c/b\u003e约120米后,直行\u003c/b\u003e进入昌岗东路\u003c/b\u003e",
+            "path": "113.27884856322,23.093165805729;113.27895833616,23.093276506557;113.27899822092,23.093306758119;113.2790181633,23.093316897377;113.27932753972,23.093578938755;113.27944728384,23.093689722347;113.28010601128,23.094233665952;113.28027570119,23.094334642251;113.28063502339,23.094666575321;113.28079474211,23.094797386974;113.28197277995,23.095752707054;113.28228233603,23.095993883773;113.28248202935,23.096164585431;113.2828515024,23.096455791649;113.28299127874,23.096596241908;113.28331089584,23.096827195;113.28337081282,23.0968773913",
+            "pois": [
+              {
+                "detail": {
+                  "instructions": "",
+                  "position": 1
+                },
+                "location": {
+                  "lng": 113.28315180594,
+                  "lat": 23.0960968533
+                },
+                "name": "达镖国际酒店-商务中心",
+                "type": 106
+              }
+            ],
+            "turn": 1,
+            "type": 3,
+            "stepOriginLocation": {
+              "lng": 113.27879870727,
+              "lat": 23.093125497972
+            },
+            "stepDestinationLocation": {
+              "lng": 113.28337090265,
+              "lat": 23.0968773913
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "直行进入昌岗东路 - 520米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 2,
+            "distance": 517,
+            "duration": 59,
+            "instructions": "沿昌岗东路\u003c/b\u003e行驶200米,过右侧的江南商务中心\u003c/font\u003e\u003c/b\u003e约320米后,朝海印桥/内环路方向\u003c/b\u003e,靠左\u003c/b\u003e",
+            "path": "113.28374046554,23.09716826353;113.28408011485,23.097418994881;113.28421998102,23.097509248079;113.28460957612,23.097829953927;113.28489936947,23.098000403909;113.28513921705,23.09812065786;113.28522913743,23.098160714784;113.28525914083,23.098170770566;113.2853590324,23.098220883254;113.28545901381,23.098260940148;113.285748897,23.098361165435;113.28583881738,23.098401222287;113.28616867516,23.098521309664;113.28745837238,23.098970742982;113.28763830297,23.099040551275;113.28774825557,23.099080441711",
+            "pois": [
+              {
+                "detail": {
+                  "instructions": "",
+                  "position": 1
+                },
+                "location": {
+                  "lng": 113.28494931526,
+                  "lat": 23.097860536875
+                },
+                "name": "江南商务中心",
+                "type": 106
+              }
+            ],
+            "turn": 11,
+            "type": 3,
+            "stepOriginLocation": {
+              "lng": 113.28337090265,
+              "lat": 23.0968773913
+            },
+            "stepDestinationLocation": {
+              "lng": 113.28774816574,
+              "lat": 23.099080524816
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "靠左 - 220米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 2,
+            "distance": 221,
+            "duration": 31,
+            "instructions": "继续沿昌岗东路\u003c/b\u003e行驶220米,朝东晓南路方向\u003c/b\u003e,靠右\u003c/b\u003e",
+            "path": "113.28868815262,23.099438873368;113.2893281953,23.099687273502;113.28951827674,23.099746776442;113.28974833279,23.099836113908",
+            "pois": [],
+            "turn": 10,
+            "type": 3,
+            "stepOriginLocation": {
+              "lng": 113.28774816574,
+              "lat": 23.099080524816
+            },
+            "stepDestinationLocation": {
+              "lng": 113.28974833279,
+              "lat": 23.099836113908
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "靠右 - 80米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 3,
+            "distance": 80,
+            "duration": 19,
+            "instructions": "行驶80米,右转\u003c/b\u003e进入东晓南路\u003c/b\u003e",
+            "path": "113.28988837861,23.099845670935;113.2901385567,23.099864868093;113.29022865674,23.09986461878;113.29029872457,23.099844424367;113.290338789,23.09982439616;113.2904690433,23.099704060647",
+            "pois": [],
+            "turn": 3,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.28974833279,
+              "lat": 23.099836113908
+            },
+            "stepDestinationLocation": {
+              "lng": 113.29046895347,
+              "lat": 23.099703645124
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "右转进入东晓南路 - 560米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 5,
+            "distance": 564,
+            "duration": 62,
+            "instructions": "沿东晓南路\u003c/b\u003e行驶560米,到达终点\u003c/b\u003e",
+            "path": "113.29061950947,23.099253217027;113.29065957389,23.09917318693;113.29068975696,23.099053183248;113.29073988241,23.098933096351;113.29083016211,23.098692839128;113.29142196578,23.097330653064;113.2914320268,23.097300734843;113.29155239974,23.097030307066;113.29161258621,23.096900162464;113.29165274047,23.096810075065;113.29252526461,23.094985958311",
+            "pois": [],
+            "turn": 0,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.29046895347,
+              "lat": 23.099703645124
+            },
+            "stepDestinationLocation": {
+              "lng": 113.29252517478,
+              "lat": 23.094985044127
+            },
+            "stepDestinationInstruction": "到达终点",
+            "traffic_condition": 1
+          }
+        ],
+        "toll": 0,
+        "originLocation": {
+          "lng": 113.27584651604,
+          "lat": 23.089101808097
+        },
+        "destinationLocation": {
+          "lng": 113.29252517478,
+          "lat": 23.094985044127
+        }
+      }
+    ],
+    "origin": {
+      "area_id": 257,
+      "bid": "4749997309724375775",
+      "cname": "广州市",
+      "uid": "ff8147b3ac3cfe678936ee0b",
+      "wd": "洋光商贸广场",
+      "originPt": {
+        "lng": 113.27591155336,
+        "lat": 23.089134637059
+      }
+    },
+    "destination": {
+      "area_id": 257,
+      "bid": "6158790215532259867",
+      "cname": "广州市",
+      "uid": "b878cee097689ed96cc02c1c",
+      "wd": "昌岗",
+      "destinationPt": {
+        "lng": 113.29251223918,
+        "lat": 23.094985542773
+      }
+    },
+    "taxi": {
+      "detail": [
+        {
+          "desc": "全天",
+          "km_price": "2.6",
+          "start_price": "10.0",
+          "total_price": "11"
+        }
+      ],
+      "distance": 2722,
+      "duration": 433,
+      "remark": "全程2.7公里;2.5公里起步；燃油附加费0.0元；里程超过35.0公里，超过部分每公里收3.9元。"
+    },
+    "traffic_condition": 1
+  }
+}

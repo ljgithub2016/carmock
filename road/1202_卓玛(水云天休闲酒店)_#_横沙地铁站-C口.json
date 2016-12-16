@@ -1,0 +1,51 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 1,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "originInfo": {
+      "area_id": 257,
+      "wd": "卓玛(水云天休闲酒店)",
+      "uid": ""
+    },
+    "destinationInfo": {
+      "area_id": 257,
+      "wd": "横沙地铁站-C口",
+      "uid": ""
+    },
+    "origin": {
+      "cityName": "广州市",
+      "listType": 0
+    },
+    "destination": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "横沙地铁站-C口",
+          "uid": "abd2d11b81e5b30cb21e367b",
+          "location": {
+            "lng": 113.21336047462,
+            "lat": 23.163996455492
+          }
+        },
+        {
+          "name": "玛丽莲休闲驿站",
+          "address": "金沙洲横沙安宁街1号(横沙地铁口C出口)",
+          "uid": "ef1182d63256630a843304d1",
+          "telephone": "13242860694",
+          "location": {
+            "lng": 113.21428797506,
+            "lat": 23.163918042684
+          }
+        }
+      ]
+    }
+  }
+}

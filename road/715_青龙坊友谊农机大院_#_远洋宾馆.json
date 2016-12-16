@@ -1,0 +1,267 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 2,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "routes": [
+      {
+        "distance": 1621,
+        "duration": 319,
+        "steps": [
+          {
+            "area": 0,
+            "direction": 10,
+            "distance": 275,
+            "duration": 71,
+            "instructions": "从起点\u003c/b\u003e向正西方向出发,沿青龙坊\u003c/b\u003e行驶280米,靠右\u003c/b\u003e进入华乐路\u003c/b\u003e",
+            "path": "113.29778331625,23.140147601968;113.29751283646,23.140240235406;113.29735266859,23.140391771939;113.29722250412,23.140493045435;113.29699217858,23.140575210668;113.29644124782,23.140730236135;113.29620086126,23.140712457232;113.29544960836,23.140448847331;113.29533947611,23.140409800122",
+            "pois": [],
+            "turn": 10,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.29778331625,
+              "lat": 23.140147601968
+            },
+            "stepDestinationLocation": {
+              "lng": 113.29533884729,
+              "lat": 23.140409550885
+            },
+            "stepOriginInstruction": "从起点向正西方向出发 - 380米",
+            "stepDestinationInstruction": "靠右进入华乐路 - 380米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 9,
+            "distance": 380,
+            "duration": 101,
+            "instructions": "沿华乐路\u003c/b\u003e行驶340米,过左侧的万财大厦\u003c/font\u003e\u003c/b\u003e右转\u003c/b\u003e进入建设六马路\u003c/b\u003e",
+            "path": "113.29515855738,23.140400993729;113.29502848274,23.140401990679;113.29488834708,23.140393184285;113.29465811138,23.140384959445;113.29425755695,23.140357958703;113.29384703133,23.140320905369;113.29368686346,23.14031201589;113.29332646329,23.140284433579;113.29164465572,23.140263829921",
+            "pois": [
+              {
+                "detail": {
+                  "instructions": "",
+                  "position": 0
+                },
+                "location": {
+                  "lng": 113.29207440507,
+                  "lat": 23.139911157941
+                },
+                "name": "万财大厦",
+                "type": 106
+              }
+            ],
+            "turn": 3,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.29533884729,
+              "lat": 23.140409550885
+            },
+            "stepDestinationLocation": {
+              "lng": 113.2916440269,
+              "lat": 23.140263248366
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "右转进入建设六马路 - 280米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 0,
+            "distance": 279,
+            "duration": 35,
+            "instructions": "沿建设六马路\u003c/b\u003e行驶280米,右转\u003c/b\u003e",
+            "path": "113.29165435742,23.141593340848;113.29165453708,23.142263366766;113.29165453708,23.142293357927;113.29165453708,23.142413405583;113.29167465912,23.142603321583;113.29170475235,23.142693211739;113.29177482018,23.142742892224",
+            "pois": [],
+            "turn": 3,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.2916440269,
+              "lat": 23.140263248366
+            },
+            "stepDestinationLocation": {
+              "lng": 113.29177482018,
+              "lat": 23.142742809146
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "右转 - 70米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 3,
+            "distance": 67,
+            "duration": 12,
+            "instructions": "继续沿建设六马路\u003c/b\u003e行驶70米,进入环市东路辅路\u003c/b\u003e",
+            "path": "113.2918248558,23.142752529239;113.2924255527,23.142789415738",
+            "pois": [],
+            "turn": 1,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.29177482018,
+              "lat": 23.142742809146
+            },
+            "stepDestinationLocation": {
+              "lng": 113.2924255527,
+              "lat": 23.142789415738
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "进入环市东路辅路 - 90米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 4,
+            "distance": 87,
+            "duration": 15,
+            "instructions": "沿环市东路辅路\u003c/b\u003e行驶90米,直行\u003c/b\u003e进入环市东路\u003c/b\u003e",
+            "path": "113.29280589525,23.142667208401;113.29303613095,23.142585958321;113.29323636325,23.142614703242",
+            "pois": [],
+            "turn": 1,
+            "type": 11,
+            "stepOriginLocation": {
+              "lng": 113.2924255527,
+              "lat": 23.142789415738
+            },
+            "stepDestinationLocation": {
+              "lng": 113.29323645308,
+              "lat": 23.142614620164
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "直行进入环市东路 - 460米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 4,
+            "distance": 456,
+            "duration": 51,
+            "instructions": "沿环市东路\u003c/b\u003e行驶300米,过右侧的中国普天大楼\u003c/font\u003e\u003c/b\u003e约150米后,靠右\u003c/b\u003e",
+            "path": "113.29361688546,23.142472224741;113.29378711436,23.142411162479;113.29389724661,23.142370537367;113.29428774002,23.142257883616;113.29465829104,23.14214522977;113.29544951853,23.141939195939;113.29572996951,23.141886939727;113.29582015939,23.14186625324;113.29603054254,23.141824547943;113.29711246169,23.141634880061;113.29754328902,23.141560857175",
+            "pois": [
+              {
+                "detail": {
+                  "instructions": "",
+                  "position": 1
+                },
+                "location": {
+                  "lng": 113.29599020862,
+                  "lat": 23.141334218944
+                },
+                "name": "中国普天大楼",
+                "type": 106
+              }
+            ],
+            "turn": 10,
+            "type": 3,
+            "stepOriginLocation": {
+              "lng": 113.29323645308,
+              "lat": 23.142614620164
+            },
+            "stepDestinationLocation": {
+              "lng": 113.29754319918,
+              "lat": 23.14156002639
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "靠右 - 60米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 4,
+            "distance": 63,
+            "duration": 27,
+            "instructions": "继续沿环市东路\u003c/b\u003e行驶60米,右转\u003c/b\u003e",
+            "path": "113.29774352131,23.141478027925;113.29804409434,23.141425106903;113.29802415195,23.141385395353;113.2980742774,23.141375010531",
+            "pois": [],
+            "turn": 3,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.29754319918,
+              "lat": 23.14156002639
+            },
+            "stepDestinationLocation": {
+              "lng": 113.29807418757,
+              "lat": 23.141374761295
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "右转 - 10米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 5,
+            "distance": 14,
+            "duration": 4,
+            "instructions": "行驶10米,到达终点\u003c/b\u003e",
+            "path": "113.29809421978,23.141294507366;113.298114252,23.141264349822;113.29812431302,23.141264349822",
+            "pois": [],
+            "turn": 0,
+            "type": 21,
+            "stepOriginLocation": {
+              "lng": 113.29807418757,
+              "lat": 23.141374761295
+            },
+            "stepDestinationLocation": {
+              "lng": 113.29812431302,
+              "lat": 23.141264183664
+            },
+            "stepDestinationInstruction": "到达终点",
+            "traffic_condition": 0
+          }
+        ],
+        "toll": 0,
+        "originLocation": {
+          "lng": 113.29778331625,
+          "lat": 23.140147601968
+        },
+        "destinationLocation": {
+          "lng": 113.29812431302,
+          "lat": 23.141264183664
+        }
+      }
+    ],
+    "origin": {
+      "area_id": 257,
+      "bid": "727947412174778357",
+      "cname": "广州市",
+      "uid": "8f583d9b1899898b40e19263",
+      "wd": "青龙坊友谊农机大院",
+      "originPt": {
+        "lng": 113.29777630946,
+        "lat": 23.140146854254
+      }
+    },
+    "destination": {
+      "area_id": 257,
+      "bid": "1265613011138117631",
+      "cname": "广州市",
+      "uid": "89fd4ea31f6a695ee5e9651c",
+      "wd": "远洋宾馆",
+      "destinationPt": {
+        "lng": 113.29811766556,
+        "lat": 23.141260112811
+      }
+    },
+    "taxi": {
+      "detail": [
+        {
+          "desc": "全天",
+          "km_price": "2.6",
+          "start_price": "10.0",
+          "total_price": "10"
+        }
+      ],
+      "distance": 1621,
+      "duration": 320,
+      "remark": "全程1.6公里;2.5公里起步；燃油附加费0.0元；里程超过35.0公里，超过部分每公里收3.9元。"
+    },
+    "traffic_condition": 1
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 1,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "originInfo": {
+      "area_id": 257,
+      "wd": "广东省广州市海珠区新港西路50号",
+      "uid": ""
+    },
+    "destinationInfo": {
+      "area_id": 257,
+      "wd": "东山湖公园-北门",
+      "uid": ""
+    },
+    "origin": {
+      "cityName": "海珠区",
+      "listType": 0,
+      "content": [
+        {
+          "name": "桃源冷饮饮料批发部",
+          "address": "广东省广州市海珠区新港西路50号",
+          "uid": "9ed01c7514d42b471f389489",
+          "telephone": "(020)84272475",
+          "location": {
+            "lng": 113.29344036843,
+            "lat": 23.099243743062
+          }
+        },
+        {
+          "name": "尚魅舞蹈健身",
+          "address": "广东省广州市海珠区新港西路50号",
+          "uid": "45667132af97715226e0a0f1",
+          "location": {
+            "lng": 113.29359667359,
+            "lat": 23.099178754966
+          }
+        },
+        {
+          "name": "棋纺",
+          "address": "新港西路50号附近",
+          "uid": "d244d2d65d594c09fda77877",
+          "telephone": "(020)66288020",
+          "location": {
+            "lng": 113.2975599975,
+            "lat": 23.096194005266
+          }
+        }
+      ]
+    },
+    "destination": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "东山湖公园-北门",
+          "address": "东湖北路30号",
+          "uid": "00f1c7fb63307162c056ac13",
+          "telephone": "(020)83791104",
+          "location": {
+            "lng": 113.30011199362,
+            "lat": 23.123932180762
+          }
+        },
+        {
+          "name": "东山湖公园-正门",
+          "address": "东湖路123号",
+          "uid": "94bbbe745b09d9d035b06c29",
+          "telephone": "(020)87609086",
+          "location": {
+            "lng": 113.29547619821,
+            "lat": 23.122397259449
+          }
+        }
+      ]
+    }
+  }
+}

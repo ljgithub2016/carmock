@@ -1,0 +1,117 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 1,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "originInfo": {
+      "area_id": 257,
+      "wd": "越秀公园-游船码头",
+      "uid": ""
+    },
+    "destinationInfo": {
+      "area_id": 257,
+      "wd": "前卫创作",
+      "uid": ""
+    },
+    "origin": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "越秀公园-游艇码头",
+          "address": "广州市越秀区解放北路988号越秀公园内",
+          "uid": "b6cb994436a575ebf8f0cb0a",
+          "location": {
+            "lng": 113.27800325774,
+            "lat": 23.144261627292
+          }
+        },
+        {
+          "name": "越秀公园-游艇码头",
+          "address": "广州市越秀区解放北路988号越秀公园内",
+          "uid": "4ab833f42fb53de43010af4d",
+          "location": {
+            "lng": 113.27019815066,
+            "lat": 23.14793390179
+          }
+        },
+        {
+          "name": "越秀公园-游艇码头",
+          "address": "广州市越秀区解放北路988号越秀公园内",
+          "uid": "f7a5678f2e527f2fb35c6afe",
+          "location": {
+            "lng": 113.26952558932,
+            "lat": 23.145160514856
+          }
+        },
+        {
+          "name": "越秀公园-游船码头",
+          "address": "广州市越秀区解放北路988号越秀公园内",
+          "uid": "057f519207f104dc28201a58",
+          "location": {
+            "lng": 113.27656659774,
+            "lat": 23.143962882904
+          }
+        },
+        {
+          "name": "越秀公园游艇码头-售票处",
+          "address": "广州市越秀区解放北路988号越秀公园内",
+          "uid": "efdd20dc4c9414d10869d951",
+          "location": {
+            "lng": 113.26946872658,
+            "lat": 23.145181699286
+          }
+        },
+        {
+          "name": "越秀公园游艇码头-售票处",
+          "address": "广州市越秀区解放北路988号越秀公园内",
+          "uid": "80d8aeedf3dc6a51afee7a26",
+          "location": {
+            "lng": 113.27016132013,
+            "lat": 23.148005428884
+          }
+        },
+        {
+          "name": "越秀公园游艇码头-售票处",
+          "address": "广州市越秀区解放北路988号越秀公园内",
+          "uid": "e3df68b3c673e21894ca07bc",
+          "location": {
+            "lng": 113.27797630857,
+            "lat": 23.144261461139
+          }
+        },
+        {
+          "name": "流花湖公园蒲林艇部-1",
+          "address": "广州市越秀区流花湖公园内",
+          "uid": "d95b18c9fd90cfd7f6b916cf",
+          "location": {
+            "lng": 113.25890016226,
+            "lat": 23.143728356456
+          }
+        }
+      ]
+    },
+    "destination": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "前卫创作",
+          "address": "广州市越秀区文明路16",
+          "uid": "5c2dc21d8f43e61d6fc02c16",
+          "telephone": "020-83399433",
+          "location": {
+            "lng": 113.27634633323,
+            "lat": 23.127537053058
+          }
+        }
+      ]
+    }
+  }
+}

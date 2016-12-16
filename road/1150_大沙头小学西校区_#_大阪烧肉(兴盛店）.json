@@ -1,0 +1,72 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 1,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "originInfo": {
+      "area_id": 257,
+      "wd": "大沙头小学西校区",
+      "uid": ""
+    },
+    "destinationInfo": {
+      "area_id": 257,
+      "wd": "大阪烧肉(兴盛店）",
+      "uid": ""
+    },
+    "origin": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "大沙头小学西校区",
+          "address": "大沙头路15号",
+          "uid": "d146b3888b50d5df74026936",
+          "location": {
+            "lng": 113.28958762593,
+            "lat": 23.121432326348
+          }
+        },
+        {
+          "name": "大沙头小学西校区(西北门)",
+          "address": "大沙头路15号",
+          "uid": "8f4f88f34e630b88f8dc8580",
+          "location": {
+            "lng": 113.28959175814,
+            "lat": 23.121382222423
+          }
+        }
+      ]
+    },
+    "destination": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "大阪烧肉(兴盛店）",
+          "address": "猎德大道31号106铺",
+          "uid": "80af7def9af0ac524d2fdf2d",
+          "location": {
+            "lng": 113.33937800541,
+            "lat": 23.126475941579
+          }
+        },
+        {
+          "name": "大阪烧肉双子(兴盛店)",
+          "address": "猎德大道31号106(兴盛路1楼，加州卷旁)",
+          "uid": "a0b67475c1b590974bcc4a20",
+          "telephone": "(020)85269396",
+          "location": {
+            "lng": 113.33940396644,
+            "lat": 23.126537925147
+          }
+        }
+      ]
+    }
+  }
+}

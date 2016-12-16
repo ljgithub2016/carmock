@@ -1,0 +1,207 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 2,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "routes": [
+      {
+        "distance": 1693,
+        "duration": 660,
+        "steps": [
+          {
+            "area": 0,
+            "direction": 3,
+            "distance": 219,
+            "duration": 126,
+            "instructions": "从起点\u003c/b\u003e向正东方向出发,沿龙津中路\u003c/b\u003e行驶220米,左转\u003c/b\u003e进入土兴巷\u003c/b\u003e",
+            "path": "113.24851943362,23.130118133278;113.24915723053,23.13022863712;113.24942627303,23.130253064273;113.24962560703,23.13026635796;113.25001430382,23.130232957569;113.25005418858,23.130223735072;113.2506123058,23.13007326703",
+            "pois": [],
+            "turn": 7,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.24851943362,
+              "lat": 23.130118133278
+            },
+            "stepDestinationLocation": {
+              "lng": 113.25061239563,
+              "lat": 23.130073100859
+            },
+            "stepOriginInstruction": "从起点向正东方向出发 - 170米",
+            "stepDestinationInstruction": "左转进入土兴巷 - 170米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 0,
+            "distance": 168,
+            "duration": 81,
+            "instructions": "沿土兴巷\u003c/b\u003e行驶170米,右转\u003c/b\u003e进入中山七路\u003c/b\u003e",
+            "path": "113.250761694,23.130705547383;113.2507716652,23.130745677558;113.2510007331,23.131439520558;113.25103064667,23.13154005313",
+            "pois": [],
+            "turn": 3,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.25061239563,
+              "lat": 23.130073100859
+            },
+            "stepDestinationLocation": {
+              "lng": 113.25103055684,
+              "lat": 23.131540136215
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "右转进入中山七路 - 320米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 3,
+            "distance": 322,
+            "duration": 117,
+            "instructions": "沿中山七路\u003c/b\u003e行驶320米,朝康王北路/东风西路方向\u003c/b\u003e,左转\u003c/b\u003e进入康王北路\u003c/b\u003e",
+            "path": "113.25209675565,23.131588491525;113.25392022601,23.131660525948;113.25403979047,23.131662603064;113.25403979047,23.131772607112",
+            "pois": [],
+            "turn": 7,
+            "type": 3,
+            "stepOriginLocation": {
+              "lng": 113.25103055684,
+              "lat": 23.131540136215
+            },
+            "stepDestinationLocation": {
+              "lng": 113.25403979047,
+              "lat": 23.131772607112
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "左转进入康王北路 - 650米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 0,
+            "distance": 654,
+            "duration": 186,
+            "instructions": "沿康王北路\u003c/b\u003e行驶620米,过右侧的港丰大厦\u003c/font\u003e\u003c/b\u003e朝西华路东/人民北路方向\u003c/b\u003e,右转\u003c/b\u003e进入西华路\u003c/b\u003e",
+            "path": "113.25402972945,23.132012472117;113.25396981247,23.133161358822;113.25394995992,23.133521027773;113.25395984128,23.133851201183;113.2540096074,23.134442088233;113.25404940234,23.134882759313;113.25404940234,23.134962767876;113.25410913966,23.135713832404;113.25423867531,23.1364761087;113.25423867531,23.136516070966;113.25431835501,23.136767475713;113.25439812454,23.137048872332;113.254517689,23.137361008361;113.25455757377,23.137491694853;113.25459745853,23.137532404542;113.25461740091,23.137602774117",
+            "pois": [
+              {
+                "detail": {
+                  "instructions": "",
+                  "position": 1
+                },
+                "location": {
+                  "lng": 113.25504562315,
+                  "lat": 23.137090412969
+                },
+                "name": "港丰大厦",
+                "type": 106
+              }
+            ],
+            "turn": 3,
+            "type": 3,
+            "stepOriginLocation": {
+              "lng": 113.25403979047,
+              "lat": 23.131772607112
+            },
+            "stepDestinationLocation": {
+              "lng": 113.25461722125,
+              "lat": 23.137602774117
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "右转进入西华路 - 330米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 4,
+            "distance": 330,
+            "duration": 150,
+            "instructions": "沿西华路\u003c/b\u003e行驶70米,过右侧的港丰大厦\u003c/font\u003e\u003c/b\u003e约270米后,到达终点\u003c/b\u003e",
+            "path": "113.2550257706,23.137410109277;113.25565350649,23.137101379695;113.25587269303,23.136985398213;113.25627127119,23.136802619167;113.25648048654,23.136696441042;113.25742703106,23.136223374091",
+            "pois": [
+              {
+                "location": {
+                  "lng": 2.8908711447769e-9,
+                  "lat": -3.067393572659e-8
+                }
+              },
+              {
+                "detail": {
+                  "instructions": "",
+                  "position": 1
+                },
+                "location": {
+                  "lng": 113.25504562315,
+                  "lat": 23.137090412969
+                },
+                "name": "港丰大厦",
+                "type": 106
+              }
+            ],
+            "turn": 0,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.25461722125,
+              "lat": 23.137602774117
+            },
+            "stepDestinationLocation": {
+              "lng": 113.25742694122,
+              "lat": 23.1362228756
+            },
+            "stepDestinationInstruction": "到达终点",
+            "traffic_condition": 3
+          }
+        ],
+        "toll": 0,
+        "originLocation": {
+          "lng": 113.24851943362,
+          "lat": 23.130118133278
+        },
+        "destinationLocation": {
+          "lng": 113.25742694122,
+          "lat": 23.1362228756
+        }
+      }
+    ],
+    "origin": {
+      "area_id": 257,
+      "bid": "5380157170663963279",
+      "cname": "广州市",
+      "uid": "bb8a1cb87c47e5919f9d685d",
+      "wd": "龙津华府",
+      "originPt": {
+        "lng": 113.24851323531,
+        "lat": 23.130118797963
+      }
+    },
+    "destination": {
+      "area_id": 257,
+      "bid": "10667766",
+      "cname": "广州市",
+      "uid": "55149fe2f91d160e6cc02cba",
+      "wd": "司马街",
+      "destinationPt": {
+        "lng": 113.25743340902,
+        "lat": 23.136225451136
+      }
+    },
+    "taxi": {
+      "detail": [
+        {
+          "desc": "全天",
+          "km_price": "2.6",
+          "start_price": "10.0",
+          "total_price": "10"
+        }
+      ],
+      "distance": 1693,
+      "duration": 661,
+      "remark": "全程1.7公里;2.5公里起步；燃油附加费0.0元；里程超过35.0公里，超过部分每公里收3.9元。"
+    },
+    "traffic_condition": 2
+  }
+}

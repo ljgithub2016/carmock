@@ -1,0 +1,167 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 2,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "routes": [
+      {
+        "distance": 1121,
+        "duration": 276,
+        "steps": [
+          {
+            "area": 0,
+            "direction": 2,
+            "distance": 271,
+            "duration": 95,
+            "instructions": "从起点\u003c/b\u003e向东北方向出发,沿文明路\u003c/b\u003e行驶270米,左转\u003c/b\u003e进入文德路\u003c/b\u003e",
+            "path": "113.27628255353,23.127579427548;113.27651207059,23.127681458615;113.27662184353,23.127752415028;113.27666172829,23.127782741821;113.27719065057,23.128087172582;113.27736034048,23.128178568143;113.27765983554,23.128310925422;113.27786950005,23.128402570089;113.27834865621,23.128576138102;113.27848843254,23.128627153262;113.27855832071,23.128647675642;113.27853837833,23.128727521794",
+            "pois": [],
+            "turn": 7,
+            "type": 3,
+            "stepOriginLocation": {
+              "lng": 113.27628255353,
+              "lat": 23.127579427548
+            },
+            "stepDestinationLocation": {
+              "lng": 113.27853837833,
+              "lat": 23.128727604881
+            },
+            "stepOriginInstruction": "从起点向东北方向出发 - 400米",
+            "stepDestinationInstruction": "左转进入文德路 - 400米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 11,
+            "distance": 398,
+            "duration": 97,
+            "instructions": "沿文德路\u003c/b\u003e行驶400米,左转\u003c/b\u003e进入中山四路\u003c/b\u003e",
+            "path": "113.27824849514,23.129485434695;113.27794873059,23.130313135109;113.27791881702,23.130362903319;113.27785890004,23.130552421156;113.27776906949,23.130851694278;113.27773915592,23.130981473251;113.27749939818,23.131979487588;113.27750936937,23.132089574458;113.27742959984,23.132079022739",
+            "pois": [],
+            "turn": 7,
+            "type": 3,
+            "stepOriginLocation": {
+              "lng": 113.27853837833,
+              "lat": 23.128727604881
+            },
+            "stepDestinationLocation": {
+              "lng": 113.27742906086,
+              "lat": 23.132078939655
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "左转进入中山四路 - 230米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 9,
+            "distance": 225,
+            "duration": 42,
+            "instructions": "沿中山四路\u003c/b\u003e行驶180米,过左侧的广百黄金珠宝大厦\u003c/font\u003e\u003c/b\u003e朝中山五路/吉祥路方向\u003c/b\u003e,进入中山五路\u003c/b\u003e",
+            "path": "113.27737911507,23.132078524233;113.27593176523,23.13200599153;113.27530313104,23.131960045822;113.27524330389,23.131959547316",
+            "pois": [
+              {
+                "detail": {
+                  "instructions": "",
+                  "position": 0
+                },
+                "location": {
+                  "lng": 113.27574213294,
+                  "lat": 23.131754162331
+                },
+                "name": "广百黄金珠宝大厦",
+                "type": 106
+              }
+            ],
+            "turn": 1,
+            "type": 3,
+            "stepOriginLocation": {
+              "lng": 113.27742906086,
+              "lat": 23.132078939655
+            },
+            "stepDestinationLocation": {
+              "lng": 113.2752430344,
+              "lat": 23.131959381147
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "进入中山五路 - 230米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 9,
+            "distance": 227,
+            "duration": 42,
+            "instructions": "沿中山五路\u003c/b\u003e行驶230米,到达终点\u003c/b\u003e",
+            "path": "113.27487383083,23.131935618984;113.27462446122,23.13192315631;113.27437509161,23.13191061055;113.27397606431,23.131896403098;113.27302835199,23.131845887703",
+            "pois": [],
+            "turn": 0,
+            "type": 3,
+            "stepOriginLocation": {
+              "lng": 113.2752430344,
+              "lat": 23.131959381147
+            },
+            "stepDestinationLocation": {
+              "lng": 113.27302790284,
+              "lat": 23.131845638449
+            },
+            "stepDestinationInstruction": "到达终点",
+            "traffic_condition": 1
+          }
+        ],
+        "toll": 0,
+        "originLocation": {
+          "lng": 113.27628255353,
+          "lat": 23.127579427548
+        },
+        "destinationLocation": {
+          "lng": 113.27302790284,
+          "lat": 23.131845638449
+        }
+      }
+    ],
+    "origin": {
+      "area_id": 257,
+      "bid": "13334816336785106583",
+      "bus_stop": 1,
+      "cname": "广州市",
+      "uid": "d1fc09f4e31045fd81a12ece",
+      "wd": "北京路口",
+      "originPt": {
+        "lng": 113.27627087556,
+        "lat": 23.127617896925
+      }
+    },
+    "destination": {
+      "area_id": 257,
+      "bid": "1265566479462432767",
+      "cname": "广州市",
+      "uid": "b7021bf864e3c2e3f4e73b36",
+      "wd": "五月花商业广场",
+      "destinationPt": {
+        "lng": 113.27302799267,
+        "lat": 23.131838659347
+      }
+    },
+    "taxi": {
+      "detail": [
+        {
+          "desc": "全天",
+          "km_price": "2.6",
+          "start_price": "10.0",
+          "total_price": "10"
+        }
+      ],
+      "distance": 1121,
+      "duration": 277,
+      "remark": "全程1.1公里;2.5公里起步；燃油附加费0.0元；里程超过35.0公里，超过部分每公里收3.9元。"
+    },
+    "traffic_condition": 1
+  }
+}

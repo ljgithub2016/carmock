@@ -1,0 +1,101 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 1,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "originInfo": {
+      "area_id": 257,
+      "wd": "广东省广州市海珠区新港西路32号",
+      "uid": ""
+    },
+    "destinationInfo": {
+      "area_id": 257,
+      "wd": "中国银行24小时自助银行(广东省分行)",
+      "uid": ""
+    },
+    "origin": {
+      "cityName": "海珠区",
+      "listType": 0,
+      "content": [
+        {
+          "name": "安文印章",
+          "address": "新港西路32号",
+          "uid": "4a902956fc04d17edc1e52ac",
+          "telephone": "(020)84017179",
+          "location": {
+            "lng": 113.29003884479,
+            "lat": 23.100457069961
+          }
+        },
+        {
+          "name": "颖新制衣厂",
+          "address": "广东省广州市海珠区新港西路32号之一",
+          "uid": "045fbc1c1f91a10f16764331",
+          "location": {
+            "lng": 113.3260014279,
+            "lat": 23.095027595225
+          }
+        },
+        {
+          "name": "华兴配料",
+          "address": "广东省广州市海珠区新港西路32号之一",
+          "uid": "14d5935b894ac6a1c0f1cfb5",
+          "location": {
+            "lng": 113.32641204335,
+            "lat": 23.095492996968
+          }
+        },
+        {
+          "name": "嘉隆茗茶",
+          "address": "广东省广州市海珠区新港西路32号之一",
+          "uid": "04c699d049979e26095cb317",
+          "location": {
+            "lng": 113.32633380094,
+            "lat": 23.095787279622
+          }
+        },
+        {
+          "name": "昌盛珠片绣花厂",
+          "address": "广东省广州市海珠区新港西路32号之一",
+          "uid": "6341c26a7bed3a51260bd089",
+          "location": {
+            "lng": 113.32646890609,
+            "lat": 23.095069315234
+          }
+        },
+        {
+          "name": "花之缘(新港西路店)",
+          "address": "新港西路167号海康街之32号",
+          "uid": "0bf17585c265887341d63e7f",
+          "telephone": "13926459313",
+          "location": {
+            "lng": 113.31159709905,
+            "lat": 23.101517059833
+          }
+        }
+      ]
+    },
+    "destination": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "中国银行24小时自助银行(广东省分行)",
+          "address": "东风西路197号",
+          "uid": "090d91d8a542e04a71455bdc",
+          "telephone": "95566",
+          "location": {
+            "lng": 113.26343804237,
+            "lat": 23.138934970299
+          }
+        }
+      ]
+    }
+  }
+}

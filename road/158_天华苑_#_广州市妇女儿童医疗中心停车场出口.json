@@ -1,0 +1,125 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 1,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "originInfo": {
+      "area_id": 257,
+      "wd": "天华苑",
+      "uid": ""
+    },
+    "destinationInfo": {
+      "area_id": 257,
+      "wd": "广州市妇女儿童医疗中心停车场出口",
+      "uid": ""
+    },
+    "origin": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "天华苑",
+          "address": "广州市天河区五山路",
+          "uid": "925c550fd677b9cf5a3ac812",
+          "location": {
+            "lng": 113.35557113002,
+            "lat": 23.147993964614
+          }
+        },
+        {
+          "name": "天华苑-正门",
+          "address": "广州市天河区",
+          "uid": "bf3788a01a02cf82b817e774",
+          "location": {
+            "lng": 113.35547923337,
+            "lat": 23.148007256521
+          }
+        },
+        {
+          "name": "天华苑(西门)",
+          "address": "天华街2号附近",
+          "uid": "33a1d9782d95b8de40afe68a",
+          "location": {
+            "lng": 113.35540647062,
+            "lat": 23.148085678749
+          }
+        },
+        {
+          "name": "天华苑(东门)",
+          "address": "广东省广州市天河区天华街6附近",
+          "uid": "17d56a2472e876a2da2f2833",
+          "location": {
+            "lng": 113.35545623675,
+            "lat": 23.147783038477
+          }
+        },
+        {
+          "name": "益佳便利店",
+          "address": "广东省广州市天河区五山路天华街天华苑26栋101房",
+          "uid": "bb95b00faac10067734b87f7",
+          "location": {
+            "lng": 113.35616508963,
+            "lat": 23.147958990276
+          }
+        }
+      ]
+    },
+    "destination": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "广州市妇女儿童医疗中心停车场出口",
+          "address": "金穗路9号",
+          "uid": "fae3cdd699c5eb859e82ea5b",
+          "location": {
+            "lng": 113.32617453137,
+            "lat": 23.131552349671
+          }
+        },
+        {
+          "name": "广州市妇女儿童医疗中心西停车场-出口",
+          "address": "广州市天河区华强路",
+          "uid": "fab76bbcf36d3adccf04eff6",
+          "location": {
+            "lng": 113.32621558393,
+            "lat": 23.131567720346
+          }
+        },
+        {
+          "name": "广州紫荆妇女儿童医院停车场-出入口",
+          "address": "广州市海珠区",
+          "uid": "2a21d9e68bc0807cb0077ded",
+          "location": {
+            "lng": 113.31417811044,
+            "lat": 23.07669944335
+          }
+        },
+        {
+          "name": "广州市妇女儿童医疗中心停车场-入口",
+          "address": "金穗路9号",
+          "uid": "fa5ba35ed258c339a8f729c4",
+          "location": {
+            "lng": 113.32606152454,
+            "lat": 23.130197230774
+          }
+        },
+        {
+          "name": "广州市妇女儿童医疗中心南停车场-入口",
+          "address": "广州市天河区金穗路",
+          "uid": "a1e8e4fba2ffab516c4760dd",
+          "location": {
+            "lng": 113.32614371949,
+            "lat": 23.130292945329
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 1,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "originInfo": {
+      "area_id": 257,
+      "wd": "广东省广州市海珠区东晓路71号",
+      "uid": ""
+    },
+    "destinationInfo": {
+      "area_id": 257,
+      "wd": "中海名都花园-南门",
+      "uid": ""
+    },
+    "origin": {
+      "cityName": "海珠区",
+      "listType": 0,
+      "content": [
+        {
+          "name": "江南新苑-西门",
+          "address": "东晓南路71号附近",
+          "uid": "5191d1798e4ca900f32d83f5",
+          "location": {
+            "lng": 113.29191055415,
+            "lat": 23.098296675541
+          }
+        },
+        {
+          "name": "大昌汽车美容服务部",
+          "address": "广东省广州市海珠区东晓南路71号",
+          "uid": "5dc42ce37df5fde24002456e",
+          "location": {
+            "lng": 113.29214662884,
+            "lat": 23.098489397181
+          }
+        },
+        {
+          "name": "亚美酒店批发部",
+          "address": "广东省广州市海珠区东晓南路71号",
+          "uid": "e7a17217f3419267373a71f7",
+          "location": {
+            "lng": 113.29150002853,
+            "lat": 23.09832858807
+          }
+        },
+        {
+          "name": "穗建业五金交电有限公司",
+          "address": "海珠区东晓南路71号",
+          "uid": "12db93db12cabfb8b75f1e6d",
+          "telephone": "(020)89108671",
+          "location": {
+            "lng": 113.29162147943,
+            "lat": 23.098059159654
+          }
+        },
+        {
+          "name": "七乐康平价药房(东晓南路)",
+          "address": "东晓南路71号",
+          "uid": "0a46dc0f1226d547306212c2",
+          "telephone": "(020)89884740",
+          "location": {
+            "lng": 113.29159515908,
+            "lat": 23.097960928677
+          }
+        }
+      ]
+    },
+    "destination": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "中海名都花园-南门",
+          "address": "江湾路156号",
+          "uid": "606ab0d064c292290f3ddab2",
+          "location": {
+            "lng": 113.28288482954,
+            "lat": 23.114352362741
+          }
+        },
+        {
+          "name": "中海名都花园停车场(出口)",
+          "address": "广东省广州市海珠区怡安路5-1附近",
+          "uid": "aa749f1f0d0515fec356ac22",
+          "location": {
+            "lng": 113.2818132409,
+            "lat": 23.115888041879
+          }
+        },
+        {
+          "name": "中海名都花园停车场(入口)",
+          "address": "广东省广州市海珠区怡安路175附近",
+          "uid": "2eb3cbd107593c824e554795",
+          "location": {
+            "lng": 113.28185348498,
+            "lat": 23.115618316718
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,422 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 1,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "originInfo": {
+      "area_id": 257,
+      "wd": "太古汇二座",
+      "uid": ""
+    },
+    "destinationInfo": {
+      "area_id": 257,
+      "wd": "海晏楼",
+      "uid": ""
+    },
+    "origin": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "太古汇-二座",
+          "address": "广州市天河区天河路385号",
+          "uid": "810ced82d8143cbd0e3dda96",
+          "location": {
+            "lng": 113.33799147086,
+            "lat": 23.139905674694
+          }
+        },
+        {
+          "name": "太古汇二座-西门",
+          "address": "广州市天河区天河路383号太古汇",
+          "uid": "9bdd9fd848dbfa9e270bd0a2",
+          "location": {
+            "lng": 113.33766089443,
+            "lat": 23.139640235436
+          }
+        },
+        {
+          "name": "太古汇二座-南门",
+          "address": "广州市天河区",
+          "uid": "f45ad09d41f09135b21e3676",
+          "location": {
+            "lng": 113.33783112333,
+            "lat": 23.139473826766
+          }
+        },
+        {
+          "name": "汇丰软件",
+          "address": "天河路383号太古汇二座",
+          "uid": "e9694716fd48f27696ca07d8",
+          "location": {
+            "lng": 113.33785411995,
+            "lat": 23.139488365724
+          }
+        },
+        {
+          "name": "aojo眼镜(广州太古汇店)",
+          "address": "天河路383号太古汇二座B2层",
+          "uid": "a203c03b5fd56c9fabf0cd49",
+          "telephone": "(020)38682869",
+          "location": {
+            "lng": 113.33784316062,
+            "lat": 23.139498750694
+          }
+        },
+        {
+          "name": "汇丰银行ATM(天河城支行)",
+          "address": "广州市天河区天河路383号太古汇2座首层",
+          "uid": "0810d6f3325b147188f15d78",
+          "location": {
+            "lng": 113.329694811,
+            "lat": 23.139029764665
+          }
+        },
+        {
+          "name": "汇丰银行ATM(文华街)",
+          "address": "天河路383号太古汇二座1层",
+          "uid": "bedee7e115cec1e5fd0eb00f",
+          "location": {
+            "lng": 113.3378481013,
+            "lat": 23.139485707172
+          }
+        },
+        {
+          "name": "cavin klein jeans",
+          "address": "天河路383号太古汇二座B1层",
+          "uid": "e86b2604eedd30e02cb17e6a",
+          "location": {
+            "lng": 113.33784307079,
+            "lat": 23.139501741565
+          }
+        },
+        {
+          "name": "broadcast",
+          "address": "天河路383号太古汇二座B2层",
+          "uid": "3cfc45ddcb48eb4bf6c59c0d",
+          "location": {
+            "lng": 113.33885501195,
+            "lat": 23.139502987761
+          }
+        },
+        {
+          "name": "ammy",
+          "address": "天河路383号太古汇二座2层",
+          "uid": "ec222544378b0e7325e0a01f",
+          "location": {
+            "lng": 113.33784307079,
+            "lat": 23.139501741565
+          }
+        },
+        {
+          "name": "Ashworfh",
+          "address": "天河路383号太古汇二座B1层",
+          "uid": "9a77b783131a454e93114c6d",
+          "location": {
+            "lng": 113.33784307079,
+            "lat": 23.139501741565
+          }
+        },
+        {
+          "name": "toomeand",
+          "address": "天河路383号太古汇二座B2层",
+          "uid": "a6af05bf3a395669ae080f07",
+          "location": {
+            "lng": 113.33784316062,
+            "lat": 23.139501741565
+          }
+        },
+        {
+          "name": "um",
+          "address": "天河路383号太古汇二座B2层",
+          "uid": "26842ed05902262cfa42b2fd",
+          "telephone": "(020)38682862",
+          "location": {
+            "lng": 113.33888465603,
+            "lat": 23.139614065339
+          }
+        },
+        {
+          "name": "giordanoladien",
+          "address": "天河路383号太古汇二座B2层",
+          "uid": "09041e8d6d9fe65e260bd0a7",
+          "location": {
+            "lng": 113.33784307079,
+            "lat": 23.139501741565
+          }
+        },
+        {
+          "name": "ZUCZUG/",
+          "address": "天河路383号太古汇二座B1层",
+          "uid": "c11277aad67baf8ceb56fa26",
+          "location": {
+            "lng": 113.33885501195,
+            "lat": 23.139502987761
+          }
+        },
+        {
+          "name": "STEELASUNA",
+          "address": "天河路383号太古汇二座B1层",
+          "uid": "d925e9a9fe509cf9118824fd",
+          "location": {
+            "lng": 113.33784307079,
+            "lat": 23.139501741565
+          }
+        },
+        {
+          "name": "enorgie",
+          "address": "天河路383号太古汇二座B1层",
+          "uid": "6b0d12d892c01fce4c3a59bd",
+          "location": {
+            "lng": 113.33784307079,
+            "lat": 23.139501741565
+          }
+        },
+        {
+          "name": "devlnut",
+          "address": "天河路383号太古汇二座B2层",
+          "uid": "2faf52f99c32f2b9892fb5a5",
+          "location": {
+            "lng": 113.33784307079,
+            "lat": 23.139501741565
+          }
+        },
+        {
+          "name": "Y3",
+          "address": "天河路383号太古汇二座2层",
+          "uid": "3ebd7bf20233e9ef49fd3faa",
+          "location": {
+            "lng": 113.33784307079,
+            "lat": 23.139501741565
+          }
+        },
+        {
+          "name": "wielii",
+          "address": "天河路383号太古汇二座B1层",
+          "uid": "814368439eaa01049d9d6873",
+          "location": {
+            "lng": 113.33885456279,
+            "lat": 23.139503237
+          }
+        },
+        {
+          "name": "bang\u0026olufse",
+          "address": "天河路383号太古汇二座B2层",
+          "uid": "199b838583ef196fbe48422c",
+          "location": {
+            "lng": 113.33784307079,
+            "lat": 23.139501741565
+          }
+        },
+        {
+          "name": "M01MEN",
+          "address": "天河路383号太古汇二座B1层",
+          "uid": "1cd7f3c8aa9b9a7be215f9b7",
+          "location": {
+            "lng": 113.33797027085,
+            "lat": 23.139454718418
+          }
+        },
+        {
+          "name": "safvasoefennagamo",
+          "address": "天河路383号太古汇二座1层",
+          "uid": "9ceb1b1d1a6ccfbe16948e55",
+          "location": {
+            "lng": 113.33784307079,
+            "lat": 23.139501741565
+          }
+        },
+        {
+          "name": "alexandrezouari",
+          "address": "天河路383号太古汇二座B1层",
+          "uid": "bf75860a6c862319abf7297d",
+          "location": {
+            "lng": 113.33784307079,
+            "lat": 23.139501741565
+          }
+        },
+        {
+          "name": "shrtstop",
+          "address": "天河路383号太古汇二座B2层",
+          "uid": "8373212a6cdc5383e5e965e0",
+          "location": {
+            "lng": 113.33784307079,
+            "lat": 23.139501741565
+          }
+        },
+        {
+          "name": "软件开发有限公司",
+          "address": "广东省广州市天河区太古汇2座",
+          "uid": "41e4e703851e9d50b45f1e8f",
+          "location": {
+            "lng": 113.33811346075,
+            "lat": 23.139528659401
+          }
+        },
+        {
+          "name": "counufe",
+          "address": "天河路383号太古汇二座B1层",
+          "uid": "5fae67a58443207eb54f5456",
+          "location": {
+            "lng": 113.33784307079,
+            "lat": 23.139501741565
+          }
+        },
+        {
+          "name": "ad",
+          "address": "天河路383号太古汇二座1层",
+          "uid": "fb2d58b16e26f23ba5da3928",
+          "location": {
+            "lng": 113.33784316062,
+            "lat": 23.139501741565
+          }
+        },
+        {
+          "name": "edwin",
+          "address": "天河路383号太古汇二座B2层",
+          "uid": "30bdeb42690dc88e250bd0c6",
+          "location": {
+            "lng": 113.33784307079,
+            "lat": 23.139501741565
+          }
+        },
+        {
+          "name": "GSTARRAE",
+          "address": "天河路383号太古汇二座B1层",
+          "uid": "73ac5cf111db63520b69d9bb",
+          "location": {
+            "lng": 113.33784307079,
+            "lat": 23.139501741565
+          }
+        },
+        {
+          "name": "frmas prmce",
+          "address": "天河路383号太古汇二座B2层",
+          "uid": "2b9a579cf5eeffb4f50e77c9",
+          "location": {
+            "lng": 113.33784307079,
+            "lat": 23.139501741565
+          }
+        },
+        {
+          "name": "Aimer",
+          "address": "天河路383号太古汇二座B2层",
+          "uid": "135797224793164ff02d8356",
+          "telephone": "(020)34370267",
+          "location": {
+            "lng": 113.33888474586,
+            "lat": 23.139614065339
+          }
+        },
+        {
+          "name": "ENO",
+          "address": "天河路383号太古汇二座B2层",
+          "uid": "72f52364f7b5033d8f55ec89",
+          "location": {
+            "lng": 113.33885501195,
+            "lat": 23.139502987761
+          }
+        },
+        {
+          "name": "dunhill london",
+          "address": "天河路383号太古汇二座1层",
+          "uid": "6f614c4f7c8f458c260bd000",
+          "location": {
+            "lng": 113.33784307079,
+            "lat": 23.139501741565
+          }
+        },
+        {
+          "name": "汇丰银行写字楼",
+          "address": "广东省广州市天河区太古汇2座----",
+          "uid": "b26f62c9c28a05b9f1193796",
+          "location": {
+            "lng": 113.33811355058,
+            "lat": 23.139528659401
+          }
+        },
+        {
+          "name": "阿原（太古汇店）",
+          "address": "天河路383号太古汇二座地下一层U49铺",
+          "uid": "39339273c8667e2d4afc8d71",
+          "telephone": "(020)38088297",
+          "location": {
+            "lng": 113.33860833725,
+            "lat": 23.139803071476
+          }
+        },
+        {
+          "name": "C.P.U.(太古汇店)",
+          "address": "天河路383号太古汇二座B2层",
+          "uid": "019791ba69261a808c1a896f",
+          "telephone": "(020)38682957",
+          "location": {
+            "lng": 113.33888474586,
+            "lat": 23.139614065339
+          }
+        },
+        {
+          "name": "PRINCE太子(太古汇分店)",
+          "address": "天河路383号太古汇二座2层",
+          "uid": "e2f1e54fbb47b6aff7e73baa",
+          "telephone": "(020)38682729",
+          "location": {
+            "lng": 113.33784316062,
+            "lat": 23.139501741565
+          }
+        },
+        {
+          "name": "广天藏品(太古汇店)",
+          "address": "天河路383号太古汇二座B2层",
+          "uid": "dceb9b2861954a7ef8f0cbfb",
+          "location": {
+            "lng": 113.33888465603,
+            "lat": 23.139614065339
+          }
+        },
+        {
+          "name": "jessica（太古汇商场店）",
+          "address": "天河路383号太古汇二座B2层",
+          "uid": "fb76a40bc7c3794e28b97ce6",
+          "telephone": "(020)38330501",
+          "location": {
+            "lng": 113.33888474586,
+            "lat": 23.139614065339
+          }
+        }
+      ]
+    },
+    "destination": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "海晏楼",
+          "address": "海珠区滨江东路1040号江畔华庭2楼",
+          "uid": "dfebdd8a46f2571f45e2747d",
+          "telephone": "(020)89888989",
+          "location": {
+            "lng": 113.32126924431,
+            "lat": 23.110539720031
+          }
+        },
+        {
+          "name": "海晏楼",
+          "address": "东晓南路1245号颐景华苑二楼(地铁东晓南站A出口左转弯200米)",
+          "uid": "6d1167e89e698341902ca3d0",
+          "telephone": "(020)62369999",
+          "location": {
+            "lng": 113.30202098266,
+            "lat": 23.076593050908
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,284 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 2,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "routes": [
+      {
+        "distance": 1224,
+        "duration": 257,
+        "steps": [
+          {
+            "area": 0,
+            "direction": 6,
+            "distance": 102,
+            "duration": 37,
+            "instructions": "从起点\u003c/b\u003e向正南方向出发,沿天胜一横路\u003c/b\u003e行驶90米,过右侧的天胜村\u003c/font\u003e\u003c/b\u003e右转\u003c/b\u003e进入环市东路辅路\u003c/b\u003e",
+            "path": "113.29131497759,23.144395131589;113.29131497759,23.144385245463;113.29128488436,23.144095473655;113.29122469789,23.143535783597;113.2912147267,23.143495906524",
+            "pois": [
+              {
+                "detail": {
+                  "instructions": "",
+                  "position": 1
+                },
+                "location": {
+                  "lng": 113.29122460806,
+                  "lat": 23.143595433028
+                },
+                "name": "天胜村",
+                "type": 113
+              }
+            ],
+            "turn": 3,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.29131497759,
+              "lat": 23.144395131589
+            },
+            "stepDestinationLocation": {
+              "lng": 113.29121454704,
+              "lat": 23.143495491138
+            },
+            "stepOriginInstruction": "从起点向正南方向出发 - 350米",
+            "stepDestinationInstruction": "右转进入环市东路辅路 - 350米",
+            "traffic_condition": 0
+          },
+          {
+            "area": 0,
+            "direction": 10,
+            "distance": 349,
+            "duration": 61,
+            "instructions": "沿环市东路辅路\u003c/b\u003e行驶300米,过右侧的广东国际大厦\u003c/font\u003e\u003c/b\u003e朝麓湖路/恒福路/S41/机场高速方向\u003c/b\u003e,靠右\u003c/b\u003e进入环市中路\u003c/b\u003e",
+            "path": "113.29033393815,23.143829045864;113.28998386849,23.143960307518;113.28943365637,23.144141996695;113.28938371058,23.144162101289;113.28858358986,23.144494075881;113.28852367288,23.144514180422;113.28842378131,23.144554389494;113.28828382531,23.144604650817;113.28806392012,23.144695038074",
+            "pois": [
+              {
+                "detail": {
+                  "instructions": "",
+                  "position": 1
+                },
+                "location": {
+                  "lng": 113.28863335599,
+                  "lat": 23.144843994145
+                },
+                "name": "广东国际大厦",
+                "type": 106
+              }
+            ],
+            "turn": 10,
+            "type": 11,
+            "stepOriginLocation": {
+              "lng": 113.29121454704,
+              "lat": 23.143495491138
+            },
+            "stepDestinationLocation": {
+              "lng": 113.28806311165,
+              "lat": 23.144694954997
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "靠右进入环市中路 - 230米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 10,
+            "distance": 228,
+            "duration": 53,
+            "instructions": "沿环市中路\u003c/b\u003e行驶170米,过右侧的知足常乐(粤新沐足)\u003c/font\u003e\u003c/b\u003e约60米后,右转\u003c/b\u003e进入麓湖路\u003c/b\u003e",
+            "path": "113.28797310144,23.144725111762;113.28794318786,23.144735164015;113.28781329289,23.144795311365;113.28763336229,23.144865510931;113.28643349562,23.145366211375;113.28628356843,23.145416223162;113.28627368707,23.145506194485;113.28626380571,23.14555620622;113.28628383793,23.145686220025",
+            "pois": [
+              {
+                "detail": {
+                  "instructions": "",
+                  "position": 1
+                },
+                "location": {
+                  "lng": 113.28663318894,
+                  "lat": 23.145406254036
+                },
+                "name": "知足常乐(粤新沐足)",
+                "type": 113
+              }
+            ],
+            "turn": 3,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.28806311165,
+              "lat": 23.144694954997
+            },
+            "stepDestinationLocation": {
+              "lng": 113.28628329894,
+              "lat": 23.145686303101
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "右转进入麓湖路 - 120米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 2,
+            "distance": 119,
+            "duration": 17,
+            "instructions": "沿麓湖路\u003c/b\u003e行驶,过左侧的四省办大厦\u003c/font\u003e\u003c/b\u003e约150米后,朝广州血液中心方向\u003c/b\u003e,靠右\u003c/b\u003e",
+            "path": "113.28632327354,23.145706324385;113.28645334818,23.145776357317;113.286593394,23.145866328396;113.28672346864,23.145956299414;113.28683351107,23.146056239448;113.28711369256,23.146416122638",
+            "pois": [
+              {
+                "detail": {
+                  "instructions": "",
+                  "position": 0
+                },
+                "location": {
+                  "lng": 113.28591337673,
+                  "lat": 23.145906204755
+                },
+                "name": "四省办大厦",
+                "type": 106
+              }
+            ],
+            "turn": 10,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.28628329894,
+              "lat": 23.145686303101
+            },
+            "stepDestinationLocation": {
+              "lng": 113.28711369256,
+              "lat": 23.146416205713
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "靠右 - 70米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 1,
+            "distance": 69,
+            "duration": 10,
+            "instructions": "继续沿麓湖路\u003c/b\u003e行驶70米,进入麓湖路辅路\u003c/b\u003e",
+            "path": "113.2875340097,23.146895882295",
+            "pois": [],
+            "turn": 1,
+            "type": 11,
+            "stepOriginLocation": {
+              "lng": 113.28711369256,
+              "lat": 23.146416205713
+            },
+            "stepDestinationLocation": {
+              "lng": 113.2875340097,
+              "lat": 23.146895882295
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "进入麓湖路辅路 - 160米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 1,
+            "distance": 163,
+            "duration": 35,
+            "instructions": "沿麓湖路辅路\u003c/b\u003e行驶90米,过右侧的广视宾馆-商务中心\u003c/font\u003e\u003c/b\u003e约70米后,右转\u003c/b\u003e进入麓苑路\u003c/b\u003e",
+            "path": "113.28781428102,23.147305608128;113.28794444549,23.147465444059;113.28807469979,23.14778528149;113.2882649609,23.148195004573",
+            "pois": [
+              {
+                "detail": {
+                  "instructions": "",
+                  "position": 1
+                },
+                "location": {
+                  "lng": 113.28827457277,
+                  "lat": 23.147504904563
+                },
+                "name": "广视宾馆-商务中心",
+                "type": 106
+              }
+            ],
+            "turn": 3,
+            "type": 11,
+            "stepOriginLocation": {
+              "lng": 113.2875340097,
+              "lat": 23.146895882295
+            },
+            "stepDestinationLocation": {
+              "lng": 113.2882649609,
+              "lat": 23.148195004573
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "右转进入麓苑路 - 190米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 3,
+            "distance": 194,
+            "duration": 41,
+            "instructions": "沿麓苑路\u003c/b\u003e行驶190米,到达终点\u003c/b\u003e",
+            "path": "113.28862509158,23.14813436032;113.2891053257,23.148083352666;113.28958555983,23.148012157912;113.28983564808,23.147871429778;113.29000560748,23.147680939805",
+            "pois": [],
+            "turn": 0,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.2882649609,
+              "lat": 23.148195004573
+            },
+            "stepDestinationLocation": {
+              "lng": 113.29000560748,
+              "lat": 23.147680524432
+            },
+            "stepDestinationInstruction": "到达终点",
+            "traffic_condition": 1
+          }
+        ],
+        "toll": 0,
+        "originLocation": {
+          "lng": 113.29131497759,
+          "lat": 23.144395131589
+        },
+        "destinationLocation": {
+          "lng": 113.29000560748,
+          "lat": 23.147680524432
+        }
+      }
+    ],
+    "origin": {
+      "area_id": 257,
+      "bid": "18011928856042143743",
+      "cname": "广州市",
+      "uid": "5211d219d8a3f7587dc87626",
+      "wd": "广州市第二十一中学",
+      "originPt": {
+        "lng": 113.29131749285,
+        "lat": 23.144400448496
+      }
+    },
+    "destination": {
+      "area_id": 257,
+      "bid": "17672523643910881279",
+      "cname": "广州市",
+      "uid": "b388f9fdc1ef0c3cb35c6a12",
+      "wd": "保利麓苑",
+      "destinationPt": {
+        "lng": 113.29005088208,
+        "lat": 23.147698551624
+      }
+    },
+    "taxi": {
+      "detail": [
+        {
+          "desc": "全天",
+          "km_price": "2.6",
+          "start_price": "10.0",
+          "total_price": "10"
+        }
+      ],
+      "distance": 1224,
+      "duration": 258,
+      "remark": "全程1.2公里;2.5公里起步；燃油附加费0.0元；里程超过35.0公里，超过部分每公里收3.9元。"
+    },
+    "traffic_condition": 1
+  }
+}

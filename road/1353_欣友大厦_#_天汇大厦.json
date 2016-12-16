@@ -1,0 +1,333 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 2,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "routes": [
+      {
+        "distance": 1860,
+        "duration": 456,
+        "steps": [
+          {
+            "area": 0,
+            "direction": 7,
+            "distance": 209,
+            "duration": 67,
+            "instructions": "从起点\u003c/b\u003e向正南方向出发,沿素社直街\u003c/b\u003e行驶100米,过左侧的骏和大厦\u003c/font\u003e\u003c/b\u003e约110米后,右转\u003c/b\u003e进入万寿北街\u003c/b\u003e",
+            "path": "113.28470578464,23.111457449975;113.28454633541,23.111047364081;113.2844766269,23.110857319793;113.28429732512,23.11031718369;113.28412808436,23.109737075067;113.284118203,23.109707159642;113.28409835045,23.109657217486",
+            "pois": [
+              {
+                "detail": {
+                  "instructions": "",
+                  "position": 0
+                },
+                "location": {
+                  "lng": 113.28478672196,
+                  "lat": 23.11048770074
+                },
+                "name": "骏和大厦",
+                "type": 106
+              }
+            ],
+            "turn": 3,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.28470578464,
+              "lat": 23.111457449975
+            },
+            "stepDestinationLocation": {
+              "lng": 113.28409781147,
+              "lat": 23.109656635797
+            },
+            "stepOriginInstruction": "从起点向正南方向出发 - 80米",
+            "stepDestinationInstruction": "右转进入万寿北街 - 80米",
+            "traffic_condition": 0
+          },
+          {
+            "area": 0,
+            "direction": 10,
+            "distance": 78,
+            "duration": 27,
+            "instructions": "沿万寿北街\u003c/b\u003e行驶80米,左转\u003c/b\u003e进入基立下道\u003c/b\u003e",
+            "path": "113.28338788062,23.109914822414",
+            "pois": [],
+            "turn": 7,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.28409781147,
+              "lat": 23.109656635797
+            },
+            "stepDestinationLocation": {
+              "lng": 113.28338788062,
+              "lat": 23.109914822414
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "左转进入基立下道 - 20米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 7,
+            "distance": 20,
+            "duration": 5,
+            "instructions": "沿基立下道\u003c/b\u003e行驶20米,进入基立北街\u003c/b\u003e",
+            "path": "113.28327810769,23.109764497535",
+            "pois": [],
+            "turn": 1,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.28338788062,
+              "lat": 23.109914822414
+            },
+            "stepDestinationLocation": {
+              "lng": 113.28327810769,
+              "lat": 23.109764497535
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "进入基立北街 - 70米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 7,
+            "distance": 74,
+            "duration": 24,
+            "instructions": "沿基立北街\u003c/b\u003e行驶70米,右转\u003c/b\u003e",
+            "path": "113.28283892613,23.109233248547",
+            "pois": [],
+            "turn": 3,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.28327810769,
+              "lat": 23.109764497535
+            },
+            "stepDestinationLocation": {
+              "lng": 113.28283892613,
+              "lat": 23.109233248547
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "右转 - 60米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 10,
+            "distance": 61,
+            "duration": 27,
+            "instructions": "继续沿基立北街\u003c/b\u003e行驶60米,左转\u003c/b\u003e进入基立南街\u003c/b\u003e",
+            "path": "113.28261893111,23.109372438813;113.28232913775,23.109511379637",
+            "pois": [],
+            "turn": 7,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.28283892613,
+              "lat": 23.109233248547
+            },
+            "stepDestinationLocation": {
+              "lng": 113.28232904792,
+              "lat": 23.109511379637
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "左转进入基立南街 - 130米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 7,
+            "distance": 127,
+            "duration": 43,
+            "instructions": "沿基立南街\u003c/b\u003e行驶130米,左转\u003c/b\u003e",
+            "path": "113.28210959188,23.109170592105;113.28192013925,23.108919966042;113.28177030189,23.108979298647;113.28150045092,23.109128045539",
+            "pois": [],
+            "turn": 7,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.28232904792,
+              "lat": 23.109511379637
+            },
+            "stepDestinationLocation": {
+              "lng": 113.2815000916,
+              "lat": 23.10912796244
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "左转 - 70米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 7,
+            "distance": 71,
+            "duration": 24,
+            "instructions": "继续沿基立南街\u003c/b\u003e行驶70米,右转\u003c/b\u003e进入前进路\u003c/b\u003e",
+            "path": "113.28113106769,23.108586323516",
+            "pois": [],
+            "turn": 3,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.2815000916,
+              "lat": 23.10912796244
+            },
+            "stepDestinationLocation": {
+              "lng": 113.28113106769,
+              "lat": 23.108586323516
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "右转进入前进路 - 140米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 10,
+            "distance": 139,
+            "duration": 42,
+            "instructions": "沿前进路\u003c/b\u003e行驶140米,朝南田路/江南大道方向\u003c/b\u003e,左转\u003c/b\u003e进入江湾路\u003c/b\u003e",
+            "path": "113.28063116068,23.108923705493;113.28015146553,23.109261003513;113.28010160958,23.109260837316;113.280071696,23.109270642961;113.28002184005,23.109290337348",
+            "pois": [],
+            "turn": 7,
+            "type": 3,
+            "stepOriginLocation": {
+              "lng": 113.28113106769,
+              "lat": 23.108586323516
+            },
+            "stepDestinationLocation": {
+              "lng": 113.28002148073,
+              "lat": 23.10929025425
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "左转进入江湾路 - 250米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 8,
+            "distance": 252,
+            "duration": 52,
+            "instructions": "沿江湾路\u003c/b\u003e行驶250米,左转\u003c/b\u003e进入江南大道中\u003c/b\u003e",
+            "path": "113.2796123924,23.108917888569;113.27941296857,23.108726760946;113.27926340071,23.108615906798;113.2791936922,23.10852557805;113.27866494958,23.108132102979;113.27840560878,23.10798036339;113.27832583925,23.107929838888;113.27828604431,23.107909645701;113.27823618836,23.107889369413;113.27826619176,23.10785970287;113.27828622397,23.10782995322;113.278296285,23.107790148512",
+            "pois": [],
+            "turn": 7,
+            "type": 3,
+            "stepOriginLocation": {
+              "lng": 113.28002148073,
+              "lat": 23.10929025425
+            },
+            "stepDestinationLocation": {
+              "lng": 113.27829538669,
+              "lat": 23.107789151316
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "左转进入江南大道中 - 630米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 0,
+            "distance": 625,
+            "duration": 93,
+            "instructions": "沿江南大道中\u003c/b\u003e行驶580米,过右侧的海洋石油大厦\u003c/font\u003e\u003c/b\u003e朝江南东路方向\u003c/b\u003e,左转\u003c/b\u003e进入江南东路\u003c/b\u003e",
+            "path": "113.27832539009,23.107749346595;113.27833536128,23.10772948578;113.27834533248,23.107699653002;113.27888566324,23.106603813136;113.27935610584,23.105567215254;113.27938610924,23.105497493493;113.27956630932,23.105098774066;113.27962640596,23.10496921908;113.27964643818,23.104919441345;113.27970644498,23.104809913642;113.27973644839,23.104740191483;113.27984658064,23.104520969487;113.27987658405,23.104471274685;113.27999677733,23.10418216359;113.28028710967,23.103544022787;113.28049740299,23.103055380537;113.28062756745,23.102766183256;113.28065757086,23.102696460024;113.28070742681,23.102756709541",
+            "pois": [
+              {
+                "detail": {
+                  "instructions": "",
+                  "position": 1
+                },
+                "location": {
+                  "lng": 113.28035762665,
+                  "lat": 23.102933469001
+                },
+                "name": "海洋石油大厦",
+                "type": 106
+              }
+            ],
+            "turn": 7,
+            "type": 3,
+            "stepOriginLocation": {
+              "lng": 113.27829538669,
+              "lat": 23.107789151316
+            },
+            "stepDestinationLocation": {
+              "lng": 113.28070742681,
+              "lat": 23.102755379897
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "左转进入江南东路 - 200米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 2,
+            "distance": 204,
+            "duration": 46,
+            "instructions": "沿江南东路\u003c/b\u003e行驶200米,到达终点\u003c/b\u003e",
+            "path": "113.28080731839,23.102785878608;113.28163618488,23.103129757322;113.28258524465,23.10332355228",
+            "pois": [],
+            "turn": 0,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.28070742681,
+              "lat": 23.102755379897
+            },
+            "stepDestinationLocation": {
+              "lng": 113.28258515482,
+              "lat": 23.10332355228
+            },
+            "stepDestinationInstruction": "到达终点",
+            "traffic_condition": 1
+          }
+        ],
+        "toll": 0,
+        "originLocation": {
+          "lng": 113.28470578464,
+          "lat": 23.111457449975
+        },
+        "destinationLocation": {
+          "lng": 113.28258515482,
+          "lat": 23.10332355228
+        }
+      }
+    ],
+    "origin": {
+      "area_id": 257,
+      "bid": "17231315218813865769",
+      "cname": "广州市",
+      "uid": "a2f9e262a089f9259e82eac1",
+      "wd": "欣友大厦",
+      "originPt": {
+        "lng": 113.2847059643,
+        "lat": 23.111456452807
+      }
+    },
+    "destination": {
+      "area_id": 257,
+      "bid": "18011735930406174719",
+      "cname": "广州市",
+      "uid": "dfc496b6a8c7f5af8936ee77",
+      "wd": "天汇大厦",
+      "destinationPt": {
+        "lng": 113.2825859633,
+        "lat": 23.103337596586
+      }
+    },
+    "taxi": {
+      "detail": [
+        {
+          "desc": "全天",
+          "km_price": "2.6",
+          "start_price": "10.0",
+          "total_price": "10"
+        }
+      ],
+      "distance": 1860,
+      "duration": 457,
+      "remark": "全程1.9公里;2.5公里起步；燃油附加费0.0元；里程超过35.0公里，超过部分每公里收3.9元。"
+    },
+    "traffic_condition": 1
+  }
+}

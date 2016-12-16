@@ -1,0 +1,258 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 2,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "routes": [
+      {
+        "distance": 1615,
+        "duration": 342,
+        "steps": [
+          {
+            "area": 0,
+            "direction": 9,
+            "distance": 159,
+            "duration": 43,
+            "instructions": "从起点\u003c/b\u003e向正西方向出发,沿新陶北街\u003c/b\u003e行驶70米,过左侧的惠万家百货(石牌店)\u003c/font\u003e\u003c/b\u003e约90米后,左转\u003c/b\u003e进入石牌东路\u003c/b\u003e",
+            "path": "113.35120770084,23.135606074845;113.35071821417,23.135594194091;113.35041853945,23.135593197105;113.35026870209,23.135592781694;113.3496592018,23.13561081053",
+            "pois": [
+              {
+                "detail": {
+                  "instructions": "",
+                  "position": 0
+                },
+                "location": {
+                  "lng": 113.35057825817,
+                  "lat": 23.135503551381
+                },
+                "name": "惠万家百货(石牌店)",
+                "type": 104
+              }
+            ],
+            "turn": 7,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.35120770084,
+              "lat": 23.135606074845
+            },
+            "stepDestinationLocation": {
+              "lng": 113.34965884248,
+              "lat": 23.135610478201
+            },
+            "stepOriginInstruction": "从起点向正西方向出发 - 440米",
+            "stepDestinationInstruction": "左转进入石牌东路 - 440米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 6,
+            "distance": 444,
+            "duration": 91,
+            "instructions": "沿石牌东路\u003c/b\u003e行驶360米,过右侧的麦当劳(黄埔大道西店)\u003c/font\u003e\u003c/b\u003e约80米后,左转\u003c/b\u003e进入黄埔大道西\u003c/b\u003e",
+            "path": "113.34969881708,23.13518061026;113.34977876627,23.134570949781;113.34981883069,23.133881194247;113.3498488341,23.133541383228;113.34988880869,23.133341567295;113.34989877988,23.133221677591;113.34992878329,23.132931881379;113.34998887993,23.132282163945;113.34996902737,23.132042216344;113.34996902737,23.131962289103;113.34996902737,23.131822374774;113.34995914601,23.131762387706;113.35011904439,23.131743028993",
+            "pois": [
+              {
+                "detail": {
+                  "instructions": "",
+                  "position": 1
+                },
+                "location": {
+                  "lng": 113.34985907478,
+                  "lat": 23.132331100574
+                },
+                "name": "麦当劳(黄埔大道西店)",
+                "type": 109
+              }
+            ],
+            "turn": 7,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.34965884248,
+              "lat": 23.135610478201
+            },
+            "stepDestinationLocation": {
+              "lng": 113.35011895456,
+              "lat": 23.131741948893
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "左转进入黄埔大道西 - 520米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 3,
+            "distance": 520,
+            "duration": 81,
+            "instructions": "沿黄埔大道西\u003c/b\u003e行驶520米,朝潭村路/平云路/华南快速(南行)/广交会展馆方向\u003c/b\u003e,靠右\u003c/b\u003e",
+            "path": "113.35045878354,23.131723171769;113.35115820421,23.131686032937;113.35232707934,23.131611672156;113.3525069201,23.131592728845;113.35256683708,23.131583174103;113.35384530548,23.131491033125;113.35445444644,23.131395319435;113.35499369924,23.131279416047;113.35514344677,23.131240615392",
+            "pois": [],
+            "turn": 10,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.35011895456,
+              "lat": 23.131741948893
+            },
+            "stepDestinationLocation": {
+              "lng": 113.35514335694,
+              "lat": 23.131239950712
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "靠右 - 130米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 4,
+            "distance": 134,
+            "duration": 36,
+            "instructions": "继续沿黄埔大道西\u003c/b\u003e行驶130米,右转\u003c/b\u003e进入潭村路\u003c/b\u003e",
+            "path": "113.35551283,23.131072866818;113.35639137278,23.130930375912",
+            "pois": [],
+            "turn": 3,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.35514335694,
+              "lat": 23.131239950712
+            },
+            "stepDestinationLocation": {
+              "lng": 113.35639137278,
+              "lat": 23.130930292827
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "右转进入潭村路 - 230米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 7,
+            "distance": 234,
+            "duration": 62,
+            "instructions": "沿潭村路\u003c/b\u003e行驶70米,过左侧的珠江商务大厦\u003c/font\u003e\u003c/b\u003e约170米后,调头\u003c/b\u003e",
+            "path": "113.35613212181,23.129998157574;113.35608235569,23.129837802065;113.35584313693,23.12895592639;113.3559130251,23.128926596902",
+            "pois": [
+              {
+                "detail": {
+                  "instructions": "",
+                  "position": 0
+                },
+                "location": {
+                  "lng": 113.35647141181,
+                  "lat": 23.130261040485
+                },
+                "name": "珠江商务大厦",
+                "type": 106
+              }
+            ],
+            "turn": 5,
+            "type": 3,
+            "stepOriginLocation": {
+              "lng": 113.35639137278,
+              "lat": 23.130930292827
+            },
+            "stepDestinationLocation": {
+              "lng": 113.35591284544,
+              "lat": 23.128926347643
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "调头 - 120米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 1,
+            "distance": 120,
+            "duration": 27,
+            "instructions": "继续沿潭村路\u003c/b\u003e行驶120米,右转\u003c/b\u003e",
+            "path": "113.35597267259,23.129126834919;113.35616212522,23.129818443071;113.35621198117,23.129978881689",
+            "pois": [],
+            "turn": 3,
+            "type": 3,
+            "stepOriginLocation": {
+              "lng": 113.35591284544,
+              "lat": 23.128926347643
+            },
+            "stepDestinationLocation": {
+              "lng": 113.35621198117,
+              "lat": 23.129978798603
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "右转 - 10米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 3,
+            "distance": 4,
+            "duration": 0,
+            "instructions": "行驶10米,到达终点\u003c/b\u003e",
+            "path": "113.35624189475,23.129969077574",
+            "pois": [],
+            "turn": 0,
+            "type": 21,
+            "stepOriginLocation": {
+              "lng": 113.35621198117,
+              "lat": 23.129978798603
+            },
+            "stepDestinationLocation": {
+              "lng": 113.35624189475,
+              "lat": 23.129969077574
+            },
+            "stepDestinationInstruction": "到达终点",
+            "traffic_condition": 0
+          }
+        ],
+        "toll": 0,
+        "originLocation": {
+          "lng": 113.35120770084,
+          "lat": 23.135606074845
+        },
+        "destinationLocation": {
+          "lng": 113.35624189475,
+          "lat": 23.129969077574
+        }
+      }
+    ],
+    "origin": {
+      "area_id": 257,
+      "bid": "14106746998194995321",
+      "cname": "广州市",
+      "uid": "fa210f87bc6c54fbaeb22ae6",
+      "wd": "暨南商业中心",
+      "originPt": {
+        "lng": 113.35120752118,
+        "lat": 23.135602336147
+      }
+    },
+    "destination": {
+      "area_id": 257,
+      "bid": "13249573045270289285",
+      "cname": "广州市",
+      "uid": "a8aa5a50c35f86f6acee7afb",
+      "wd": "跑马地花园-正门",
+      "destinationPt": {
+        "lng": 113.35624701509,
+        "lat": 23.129969243745
+      }
+    },
+    "taxi": {
+      "detail": [
+        {
+          "desc": "全天",
+          "km_price": "2.6",
+          "start_price": "10.0",
+          "total_price": "10"
+        }
+      ],
+      "distance": 1615,
+      "duration": 343,
+      "remark": "全程1.6公里;2.5公里起步；燃油附加费0.0元；里程超过35.0公里，超过部分每公里收3.9元。"
+    },
+    "traffic_condition": 1
+  }
+}

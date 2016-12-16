@@ -1,0 +1,83 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 1,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "originInfo": {
+      "area_id": 257,
+      "wd": "广东省广州市越秀区应元路29号",
+      "uid": ""
+    },
+    "destinationInfo": {
+      "area_id": 257,
+      "wd": "海校后门小区",
+      "uid": ""
+    },
+    "origin": {
+      "cityName": "越秀区",
+      "listType": 0,
+      "content": [
+        {
+          "name": "长明爱炖品皇(应元路店)",
+          "address": "广州越秀区应元路29号(体育场路口)",
+          "uid": "8eb48fa1c8ed20bff22d838e",
+          "telephone": "(020)83553137",
+          "location": {
+            "lng": 113.27363668449,
+            "lat": 23.141302565993
+          }
+        },
+        {
+          "name": "应元社区",
+          "address": "应元路29号附近",
+          "uid": "74c933fb2d26935e9e82ea3f",
+          "location": {
+            "lng": 113.27332640976,
+            "lat": 23.141460082965
+          }
+        }
+      ]
+    },
+    "destination": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "海校后门小区",
+          "address": "广东省广州市白云区金宝路",
+          "uid": "55fc18a62bc6331795ca07cf",
+          "location": {
+            "lng": 113.2418068457,
+            "lat": 23.217420655832
+          }
+        },
+        {
+          "name": "海校后门小区物业管理办公室",
+          "address": "石沙路与金宝路交汇处东北200米(海校后门小区内)",
+          "uid": "87eb112d523f510cb05c6ade",
+          "telephone": "(020)61605440",
+          "location": {
+            "lng": 113.24182876435,
+            "lat": 23.21638915973
+          }
+        },
+        {
+          "name": "海校后门小区居民自治委员会",
+          "address": "龙驹路1号",
+          "uid": "f9b2096f338b8785471a3246",
+          "telephone": "17051208532",
+          "location": {
+            "lng": 113.24219446453,
+            "lat": 23.217870599165
+          }
+        }
+      ]
+    }
+  }
+}

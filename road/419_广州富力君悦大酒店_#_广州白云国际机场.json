@@ -1,0 +1,82 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 1,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "originInfo": {
+      "area_id": 257,
+      "wd": "广州富力君悦大酒店",
+      "uid": ""
+    },
+    "destinationInfo": {
+      "area_id": 257,
+      "wd": "广州白云国际机场",
+      "uid": ""
+    },
+    "origin": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "广州富力君悦大酒店",
+          "address": "广州市天河区珠江西路12号",
+          "uid": "34059f976ed7604d70455be5",
+          "telephone": "020-83961234",
+          "location": {
+            "lng": 113.33006401457,
+            "lat": 23.128327044252
+          }
+        }
+      ]
+    },
+    "destination": {
+      "cityName": "广州市",
+      "listType": 0,
+      "content": [
+        {
+          "name": "广州白云国际机场",
+          "address": "广州市白云区机场大道东888号",
+          "uid": "f970cf4f14e8f37d2afc486c",
+          "telephone": "020-36066999",
+          "location": {
+            "lng": 113.30949308789,
+            "lat": 23.392434689955
+          }
+        },
+        {
+          "name": "机场南",
+          "address": "",
+          "uid": "941103624525bbe9c5f50dff",
+          "location": {
+            "lng": 113.30938978275,
+            "lat": 23.392343311634
+          }
+        },
+        {
+          "name": "白云机场",
+          "address": "",
+          "uid": "a8425fd583238c406c476065",
+          "location": {
+            "lng": 113.3096660117,
+            "lat": 23.393122015404
+          }
+        },
+        {
+          "name": "机场南",
+          "address": "",
+          "uid": "941103624525bbe9c5f50dff",
+          "location": {
+            "lng": 113.30938978275,
+            "lat": 23.392343311634
+          }
+        }
+      ]
+    }
+  }
+}

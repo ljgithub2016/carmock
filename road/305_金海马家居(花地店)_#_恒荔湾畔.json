@@ -1,0 +1,241 @@
+{
+  "status": 0,
+  "message": "ok",
+  "type": 2,
+  "info": {
+    "copyright": {
+      "text": "@2016 Baidu - Data",
+      "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+    }
+  },
+  "result": {
+    "routes": [
+      {
+        "distance": 2438,
+        "duration": 641,
+        "steps": [
+          {
+            "area": 0,
+            "direction": 9,
+            "distance": 1,
+            "duration": 22,
+            "instructions": "从起点\u003c/b\u003e向正西方向出发,行驶10米,左转\u003c/b\u003e进入喜鹊路\u003c/b\u003e",
+            "path": "113.23794098794,23.091001552764;113.23794098794,23.091001552764",
+            "pois": [],
+            "turn": 7,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.23794098794,
+              "lat": 23.091001552764
+            },
+            "stepDestinationLocation": {
+              "lng": 113.23794098794,
+              "lat": 23.091001552764
+            },
+            "stepOriginInstruction": "从起点向正西方向出发 - 400米",
+            "stepDestinationInstruction": "左转进入喜鹊路 - 400米",
+            "traffic_condition": 0
+          },
+          {
+            "area": 0,
+            "direction": 9,
+            "distance": 397,
+            "duration": 126,
+            "instructions": "沿喜鹊路\u003c/b\u003e行驶400米,右转\u003c/b\u003e进入东漖北路\u003c/b\u003e",
+            "path": "113.23596453616,23.091193287669;113.23593471241,23.091203011538;113.23542564268,23.091248805136;113.23410764884,23.091379038386",
+            "pois": [],
+            "turn": 3,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.23794098794,
+              "lat": 23.091001552764
+            },
+            "stepDestinationLocation": {
+              "lng": 113.23410728952,
+              "lat": 23.091379121496
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "右转进入东漖北路 - 1.4公里",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 1,
+            "distance": 1400,
+            "duration": 266,
+            "instructions": "沿东漖北路\u003c/b\u003e行驶1.4公里,左转\u003c/b\u003e进入涌岸街\u003c/b\u003e",
+            "path": "113.23453569141,23.092611967768;113.23487444242,23.093564311657;113.23547208508,23.095218659459;113.23550190882,23.095318887043;113.23574094792,23.096000698546;113.23584057,23.096271460847;113.2359202497,23.096482053365;113.23602975314,23.096802927907;113.23622890747,23.097364560372;113.23632843972,23.097655348429;113.23647773809,23.098096557215;113.23657727035,23.09837737101;113.23666674157,23.098738131512;113.23670653651,23.098908497223;113.23676609416,23.099239006079;113.23683562301,23.099559541541;113.23684550437,23.099629598838;113.23688502981,23.100059914383;113.23694431798,23.100650370195;113.23697405189,23.100890623877;113.23697405189,23.100940652435;113.2370134875,23.101420909004;113.23703316039,23.101671050602;113.23703316039,23.1017610516;113.23703280107,23.102220944945;113.23702265022,23.102450807917;113.23698195698,23.103310255894;113.23697180613,23.10354011698;113.23689194677,23.103599368888",
+            "pois": [],
+            "turn": 7,
+            "type": 3,
+            "stepOriginLocation": {
+              "lng": 113.23410728952,
+              "lat": 23.091379121496
+            },
+            "stepDestinationLocation": {
+              "lng": 113.23689158744,
+              "lat": 23.103599285786
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "左转进入涌岸街 - 110米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 9,
+            "distance": 114,
+            "duration": 36,
+            "instructions": "沿涌岸街\u003c/b\u003e行驶110米,右转\u003c/b\u003e进入合约街\u003c/b\u003e",
+            "path": "113.23670186532,23.103627540543;113.23587308866,23.103980308991",
+            "pois": [],
+            "turn": 3,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.23689158744,
+              "lat": 23.103599285786
+            },
+            "stepDestinationLocation": {
+              "lng": 113.23587299883,
+              "lat": 23.103980225889
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "右转进入合约街 - 130米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 11,
+            "distance": 134,
+            "duration": 44,
+            "instructions": "沿合约街\u003c/b\u003e行驶130米,右转\u003c/b\u003e进入花海街\u003c/b\u003e",
+            "path": "113.23569288857,23.104338727423;113.23547253423,23.105126779201",
+            "pois": [],
+            "turn": 3,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.23587299883,
+              "lat": 23.103980225889
+            },
+            "stepDestinationLocation": {
+              "lng": 113.2354724444,
+              "lat": 23.105126779201
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "右转进入花海街 - 230米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 2,
+            "distance": 233,
+            "duration": 78,
+            "instructions": "沿花海街\u003c/b\u003e行驶230米,左转\u003c/b\u003e",
+            "path": "113.2357617886,23.105289075901;113.2362107617,23.105512784085;113.23638036178,23.105634194647;113.23669952973,23.105886987534;113.23685906878,23.106078368548;113.23717805707,23.106471268003",
+            "pois": [],
+            "turn": 7,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.2354724444,
+              "lat": 23.105126779201
+            },
+            "stepDestinationLocation": {
+              "lng": 113.23717805707,
+              "lat": 23.106471351103
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "左转 - 80米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 11,
+            "distance": 79,
+            "duration": 34,
+            "instructions": "行驶80米,左转\u003c/b\u003e",
+            "path": "113.23713808247,23.106510990007;113.23712811128,23.106550878199;113.23712811128,23.106610876666;113.23716790622,23.106721233887;113.23723761473,23.10686183949;113.2372675283,23.106922087117;113.23731738425,23.10695258487;113.23736733004,23.106953083471;113.237487164,23.106904303682",
+            "pois": [],
+            "turn": 7,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.23717805707,
+              "lat": 23.106471351103
+            },
+            "stepDestinationLocation": {
+              "lng": 113.23748707417,
+              "lat": 23.106904220582
+            },
+            "stepOriginInstruction": "",
+            "stepDestinationInstruction": "左转 - 80米",
+            "traffic_condition": 1
+          },
+          {
+            "area": 0,
+            "direction": 1,
+            "distance": 80,
+            "duration": 32,
+            "instructions": "行驶80米,到达终点\u003c/b\u003e",
+            "path": "113.23776581837,23.107576748534",
+            "pois": [],
+            "turn": 0,
+            "type": 2,
+            "stepOriginLocation": {
+              "lng": 113.23748707417,
+              "lat": 23.106904220582
+            },
+            "stepDestinationLocation": {
+              "lng": 113.23776581837,
+              "lat": 23.107576748534
+            },
+            "stepDestinationInstruction": "到达终点",
+            "traffic_condition": 0
+          }
+        ],
+        "toll": 0,
+        "originLocation": {
+          "lng": 113.23794098794,
+          "lat": 23.091001552764
+        },
+        "destinationLocation": {
+          "lng": 113.23776581837,
+          "lat": 23.107576748534
+        }
+      }
+    ],
+    "origin": {
+      "area_id": 257,
+      "bid": "1265651927836786687",
+      "cname": "广州市",
+      "uid": "a1418eb407d97966ebe58240",
+      "wd": "金海马家居(花地店)",
+      "originPt": {
+        "lng": 113.23793119641,
+        "lat": 23.091004627839
+      }
+    },
+    "destination": {
+      "area_id": 257,
+      "bid": "4822935784604369119",
+      "cname": "广州市",
+      "uid": "141ba7f0a094302ddbd891bd",
+      "wd": "恒荔湾畔",
+      "destinationPt": {
+        "lng": 113.23776051836,
+        "lat": 23.107575751337
+      }
+    },
+    "taxi": {
+      "detail": [
+        {
+          "desc": "全天",
+          "km_price": "2.6",
+          "start_price": "10.0",
+          "total_price": "10"
+        }
+      ],
+      "distance": 2438,
+      "duration": 642,
+      "remark": "全程2.4公里;2.5公里起步；燃油附加费0.0元；里程超过35.0公里，超过部分每公里收3.9元。"
+    },
+    "traffic_condition": 1
+  }
+}
